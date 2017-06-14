@@ -1,0 +1,47 @@
+{
+  "name": "debugger-common-api",
+  "version": "0.0.1",
+  "repository": {},
+  "main": "build/index.js",
+  "author": "Daniel Lehmann <daniel.lehmann@stud.tu-darmstadt.de>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.3",
+    "tslint": "^4.3.1",
+    "typescript": "^2.1.5"
+  },
+  "dependencies": {
+    "ast-types": "^0.9.6",
+    "chrome-remote-interface": "^0.17.1",
+    "devtools-modules": "^0.0.14",
+    "devtools-sham-modules": "^0.0.12",
+    "escodegen": "^1.8.1",
+    "esmangle": "^1.0.1",
+    "esmorph": "^0.0.1",
+    "esprima": "^3.1.3",
+    "fs-extra": "^2.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "recast": "^0.12.0",
+    "seedrandom": "^2.4.2",
+    "set2": "^1.0.0",
+    "source-map": "^0.5.6",
+    "sprintf-js": "^1.0.3",
+    "uglify-js": "^2.8.16",
+    "uglify-js2": "^2.1.11",
+    "uglifyjs": "^2.4.10",
+    "winston": "^2.3.1",
+    "ws": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node build/index.js",
+    "build": "tsc",
+    "lint": "tslint src/*.ts",
+    "chrome": "chromium-browser --temp-profile --remote-debugging-port=9222 --no-first-run --no-default-browser-check about:blank",
+    "firefox": "/opt/firefox-dev-edition/firefox --start-debugger-server ws:6080 -new-instance -url about:blank -profile $(profiledir=$(mktemp -d); printf \"user_pref(\\\"devtools.debugger.remote-port\\\", 6080);\\nuser_pref(\\\"devtools.debugger.remote-enabled\\\", true);\\nuser_pref(\\\"devtools.chrome.enabled\\\", true);\\nuser_pref(\\\"devtools.debugger.prompt-connection\\\", false);\\nuser_pref(\\\"devtools.debugger.remote-websocket\\\", true);\\nuser_pref(\\\"browser.shell.checkDefaultBrowser\\\", false);\\nuser_pref(\\\"app.update.enabled\\\", false);\" > $profiledir/prefs.js; echo $profiledir)",
+    "setup-firefox-profile": "firefox -CreateProfile development"
+  }
+}
