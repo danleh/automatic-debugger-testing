@@ -1,0 +1,57 @@
+Breakpoint Set at 11
+Breakpoint Set at 6
+Breakpoint Set at 33
+Breakpoint Set at 31
+Breakpoint Set at 52
+Breakpoint Set at 17
+Breakpoint Set at 39
+Breakpoint Set at 38
+Breakpoint Set at 49
+Breakpoint Set at 17
+Paused at 11
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 31
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 33
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 34
+	Call Stack:  
+	Bindings: 
+Paused at 36
+	Call Stack:  
+	Bindings: 
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: bottomUpTree 
+	Bindings: depth: number = 7
+		item: number = 0
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 6
+		item: number = -1
+Paused at 18
+	Call Stack: bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 6
+		item: number = -1
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 5
+		item: number = -3
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 4
+		item: number = -7
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 3
+		item: number = -15

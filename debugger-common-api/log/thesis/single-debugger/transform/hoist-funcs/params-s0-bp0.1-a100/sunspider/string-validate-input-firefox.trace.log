@@ -1,0 +1,749 @@
+Breakpoint Set at 89
+Breakpoint Set at 12
+Breakpoint Set at 56
+Breakpoint Set at 51
+Breakpoint Set at 86
+Breakpoint Set at 33
+Breakpoint Set at 64
+Breakpoint Set at 64
+Paused at 89
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: undefined
+		pattern: undefined
+		r: undefined
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ebrmzc(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 0
+		pattern: object
+		r: string = ebrmzc(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = hnxbjp@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 1
+		pattern: object
+		r: string = hnxbjp@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = lgptzm(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 2
+		pattern: object
+		r: string = lgptzm(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = uyulyt@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 3
+		pattern: object
+		r: string = uyulyt@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = tlzvxl(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 4
+		pattern: object
+		r: string = tlzvxl(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = yytfcw@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 5
+		pattern: object
+		r: string = yytfcw@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = cnmude(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 6
+		pattern: object
+		r: string = cnmude(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = hyhkur@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 7
+		pattern: object
+		r: string = hyhkur@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = emrswv(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 8
+		pattern: object
+		r: string = emrswv(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = sujokn@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 9
+		pattern: object
+		r: string = sujokn@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = lmteiz(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 10
+		pattern: object
+		r: string = lmteiz(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = clmego@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 11
+		pattern: object
+		r: string = clmego@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = aeqbfm(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 12
+		pattern: object
+		r: string = aeqbfm(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = upnvvv@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 13
+		pattern: object
+		r: string = upnvvv@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = tqceij(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 14
+		pattern: object
+		r: string = tqceij(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = gktbjh@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 15
+		pattern: object
+		r: string = gktbjh@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = rsejar(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 16
+		pattern: object
+		r: string = rsejar(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = qpznxt@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 17
+		pattern: object
+		r: string = qpznxt@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ddhyem(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 18
+		pattern: object
+		r: string = ddhyem(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = irqgja@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 19
+		pattern: object
+		r: string = irqgja@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = rqwyjk(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 20
+		pattern: object
+		r: string = rqwyjk(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = cqfsls@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 21
+		pattern: object
+		r: string = cqfsls@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = mefrkv(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 22
+		pattern: object
+		r: string = mefrkv(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ajsbmf@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 23
+		pattern: object
+		r: string = ajsbmf@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ekmawx(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 24
+		pattern: object
+		r: string = ekmawx(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = jpkgkc@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 25
+		pattern: object
+		r: string = jpkgkc@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = pxmsag(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 26
+		pattern: object
+		r: string = pxmsag(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = bxydvl@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 27
+		pattern: object
+		r: string = bxydvl@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = vuoqzj(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 28
+		pattern: object
+		r: string = vuoqzj(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = opapqb@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 29
+		pattern: object
+		r: string = opapqb@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = erugxw(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 30
+		pattern: object
+		r: string = erugxw(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = vczsef@mac.com appears to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 31
+		pattern: object
+		r: string = vczsef@mac.com appears to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = qnvods(at)mac.com does NOT appear to be a valid email address.
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number = 32
+		pattern: object
+		r: string = qnvods(at)mac.com does NOT appear to be a valid email address.
+		s: undefined
+		zip: undefined
+		zipGood: undefined

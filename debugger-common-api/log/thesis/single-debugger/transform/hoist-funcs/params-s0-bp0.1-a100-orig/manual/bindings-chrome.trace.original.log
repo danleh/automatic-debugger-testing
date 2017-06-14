@@ -1,0 +1,24 @@
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: scriptConst: number = 3.14
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: undefined
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		secondBlock: undefined
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: undefined

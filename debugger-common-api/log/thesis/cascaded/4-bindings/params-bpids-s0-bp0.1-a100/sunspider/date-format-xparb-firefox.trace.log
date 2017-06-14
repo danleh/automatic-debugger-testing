@@ -1,0 +1,554 @@
+Breakpoint 0 Set at 14
+Breakpoint 1 Set at 265
+Breakpoint 2 Set at 221
+Breakpoint 3 Set at 398
+Breakpoint 4 Set at 91
+Breakpoint 5 Set at 300
+Breakpoint 6 Set at 291
+Breakpoint 7 Set at 376
+Breakpoint 8 Set at 61
+Breakpoint 9 Set at 313
+Breakpoint 10 Set at 45
+Breakpoint 11 Set at 154
+Breakpoint 12 Set at 335
+Breakpoint 13 Set at 398
+Breakpoint 13 Set at 411
+Breakpoint 14 Set at 376
+Breakpoint 14 Set at 411
+Breakpoint 14 Set at 23
+Breakpoint 15 Set at 63
+Breakpoint 16 Set at 285
+Breakpoint 17 Set at 73
+Breakpoint 18 Set at 384
+Breakpoint 19 Set at 168
+Breakpoint 20 Set at 26
+Breakpoint 21 Set at 168
+Breakpoint 21 Set at 168
+Breakpoint 21 Set at 77
+Breakpoint 22 Set at 341
+Breakpoint 23 Set at 376
+Breakpoint 23 Set at 103
+Breakpoint 24 Set at 345
+Breakpoint 25 Set at 304
+Breakpoint 26 Set at 312
+Breakpoint 27 Set at 234
+Breakpoint 28 Set at 27
+Breakpoint 29 Set at 411
+Breakpoint 29 Set at 331
+Breakpoint 30 Set at 99
+Breakpoint 31 Set at 384
+Breakpoint 31 Set at 317
+Breakpoint 32 Set at 376
+Breakpoint 32 Set at 77
+Paused at 14
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 26
+	Hit Breakpoint(s) 20
+	Call Stack:  
+	Bindings: 
+Paused at 285
+	Hit Breakpoint(s) 16
+	Call Stack:  
+	Bindings: 
+Paused at 291
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 
+Paused at 300
+	Hit Breakpoint(s) 5
+	Call Stack:  
+	Bindings: 
+Paused at 376
+	Hit Breakpoint(s) 32
+	Call Stack:  
+	Bindings: 
+Paused at 384
+	Hit Breakpoint(s) 31
+	Call Stack:  
+	Bindings: 
+Paused at 398
+	Hit Breakpoint(s) 13
+	Call Stack:  
+	Bindings: 
+Paused at 411
+	Hit Breakpoint(s) 29
+	Call Stack:  
+	Bindings: 
+Paused at 27
+	Hit Breakpoint(s) 28
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: undefined
+		format: string = Y-m-d
+		funcName: undefined
+		i: undefined
+		special: undefined
+Paused at 45
+	Hit Breakpoint(s) 10
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = d
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 5
+		special: boolean = false
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 27
+	Hit Breakpoint(s) 28
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: undefined
+		format: string = l, F d, Y g:i:s A
+		funcName: undefined
+		i: undefined
+		special: undefined
+Paused at 45
+	Hit Breakpoint(s) 10
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = A
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + ((this.getHours() %12) ? this.getHours() % 12 : 12) + ':' + String.leftPad(this.getMinutes(), 2, '0') + ':' + String.leftPad(this.getSeconds(), 2, '0') + ' ' + (this.getHours() < 12 ? 'AM' : 'PM') + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 17
+		special: boolean = false
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 23
+	Hit Breakpoint(s) 14
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: string = format1

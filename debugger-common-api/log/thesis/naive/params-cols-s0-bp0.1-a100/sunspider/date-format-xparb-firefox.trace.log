@@ -1,0 +1,481 @@
+Breakpoint Set at 18:1
+Breakpoint Set at 38:1
+Breakpoint Set at 251:1
+Breakpoint Set at 225:1
+Breakpoint Set at 398:1
+Breakpoint Set at 107:1
+Breakpoint Set at 285:1
+Breakpoint Set at 273:1
+Breakpoint Set at 376:1
+Breakpoint Set at 71:1
+Breakpoint Set at 300:1
+Breakpoint Set at 49:1
+Breakpoint Set at 168:1
+Breakpoint Set at 325:1
+Breakpoint Set at 398:1
+Breakpoint Set at 413:1
+Breakpoint Set at 376:1
+Breakpoint Set at 411:1
+Breakpoint Set at 24:1
+Breakpoint Set at 71:1
+Breakpoint Set at 266:1
+Breakpoint Set at 81:1
+Breakpoint Set at 185:1
+Breakpoint Set at 26:1
+Breakpoint Set at 181:1
+Breakpoint Set at 176:1
+Breakpoint Set at 87:1
+Breakpoint Set at 330:1
+Breakpoint Set at 360:1
+Breakpoint Set at 117:1
+Breakpoint Set at 338:1
+Breakpoint Set at 288:1
+Breakpoint Set at 298:1
+Breakpoint Set at 230:1
+Breakpoint Set at 175:1
+Breakpoint Set at 411:1
+Breakpoint Set at 321:1
+Breakpoint Set at 111:1
+Breakpoint Set at 384:1
+Breakpoint Set at 304:1
+Breakpoint Set at 376:1
+Breakpoint Set at 83:1
+Paused at 18:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 26:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 117:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 172:0
+	Call Stack:  
+	Bindings: 
+Paused at 279:0
+	Call Stack:  
+	Bindings: 
+Paused at 285:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 300:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 310:0
+	Call Stack:  
+	Bindings: 
+Paused at 315:0
+	Call Stack:  
+	Bindings: 
+Paused at 325:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 330:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 347:0
+	Call Stack:  
+	Bindings: 
+Paused at 376:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 377:0
+	Call Stack:  
+	Bindings: 
+Paused at 384:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 398:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 411:4
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 413:5
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = Y
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = Y
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+Paused at 105:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+Paused at 42:20
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = -
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 1
+		special: boolean = false
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = m
+Paused at 69:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = m
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = m
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = m
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = m
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+Paused at 42:20
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = -
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 3
+		special: boolean = false
+Paused at 32:39
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = -
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 3
+		special: boolean = false
+Paused at 33:8
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = -
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 4
+		special: boolean = false
+Paused at 34:12
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = d
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 4
+		special: boolean = false
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+Paused at 51:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+Paused at 42:20
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = d
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 4
+		special: boolean = false
+Paused at 46:0
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = d
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 5
+		special: boolean = false
+Paused at 360:0
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+Paused at 360:0
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+Paused at 360:0
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+Paused at 1:161
+	Call Stack: Date.format0, Date.dateFormat 
+	Bindings: ch: string = d
+		code: string = Date.prototype.format0 = function(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: number = 5
+		special: boolean = false
+Paused at 24:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 24:0
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = Y-m-d
+		func: string = format0
+Paused at 414:22
+	Call Stack:  
+	Bindings: 
+Paused at 415:8
+	Call Stack:  
+	Bindings: 
+Paused at 19:0
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = l, F d, Y g:i:s A
+		func: undefined
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = l
+Paused at 57:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = l
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = l
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = l
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 105:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 348:4
+	Call Stack: String.escape, Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: string: string = ,
+Paused at 349:0
+	Call Stack: String.escape, Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: string: string = ,
+Paused at 349:0
+	Call Stack: String.escape, Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: string: string = ,
+Paused at 105:21
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 105:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 32:39
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string =  
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 2
+		special: boolean = false
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = F
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = F
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = F
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 105:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+Paused at 32:39
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = ,
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 6
+		special: boolean = false
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 105:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 32:39
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string =  
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 7
+		special: boolean = false
+Paused at 33:8
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string =  
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 8
+		special: boolean = false
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = Y
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = Y
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = Y
+Paused at 32:39
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = Y
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 8
+		special: boolean = false
+Paused at 33:8
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = Y
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 9
+		special: boolean = false
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 105:8
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 107:0
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+Paused at 32:39
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string =  
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 9
+		special: boolean = false
+Paused at 33:8
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string =  
+		code: string = Date.prototype.format1 = function(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: number = 10
+		special: boolean = false
+Paused at 49:0
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = g

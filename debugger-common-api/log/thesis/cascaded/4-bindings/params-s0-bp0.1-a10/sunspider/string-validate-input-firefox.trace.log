@@ -1,0 +1,97 @@
+Breakpoint Set at 9
+Breakpoint Set at 54
+Breakpoint Set at 50
+Breakpoint Set at 86
+Breakpoint Set at 28
+Breakpoint Set at 64
+Breakpoint Set at 60
+Breakpoint Set at 79
+Breakpoint Set at 27
+Paused at 9
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: undefined
+		pattern: undefined
+		r: undefined
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number
+		tmp: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number
+		pattern: object
+		r: undefined
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number
+		pattern: object
+		r: string
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number
+		tmp: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number
+		pattern: object
+		r: string
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: number
+		pattern: object
+		r: string
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string

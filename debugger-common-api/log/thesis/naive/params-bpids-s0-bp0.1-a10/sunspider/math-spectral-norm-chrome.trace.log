@@ -1,0 +1,118 @@
+Breakpoint 0 Set at 49
+Breakpoint 1 Set at 7
+Breakpoint 2 Set at 38
+Breakpoint 3 Set at 34
+Breakpoint 4 Set at 57
+Breakpoint 5 Set at 20
+Paused at 49
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 34
+	Hit Breakpoint(s) 3
+	Call Stack: spectralnorm 
+	Bindings: i: undefined
+		n: number = 6
+		u: undefined
+		v: undefined
+		vBv: undefined
+		vv: undefined
+		w: undefined
+Paused at 38
+	Hit Breakpoint(s) 2
+	Call Stack: spectralnorm 
+	Bindings: i: number = 6
+		n: number = 6
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 38
+	Call Stack: spectralnorm 
+	Bindings: i: number = 0
+		n: number = 6
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 39
+	Call Stack: spectralnorm 
+	Bindings: i: number = 0
+		n: number = 6
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 7
+	Hit Breakpoint(s) 1
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number = 0
+		j: number = 0
+		n: number = 6
+		t: number = 0
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 7
+	Hit Breakpoint(s) 1
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number = 0
+		j: number = 1
+		n: number = 6
+		t: number = 1
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 8
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number = 0
+		j: number = 1
+		n: number = 6
+		t: number = 1
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 13
+	Call Stack: Au, AtAu, spectralnorm 
+	Bindings: i: number = 0
+		j: number = 1
+		n: number = 6
+		t: number = 1.5
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 7
+	Hit Breakpoint(s) 1
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number = 0
+		j: number = 2
+		n: number = 6
+		t: number = 1.5
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array
+Paused at 7
+	Hit Breakpoint(s) 1
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number = 0
+		j: number = 3
+		n: number = 6
+		t: number = 1.75
+		u: array
+		v: array
+		vBv: number = 0
+		vv: number = 0
+		w: array

@@ -1,0 +1,9 @@
+Breakpoint Set at 7
+Breakpoint Set at 7
+Breakpoint Set at 27
+Breakpoint Set at 26
+Paused at 26
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: undefined
+		isPrime: undefined

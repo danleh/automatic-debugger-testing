@@ -1,0 +1,67 @@
+Breakpoint Set at 4
+Breakpoint Set at 29
+Breakpoint Set at 14
+Paused at 4
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number
+		c: number
+		m: number

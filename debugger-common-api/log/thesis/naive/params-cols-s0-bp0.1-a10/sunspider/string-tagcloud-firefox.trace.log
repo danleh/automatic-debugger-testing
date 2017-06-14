@@ -1,0 +1,74 @@
+Breakpoint Set at 38:1
+Breakpoint Set at 38:1
+Breakpoint Set at 164:1
+Breakpoint Set at 146:1
+Breakpoint Set at 252:1
+Breakpoint Set at 72:1
+Breakpoint Set at 185:1
+Breakpoint Set at 177:1
+Breakpoint Set at 237:1
+Breakpoint Set at 51:1
+Breakpoint Set at 195:1
+Breakpoint Set at 38:1
+Breakpoint Set at 110:1
+Breakpoint Set at 211:1
+Breakpoint Set at 254:1
+Breakpoint Set at 268:1
+Breakpoint Set at 238:1
+Breakpoint Set at 261:1
+Breakpoint Set at 38:1
+Breakpoint Set at 177:1
+Breakpoint Set at 61:1
+Breakpoint Set at 244:1
+Breakpoint Set at 126:1
+Breakpoint Set at 38:1
+Breakpoint Set at 126:1
+Breakpoint Set at 119:1
+Breakpoint Set at 64:1
+Paused at 38:4
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 72:4
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 164:5
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 223:0
+	Call Stack:  
+	Bindings: 
+Paused at 164:5
+	Call Stack:  
+	Bindings: 
+Paused at 164:5
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 177:8
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: m: object
+		s: object
+Paused at 208:8
+	Call Stack:  
+	Bindings: m: object
+		s: object
+Paused at 223:4
+	Call Stack:  
+	Bindings: m: object
+		s: object
+Paused at 223:4
+	Call Stack:  
+	Bindings: m: object
+		s: object
+Paused at 195:0
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: filter: function
+		j: undefined
+		m: object
+		s: object
+		walk: function

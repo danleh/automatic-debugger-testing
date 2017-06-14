@@ -1,0 +1,569 @@
+Breakpoint Set at 89
+Breakpoint Set at 12
+Breakpoint Set at 56
+Breakpoint Set at 51
+Breakpoint Set at 86
+Breakpoint Set at 33
+Breakpoint Set at 64
+Breakpoint Set at 64
+Paused at 89
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: undefined
+		pattern: undefined
+		r: undefined
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string =  valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 86
+	Hit Breakpoint(s) 
+	Call Stack: addResult, doTest 
+	Bindings: r: string = ear to be a valid email address.
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined

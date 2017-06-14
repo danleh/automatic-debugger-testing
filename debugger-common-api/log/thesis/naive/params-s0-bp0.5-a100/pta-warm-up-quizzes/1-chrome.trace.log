@@ -1,0 +1,26 @@
+Breakpoint Set at 1
+Breakpoint Set at 2
+Breakpoint Set at 6
+Breakpoint Set at 3
+Paused at 1
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 2
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 3
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 4
+	Call Stack:  
+	Bindings: 
+Paused at 4
+	Call Stack:  
+	Bindings: 
+Paused at 6
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 

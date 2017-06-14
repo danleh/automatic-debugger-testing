@@ -1,0 +1,87 @@
+Breakpoint Set at 7
+Breakpoint Set at 7
+Breakpoint Set at 27
+Breakpoint Set at 26
+Breakpoint Set at 40
+Breakpoint Set at 15
+Breakpoint Set at 31
+Breakpoint Set at 39
+Paused at 26
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: undefined
+		isPrime: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: undefined
+Paused at 15
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 0
+		i: undefined
+		isPrime: array
+		j: undefined
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 17
+	Call Stack: primes, sieve 
+	Bindings: count: number = 0
+		i: number = 5000
+		isPrime: array
+		j: undefined
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 18
+	Call Stack: primes, sieve 
+	Bindings: count: number = 0
+		i: number = 2
+		isPrime: array
+		j: undefined
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 23
+	Call Stack: primes, sieve 
+	Bindings: count: number = 14683
+		i: number = 160000
+		isPrime: array
+		j: number = 319958
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 26
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: array
+Paused at 30
+	Call Stack: sieve 
+	Bindings: i: number = 5
+		isPrime: array
+Paused at 31
+	Call Stack: sieve 
+	Bindings: i: number = 5
+		isPrime: array
+Paused at 31
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: number = 5
+		isPrime: array
+Paused at 39
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 40
+	Call Stack:  
+	Bindings: 
+Paused at 40
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 41
+	Call Stack:  
+	Bindings: 

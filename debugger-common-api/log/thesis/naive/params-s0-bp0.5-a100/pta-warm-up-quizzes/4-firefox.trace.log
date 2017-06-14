@@ -1,0 +1,34 @@
+Breakpoint Set at 1
+Breakpoint Set at 2
+Breakpoint Set at 7
+Breakpoint Set at 3
+Breakpoint Set at 10
+Paused at 2
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 3
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 1
+	Hit Breakpoint(s) 
+	Call Stack: Person 
+	Bindings: name: string = Peter
+Paused at 1
+	Call Stack: Person 
+	Bindings: name: string = Peter
+Paused at 8
+	Call Stack:  
+	Bindings: 
+Paused at 10
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 10
+	Call Stack:  
+	Bindings: 

@@ -1,0 +1,1179 @@
+Breakpoint Set at 160
+Breakpoint Set at 40
+Breakpoint Set at 267
+Breakpoint Set at 239
+Breakpoint Set at 414
+Breakpoint Set at 113
+Breakpoint Set at 303
+Breakpoint Set at 290
+Breakpoint Set at 390
+Breakpoint Set at 76
+Breakpoint Set at 319
+Breakpoint Set at 53
+Breakpoint Set at 177
+Breakpoint Set at 345
+Breakpoint Set at 438
+Breakpoint Set at 441
+Breakpoint Set at 438
+Breakpoint Set at 160
+Breakpoint Set at 73
+Breakpoint Set at 283
+Breakpoint Set at 85
+Breakpoint Set at 399
+Breakpoint Set at 196
+Breakpoint Set at 27
+Breakpoint Set at 192
+Breakpoint Set at 186
+Breakpoint Set at 92
+Breakpoint Set at 351
+Breakpoint Set at 383
+Breakpoint Set at 160
+Breakpoint Set at 357
+Breakpoint Set at 306
+Breakpoint Set at 316
+Breakpoint Set at 244
+Breakpoint Set at 184
+Breakpoint Set at 438
+Breakpoint Set at 341
+Breakpoint Set at 116
+Breakpoint Set at 402
+Breakpoint Set at 321
+Breakpoint Set at 394
+Breakpoint Set at 160
+Breakpoint Set at 62
+Breakpoint Set at 255
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 244
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 283
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 305
+	Call Stack:  
+	Bindings: 
+Paused at 441
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 316
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: undefined
+		bbr: undefined
+		bfl: undefined
+		bfr: undefined
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: undefined
+		numTriangles: undefined
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: undefined
+		tbr: undefined
+		tfl: undefined
+		tfr: undefined
+		triangles: undefined
+		x: undefined
+		y: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = -10
+		y: number = 10
+		z: number = -10
+Paused at 28
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = -10
+		y: number = 10
+		z: number = -10
+Paused at 319
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: undefined
+		bbr: undefined
+		bfl: undefined
+		bfr: undefined
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: undefined
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: undefined
+		tbr: undefined
+		tfl: array
+		tfr: undefined
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = 10
+		y: number = 10
+		z: number = -10
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = -10
+		y: number = 10
+		z: number = 10
+Paused at 28
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = -10
+		y: number = 10
+		z: number = 10
+Paused at 321
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: undefined
+		bbr: undefined
+		bfl: undefined
+		bfr: undefined
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: undefined
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: undefined
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = 10
+		y: number = 10
+		z: number = 10
+Paused at 322
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: undefined
+		bbr: undefined
+		bfl: undefined
+		bfr: undefined
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: undefined
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = -10
+		y: number = -10
+		z: number = -10
+Paused at 323
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: undefined
+		bbr: undefined
+		bfl: array
+		bfr: undefined
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: undefined
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = 10
+		y: number = -10
+		z: number = -10
+Paused at 324
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: undefined
+		bbr: undefined
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: undefined
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = -10
+		y: number = -10
+		z: number = 10
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = 10
+		y: number = -10
+		z: number = 10
+Paused at 28
+	Call Stack: createVector, raytraceScene 
+	Bindings: x: number = 10
+		y: number = -10
+		z: number = 10
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 127
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: undefined
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 72
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 88
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 332
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 1
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 127
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: undefined
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 334
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 2
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 127
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: undefined
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 88
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 341
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 5
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 88
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 130
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 131
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 139
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 344
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 6
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 88
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 130
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 345
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 7
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 127
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: undefined
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 347
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 8
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 127
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: undefined
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 72
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 348
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 9
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 127
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: undefined
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 135
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 136
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 127
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: undefined
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 128
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: undefined
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cross, Triangle, raytraceScene 
+	Bindings: v1: array
+		v2: array
+Paused at 129
+	Call Stack: Triangle, raytraceScene 
+	Bindings: det: undefined
+		edge1: array
+		edge2: array
+		normal: array
+		p1: array
+		p2: array
+		p3: array
+		u: undefined
+		u1: undefined
+		u2: undefined
+		v: undefined
+		v1: undefined
+		v2: undefined
+Paused at 351
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+	Bindings: _camera: undefined
+		_scene: undefined
+		bbl: array
+		bbr: array
+		bfl: array
+		bfr: array
+		fbl: undefined
+		fbr: undefined
+		ffl: undefined
+		ffr: undefined
+		floorShader: undefined
+		green: undefined
+		grey: undefined
+		i: number = 11
+		numTriangles: number = 12
+		pixels: undefined
+		size: undefined
+		startDate: number = 1496937826775
+		tbl: array
+		tbr: array
+		tfl: array
+		tfr: array
+		triangles: array
+		x: undefined
+		y: undefined

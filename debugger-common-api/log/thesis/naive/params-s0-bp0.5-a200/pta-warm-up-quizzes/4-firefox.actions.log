@@ -1,0 +1,13 @@
+Set Breakpoint at 1
+Set Breakpoint at 2
+Set Breakpoint at 7
+Set Breakpoint at 3
+Set Breakpoint at 10
+resume
+resume
+stepOver
+stepOver
+stepOut
+resume
+stepOver
+stepOver

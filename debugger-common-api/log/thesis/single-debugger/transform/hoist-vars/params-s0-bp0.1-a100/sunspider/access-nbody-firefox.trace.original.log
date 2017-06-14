@@ -1,0 +1,314 @@
+Breakpoint Set at 14
+Breakpoint Set at 21
+Breakpoint Set at 79
+Breakpoint Set at 161
+Breakpoint Set at 45
+Breakpoint Set at 115
+Breakpoint Set at 111
+Breakpoint Set at 37
+Breakpoint Set at 32
+Breakpoint Set at 132
+Breakpoint Set at 165
+Paused at 132
+	Hit Breakpoint(s) 
+	Call Stack:  
+Paused at 161
+	Hit Breakpoint(s) 
+	Call Stack:  
+Paused at 79
+	Hit Breakpoint(s) 
+	Call Stack: Sun 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+Paused at 32
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+Paused at 37
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+Paused at 45
+	Hit Breakpoint(s) 
+	Call Stack: Saturn 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Uranus 
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: Body, Uranus 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Neptune 
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: Body, Neptune 
+Paused at 165
+	Hit Breakpoint(s) 
+	Call Stack:  
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 111
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+Paused at 115
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 

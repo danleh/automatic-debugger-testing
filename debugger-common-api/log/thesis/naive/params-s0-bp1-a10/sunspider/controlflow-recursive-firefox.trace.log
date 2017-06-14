@@ -1,0 +1,80 @@
+Breakpoint Set at 6
+Breakpoint Set at 6
+Breakpoint Set at 21
+Breakpoint Set at 19
+Breakpoint Set at 31
+Breakpoint Set at 12
+Breakpoint Set at 25
+Breakpoint Set at 24
+Breakpoint Set at 30
+Breakpoint Set at 13
+Breakpoint Set at 29
+Breakpoint Set at 14
+Breakpoint Set at 21
+Breakpoint Set at 32
+Breakpoint Set at 33
+Breakpoint Set at 6
+Breakpoint Set at 17
+Breakpoint Set at 6
+Breakpoint Set at 6
+Breakpoint Set at 29
+Breakpoint Set at 23
+Breakpoint Set at 17
+Breakpoint Set at 12
+Breakpoint Set at 7
+Breakpoint Set at 26
+Breakpoint Set at 8
+Breakpoint Set at 23
+Breakpoint Set at 18
+Breakpoint Set at 9
+Breakpoint Set at 12
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 23
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 24
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 6
+	Hit Breakpoint(s) 
+	Call Stack: ack 
+	Bindings: m: number = 3
+		n: number = 3
+Paused at 7
+	Call Stack: ack 
+	Bindings: m: number = 3
+		n: number = 3
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: ack 
+	Bindings: m: number = 3
+		n: number = 3
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: ack 
+	Bindings: m: number = 3
+		n: number = 3
+Paused at 6
+	Hit Breakpoint(s) 
+	Call Stack: ack, ack 
+	Bindings: m: number = 3
+		n: number = 2
+Paused at 7
+	Call Stack: ack, ack 
+	Bindings: m: number = 3
+		n: number = 2
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: ack, ack 
+	Bindings: m: number = 3
+		n: number = 2
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: ack, ack 
+	Bindings: m: number = 3
+		n: number = 2

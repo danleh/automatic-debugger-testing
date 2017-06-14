@@ -1,0 +1,86 @@
+Breakpoint Set at 9:1
+Breakpoint Set at 56:1
+Breakpoint Set at 51:1
+Breakpoint Set at 86:1
+Breakpoint Set at 27:1
+Breakpoint Set at 65:1
+Breakpoint Set at 64:1
+Breakpoint Set at 82:1
+Breakpoint Set at 22:1
+Paused at 9:3
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: undefined
+		pattern: undefined
+		r: undefined
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64:7
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 65:12
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: string = 
+Paused at 67:6
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 0
+		l: undefined
+		n: number = 6
+		tmp: string = 
+Paused at 68:6
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 0
+		l: number = 13
+		n: number = 6
+		tmp: string = 
+Paused at 65:20
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 0
+		l: number = 13
+		n: number = 6
+		tmp: string = n
+Paused at 65:20
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 1
+		l: number = 10
+		n: number = 6
+		tmp: string = nk
+Paused at 67:6
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 2
+		l: number = 10
+		n: number = 6
+		tmp: string = nk
+Paused at 68:6
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 2
+		l: number = 2
+		n: number = 6
+		tmp: string = nk
+Paused at 65:20
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 2
+		l: number = 2
+		n: number = 6
+		tmp: string = nkc
+Paused at 65:20
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 3
+		l: number = 2
+		n: number = 6
+		tmp: string = nkcc

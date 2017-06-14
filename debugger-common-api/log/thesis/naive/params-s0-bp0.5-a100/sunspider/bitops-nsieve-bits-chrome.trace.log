@@ -1,0 +1,964 @@
+Breakpoint Set at 33
+Breakpoint Set at 33
+Breakpoint Set at 27
+Breakpoint Set at 26
+Breakpoint Set at 40
+Breakpoint Set at 15
+Breakpoint Set at 31
+Breakpoint Set at 7
+Breakpoint Set at 39
+Breakpoint Set at 7
+Breakpoint Set at 35
+Breakpoint Set at 15
+Breakpoint Set at 33
+Breakpoint Set at 36
+Breakpoint Set at 41
+Breakpoint Set at 33
+Breakpoint Set at 33
+Breakpoint Set at 42
+Breakpoint Set at 19
+Breakpoint Set at 23
+Breakpoint Set at 33
+Paused at 33
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 26
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: undefined
+		isPrime: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: undefined
+Paused at 28
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: array
+Paused at 15
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 0
+		i: undefined
+		isPrime: array
+		j: undefined
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 0
+		i: number = 2
+		isPrime: array
+		j: undefined
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 1
+		i: number = 3
+		isPrime: array
+		j: number = 160000
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 1
+		i: number = 3
+		isPrime: array
+		j: number = 6
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 1
+		i: number = 3
+		isPrime: array
+		j: number = 6
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 2
+		i: number = 5
+		isPrime: array
+		j: number = 160002
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 3
+		i: number = 7
+		isPrime: array
+		j: number = 160000
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 3
+		i: number = 7
+		isPrime: array
+		j: number = 14
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 4
+		i: number = 11
+		isPrime: array
+		j: number = 160006
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 4
+		i: number = 11
+		isPrime: array
+		j: number = 22
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 5
+		i: number = 13
+		isPrime: array
+		j: number = 160006
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 6
+		i: number = 17
+		isPrime: array
+		j: number = 160004
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 7
+		i: number = 19
+		isPrime: array
+		j: number = 160004
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 8
+		i: number = 23
+		isPrime: array
+		j: number = 160018
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 9
+		i: number = 29
+		isPrime: array
+		j: number = 160011
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 10
+		i: number = 31
+		isPrime: array
+		j: number = 160022
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 11
+		i: number = 37
+		isPrime: array
+		j: number = 160022
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 11
+		i: number = 37
+		isPrime: array
+		j: number = 74
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 12
+		i: number = 41
+		isPrime: array
+		j: number = 160025
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 13
+		i: number = 43
+		isPrime: array
+		j: number = 160023
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 13
+		i: number = 43
+		isPrime: array
+		j: number = 86
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 14
+		i: number = 47
+		isPrime: array
+		j: number = 160003
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 14
+		i: number = 47
+		isPrime: array
+		j: number = 94
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 14
+		i: number = 47
+		isPrime: array
+		j: number = 94
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 15
+		i: number = 53
+		isPrime: array
+		j: number = 160035
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 16
+		i: number = 59
+		isPrime: array
+		j: number = 160007
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 17
+		i: number = 61
+		isPrime: array
+		j: number = 160008
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 18
+		i: number = 67
+		isPrime: array
+		j: number = 160003
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 19
+		i: number = 71
+		isPrime: array
+		j: number = 160063
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 19
+		i: number = 71
+		isPrime: array
+		j: number = 142
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 19
+		i: number = 71
+		isPrime: array
+		j: number = 142
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 19
+		i: number = 71
+		isPrime: array
+		j: number = 142
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 19
+		i: number = 71
+		isPrime: array
+		j: number = 213
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 20
+		i: number = 73
+		isPrime: array
+		j: number = 160034
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 20
+		i: number = 73
+		isPrime: array
+		j: number = 146
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 21
+		i: number = 79
+		isPrime: array
+		j: number = 160016
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 22
+		i: number = 83
+		isPrime: array
+		j: number = 160054
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 22
+		i: number = 83
+		isPrime: array
+		j: number = 166
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 23
+		i: number = 89
+		isPrime: array
+		j: number = 160024
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 24
+		i: number = 97
+		isPrime: array
+		j: number = 160022
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 25
+		i: number = 101
+		isPrime: array
+		j: number = 160050
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 25
+		i: number = 101
+		isPrime: array
+		j: number = 202
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 26
+		i: number = 103
+		isPrime: array
+		j: number = 160085
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 27
+		i: number = 107
+		isPrime: array
+		j: number = 160062
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 27
+		i: number = 107
+		isPrime: array
+		j: number = 214
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 27
+		i: number = 107
+		isPrime: array
+		j: number = 214
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 27
+		i: number = 107
+		isPrime: array
+		j: number = 214
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 27
+		i: number = 107
+		isPrime: array
+		j: number = 321
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 28
+		i: number = 109
+		isPrime: array
+		j: number = 160072
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 28
+		i: number = 109
+		isPrime: array
+		j: number = 218
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 29
+		i: number = 113
+		isPrime: array
+		j: number = 160012
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 30
+		i: number = 127
+		isPrime: array
+		j: number = 160008
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 160020
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 262
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 262
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 262
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 393
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 393
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 393
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 31
+		i: number = 131
+		isPrime: array
+		j: number = 524
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 32
+		i: number = 137
+		isPrime: array
+		j: number = 160082
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 32
+		i: number = 137
+		isPrime: array
+		j: number = 274
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 33
+		i: number = 139
+		isPrime: array
+		j: number = 160016
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 34
+		i: number = 149
+		isPrime: array
+		j: number = 160128
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 34
+		i: number = 149
+		isPrime: array
+		j: number = 298
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 35
+		i: number = 151
+		isPrime: array
+		j: number = 160026
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 36
+		i: number = 157
+		isPrime: array
+		j: number = 160060
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 36
+		i: number = 157
+		isPrime: array
+		j: number = 314
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 37
+		i: number = 163
+		isPrime: array
+		j: number = 160140
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 38
+		i: number = 167
+		isPrime: array
+		j: number = 160066
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 38
+		i: number = 167
+		isPrime: array
+		j: number = 334
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 39
+		i: number = 173
+		isPrime: array
+		j: number = 160153
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 40
+		i: number = 179
+		isPrime: array
+		j: number = 160025
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 41
+		i: number = 181
+		isPrime: array
+		j: number = 160026
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 42
+		i: number = 191
+		isPrime: array
+		j: number = 160004
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 42
+		i: number = 191
+		isPrime: array
+		j: number = 382
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 42
+		i: number = 191
+		isPrime: array
+		j: number = 382
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 42
+		i: number = 191
+		isPrime: array
+		j: number = 382
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 42
+		i: number = 191
+		isPrime: array
+		j: number = 573
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 43
+		i: number = 193
+		isPrime: array
+		j: number = 160058
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 43
+		i: number = 193
+		isPrime: array
+		j: number = 386
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 44
+		i: number = 197
+		isPrime: array
+		j: number = 160190
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 45
+		i: number = 199
+		isPrime: array
+		j: number = 160161
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 45
+		i: number = 199
+		isPrime: array
+		j: number = 398
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 45
+		i: number = 199
+		isPrime: array
+		j: number = 398
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 46
+		i: number = 211
+		isPrime: array
+		j: number = 160195
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 47
+		i: number = 223
+		isPrime: array
+		j: number = 160149
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 47
+		i: number = 223
+		isPrime: array
+		j: number = 446
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 47
+		i: number = 223
+		isPrime: array
+		j: number = 446
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 47
+		i: number = 223
+		isPrime: array
+		j: number = 446
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 48
+		i: number = 227
+		isPrime: array
+		j: number = 160114
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 48
+		i: number = 227
+		isPrime: array
+		j: number = 454
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 49
+		i: number = 229
+		isPrime: array
+		j: number = 160035
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 49
+		i: number = 229
+		isPrime: array
+		j: number = 458
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 20
+	Call Stack: primes, sieve 
+	Bindings: count: number = 49
+		i: number = 229
+		isPrime: array
+		j: number = 458
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Call Stack: primes, sieve 
+	Bindings: count: number = 49
+		i: number = 229
+		isPrime: array
+		j: number = 458
+		m: number = 160000
+		n: number = 4
+		size: number = 5000
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: primes, sieve 
+	Bindings: count: number = 50
+		i: number = 233
+		isPrime: array
+		j: number = 160071
+		m: number = 160000
+		n: number = 4
+		size: number = 5000

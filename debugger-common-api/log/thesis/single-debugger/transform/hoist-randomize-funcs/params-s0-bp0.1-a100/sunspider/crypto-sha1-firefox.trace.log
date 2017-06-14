@@ -1,0 +1,2677 @@
+Breakpoint Set at 14
+Breakpoint Set at 22
+Breakpoint Set at 140
+Breakpoint Set at 130
+Breakpoint Set at 220
+Breakpoint Set at 61
+Breakpoint Set at 161
+Breakpoint Set at 151
+Breakpoint Set at 197
+Breakpoint Set at 43
+Breakpoint Set at 165
+Breakpoint Set at 34
+Breakpoint Set at 101
+Breakpoint Set at 177
+Breakpoint Set at 220
+Breakpoint Set at 224
+Breakpoint Set at 201
+Breakpoint Set at 220
+Breakpoint Set at 24
+Breakpoint Set at 48
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 220
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 220
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 220
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 220
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 220
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 224
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 22
+	Hit Breakpoint(s) 
+	Call Stack: hex_sha1 
+	Bindings: s: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: undefined
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 0
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 8
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 16
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 24
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 32
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 40
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 48
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 56
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 64
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 72
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 80
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 88
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 96
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 104
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 112
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 120
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 128
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 136
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 144
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 152
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 160
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 168
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 176
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 184
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 192
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 200
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 208
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 216
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 224
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 232
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 240
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 248
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 256
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 264
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 272
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 280
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 288
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 296
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 304
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 312
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 320
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 328
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 336
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 344
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 352
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 360
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 368
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 376
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 384
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 392
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 400
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 408
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 416
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 424
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 432
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 440
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 448
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 456
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 464
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 472
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 480
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 488
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 496
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 504
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 512
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 520
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 528
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 536
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 544
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 552
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 560
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 568
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 576
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 584
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 592
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 600
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 608
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 616
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 624
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 632
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 640
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 648
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 656
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 664
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 672
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 680
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 688
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 696
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 704
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 712
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 720
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei
+Paused at 151
+	Hit Breakpoint(s) 
+	Call Stack: str2binb, hex_sha1 
+	Bindings: bin: array
+		i: number = 728
+		mask: number = 255
+		str: string = dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
+Which, but their children's end, nought could remove,
+Is now the two hours' traffic of our stage;
+The which if you with patient ears attend,
+What here shall miss, our toil shall strive to mend.Two households, both alike in dignity,
+In fair Verona, where we lay our scene,
+From ancient grudge break to new mutiny,
+Where civil blood makes civil hands unclean.
+From forth the fatal loins of these two foes
+A pair of star-cross'd lovers take their life;
+Whole misadventured piteous overthrows
+Do with their death bury their parents' strife.
+The fearful passage of thei

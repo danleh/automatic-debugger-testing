@@ -1,0 +1,643 @@
+Breakpoint Set at 6
+Breakpoint Set at 14
+Breakpoint Set at 110
+Breakpoint Set at 63
+Breakpoint Set at 130
+Breakpoint Set at 126
+Breakpoint Set at 157
+Breakpoint Set at 39
+Breakpoint Set at 134
+Breakpoint Set at 24
+Breakpoint Set at 95
+Breakpoint Set at 145
+Breakpoint Set at 167
+Breakpoint Set at 172
+Breakpoint Set at 159
+Breakpoint Set at 171
+Breakpoint Set at 21
+Paused at 6
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 95
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 157
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 159
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: bodies: undefined
+		i: undefined
+		max: undefined
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number
+		vx: number
+		vy: number
+		vz: number
+		x: number
+		y: number
+		z: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number
+		vx: number
+		vy: number
+		vz: number
+		x: number
+		y: number
+		z: number
+Paused at 39
+	Hit Breakpoint(s) 
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number
+		vx: number
+		vy: number
+		vz: number
+		x: number
+		y: number
+		z: number
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Uranus 
+	Bindings: mass: number
+		vx: number
+		vy: number
+		vz: number
+		x: number
+		y: number
+		z: number
+Paused at 63
+	Hit Breakpoint(s) 
+	Call Stack: Neptune 
+	Bindings: 
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Neptune 
+	Bindings: mass: number
+		vx: number
+		vy: number
+		vz: number
+		x: number
+		y: number
+		z: number
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: Body.offsetMomentum, NBodySystem 
+	Bindings: px: number
+		py: number
+		pz: number
+Paused at 24
+	Hit Breakpoint(s) 
+	Call Stack: Body.offsetMomentum, NBodySystem 
+	Bindings: px: number
+		py: number
+		pz: number
+Paused at 130
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: undefined
+		bodyj: undefined
+		distance: undefined
+		dx: undefined
+		dy: undefined
+		dz: undefined
+		e: undefined
+		i: undefined
+		j: undefined
+		size: undefined
+Paused at 134
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: undefined
+		bodyj: undefined
+		distance: undefined
+		dx: undefined
+		dy: undefined
+		dz: undefined
+		e: number
+		i: number
+		j: undefined
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: undefined
+		dx: number
+		dy: number
+		dz: undefined
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 134
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 134
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 134
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 145
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 134
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.energy 
+	Bindings: bodyi: object
+		bodyj: object
+		distance: number
+		dx: number
+		dy: number
+		dz: number
+		e: number
+		i: number
+		j: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 126
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: object
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 110
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: undefined
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number
+Paused at 126
+	Hit Breakpoint(s) 
+	Call Stack: NBodySystem.advance 
+	Bindings: body: object
+		bodyi: object
+		bodyj: object
+		distance: number
+		dt: number
+		dx: number
+		dy: number
+		dz: number
+		i: number
+		j: number
+		mag: number
+		size: number

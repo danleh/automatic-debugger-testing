@@ -1,0 +1,18 @@
+Set Breakpoint at 4
+Set Breakpoint at 8
+Set Breakpoint at 50
+Set Breakpoint at 45
+Set Breakpoint at 76
+Set Breakpoint at 24
+Set Breakpoint at 58
+Set Breakpoint at 72
+resume
+resume
+stepOver
+stepOver
+stepOut
+resume
+stepOver
+stepOver
+stepOut
+resume

@@ -1,0 +1,14 @@
+Breakpoint 0 Set at 7:1
+Breakpoint 1 Set at 10:1
+Breakpoint 2 Set at 31:1
+Breakpoint 3 Set at 28:1
+Paused at 31:8
+	Hit Breakpoint(s) 2
+Paused at 28:0
+	Hit Breakpoint(s) 3
+Paused at 28:0
+	Hit Breakpoint(s) 3
+Paused at 28:0
+Paused at 35:15
+Paused at 28:0
+	Hit Breakpoint(s) 3

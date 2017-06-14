@@ -1,0 +1,996 @@
+Breakpoint Set at 28
+Breakpoint Set at 28
+Breakpoint Set at 62
+Breakpoint Set at 61
+Breakpoint Set at 97
+Breakpoint Set at 28
+Breakpoint Set at 72
+Breakpoint Set at 69
+Breakpoint Set at 92
+Breakpoint Set at 28
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cordic 
+	Bindings: end: undefined
+		i: number = 0
+		runs: number = 25000
+		start: object
+Paused at 61
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: undefined
+		Y: undefined
+Paused at 62
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: number = 39796.92834816
+		Y: undefined
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: undefined
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 0
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: number = 39796.92834816
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 39796
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 59694.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59694.92834816
+		Y: number = 19898
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 54720.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 54720.92834816
+		Y: number = 34821
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 59072.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59072.92834816
+		Y: number = 27981
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 57324.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57324.92834816
+		Y: number = 31673
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 58313.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58313.92834816
+		Y: number = 29882
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 57847.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57847.92834816
+		Y: number = 30793
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 58087.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58087.92834816
+		Y: number = 30342
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 57969.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57969.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57910.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57910.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57881.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57881.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57866.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57866.92834816
+		Y: number = 30765
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cordic 
+	Bindings: end: undefined
+		i: number = 1
+		runs: number = 25000
+		start: object
+Paused at 61
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: undefined
+		Y: undefined
+Paused at 62
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: number = 39796.92834816
+		Y: undefined
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: undefined
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 0
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: number = 39796.92834816
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 39796
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 59694.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59694.92834816
+		Y: number = 19898
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 54720.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 54720.92834816
+		Y: number = 34821
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 59072.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59072.92834816
+		Y: number = 27981
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 57324.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57324.92834816
+		Y: number = 31673
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 58313.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58313.92834816
+		Y: number = 29882
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 57847.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57847.92834816
+		Y: number = 30793
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 58087.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58087.92834816
+		Y: number = 30342
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 57969.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57969.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57910.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57910.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57881.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57881.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57866.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57866.92834816
+		Y: number = 30765
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cordic 
+	Bindings: end: undefined
+		i: number = 2
+		runs: number = 25000
+		start: object
+Paused at 61
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: undefined
+		Y: undefined
+Paused at 62
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: number = 39796.92834816
+		Y: undefined
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: undefined
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 0
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: number = 39796.92834816
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 39796
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 59694.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59694.92834816
+		Y: number = 19898
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 54720.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 54720.92834816
+		Y: number = 34821
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 59072.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59072.92834816
+		Y: number = 27981
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 57324.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57324.92834816
+		Y: number = 31673
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 58313.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58313.92834816
+		Y: number = 29882
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 57847.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57847.92834816
+		Y: number = 30793
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 58087.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58087.92834816
+		Y: number = 30342
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 57969.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57969.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57910.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57910.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57881.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57881.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57866.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57866.92834816
+		Y: number = 30765
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cordic 
+	Bindings: end: undefined
+		i: number = 3
+		runs: number = 25000
+		start: object
+Paused at 61
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: undefined
+		Y: undefined
+Paused at 62
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: number = 39796.92834816
+		Y: undefined
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: undefined
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 0
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: number = 39796.92834816
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 39796
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 59694.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59694.92834816
+		Y: number = 19898
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 54720.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 54720.92834816
+		Y: number = 34821
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 59072.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59072.92834816
+		Y: number = 27981
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 57324.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57324.92834816
+		Y: number = 31673
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 58313.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58313.92834816
+		Y: number = 29882
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 57847.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57847.92834816
+		Y: number = 30793
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 58087.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58087.92834816
+		Y: number = 30342
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 57969.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57969.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57910.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57910.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57881.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57881.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57866.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57866.92834816
+		Y: number = 30765
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cordic 
+	Bindings: end: undefined
+		i: number = 4
+		runs: number = 25000
+		start: object
+Paused at 61
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: undefined
+		Y: undefined
+Paused at 62
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: number = 39796.92834816
+		Y: undefined
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: undefined
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 0
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: number = 39796.92834816
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 39796
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 59694.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59694.92834816
+		Y: number = 19898
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1208156.16
+		NewX: number = 54720.92834816
+		Step: number = 2
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 54720.92834816
+		Y: number = 34821
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 59072.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 59072.92834816
+		Y: number = 27981
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1661087.2524799998
+		NewX: number = 57324.92834816
+		Step: number = 4
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57324.92834816
+		Y: number = 31673
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 58313.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58313.92834816
+		Y: number = 29882
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1778162.0735999998
+		NewX: number = 57847.92834816
+		Step: number = 6
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57847.92834816
+		Y: number = 30793
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 58087.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 58087.92834816
+		Y: number = 30342
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1807493.3657599997
+		NewX: number = 57969.92834816
+		Step: number = 8
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57969.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57969.92834816
+		Y: number = 30568
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1822161.0434559998
+		NewX: number = 57910.92834816
+		Step: number = 9
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57910.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57910.92834816
+		Y: number = 30681
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1829494.915072
+		NewX: number = 57881.92834816
+		Step: number = 10
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57881.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57881.92834816
+		Y: number = 30737
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 1833161.8508799998
+		NewX: number = 57866.92834816
+		Step: number = 11
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 57866.92834816
+		Y: number = 30765
+Paused at 92
+	Hit Breakpoint(s) 
+	Call Stack: cordic 
+	Bindings: end: undefined
+		i: number = 5
+		runs: number = 25000
+		start: object
+Paused at 61
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: undefined
+		Y: undefined
+Paused at 62
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: undefined
+		NewX: undefined
+		Step: undefined
+		Target: number = 28.027
+		TargetAngle: undefined
+		X: number = 39796.92834816
+		Y: undefined
+Paused at 69
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: undefined
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 0
+Paused at 72
+	Hit Breakpoint(s) 
+	Call Stack: cordicsincos, cordic 
+	Bindings: CurrAngle: number = 0
+		NewX: number = 39796.92834816
+		Step: number = 0
+		Target: number = 28.027
+		TargetAngle: number = 1836777.472
+		X: number = 39796.92834816
+		Y: number = 39796

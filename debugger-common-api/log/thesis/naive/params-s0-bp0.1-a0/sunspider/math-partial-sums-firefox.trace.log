@@ -1,0 +1,13 @@
+Breakpoint Set at 6
+Breakpoint Set at 6
+Breakpoint Set at 31
+Breakpoint Set at 26
+Paused at 6
+	Hit Breakpoint(s) 
+	Call Stack: partial 
+	Bindings: a1: undefined
+		alt: undefined
+		k: undefined
+		k2: undefined
+		n: number = 1024
+		twothirds: undefined

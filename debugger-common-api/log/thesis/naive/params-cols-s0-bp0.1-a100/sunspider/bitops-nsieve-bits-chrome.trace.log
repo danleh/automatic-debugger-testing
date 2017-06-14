@@ -1,0 +1,29 @@
+Breakpoint Set at 33:14
+Breakpoint Set at 33:14
+Breakpoint Set at 27:23
+Breakpoint Set at 26:18
+Paused at 33:14
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 26:18
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: undefined
+		isPrime: undefined
+Paused at 27:23
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: undefined
+Paused at 28:9
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: array
+Paused at 26:30
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: array
+Paused at 35:11
+	Call Stack:  
+	Bindings: 

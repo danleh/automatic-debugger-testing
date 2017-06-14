@@ -1,0 +1,332 @@
+Breakpoint Set at 28
+Breakpoint Set at 255
+Breakpoint Set at 230
+Breakpoint Set at 287
+Breakpoint Set at 277
+Breakpoint Set at 384
+Breakpoint Set at 308
+Breakpoint Set at 42
+Breakpoint Set at 165
+Breakpoint Set at 386
+Breakpoint Set at 62
+Breakpoint Set at 274
+Breakpoint Set at 73
+Breakpoint Set at 186
+Breakpoint Set at 183
+Breakpoint Set at 179
+Breakpoint Set at 80
+Breakpoint Set at 348
+Breakpoint Set at 382
+Breakpoint Set at 117
+Breakpoint Set at 309
+Breakpoint Set at 239
+Breakpoint Set at 115
+Breakpoint Set at 402
+Breakpoint Set at 393
+Breakpoint Set at 63
+Breakpoint Set at 367
+Breakpoint Set at 104
+Breakpoint Set at 288
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 348
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 73
+	Hit Breakpoint(s) 
+	Call Stack: sub, Triangle, raytraceScene 
+Paused at 80
+	Hit Breakpoint(s) 
+	Call Stack: dot, Triangle, raytraceScene 
+Paused at 183
+	Hit Breakpoint(s) 
+	Call Stack: Scene, raytraceScene 
+Paused at 186
+	Hit Breakpoint(s) 
+	Call Stack: Scene, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 382
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 384
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 386
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 393
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 

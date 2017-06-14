@@ -1,0 +1,86 @@
+Breakpoint Set at 9
+Breakpoint Set at 56
+Breakpoint Set at 51
+Breakpoint Set at 86
+Breakpoint Set at 27
+Breakpoint Set at 65
+Breakpoint Set at 64
+Breakpoint Set at 82
+Breakpoint Set at 22
+Paused at 9
+	Hit Breakpoint(s) 
+	Call Stack: doTest 
+	Bindings: ch: undefined
+		i: undefined
+		k: undefined
+		pattern: undefined
+		r: undefined
+		s: undefined
+		zip: undefined
+		zipGood: undefined
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: undefined
+Paused at 65
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: undefined
+		l: undefined
+		n: number = 6
+		tmp: string = 
+Paused at 67
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 0
+		l: undefined
+		n: number = 6
+		tmp: string = 
+Paused at 68
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 0
+		l: number = 15
+		n: number = 6
+		tmp: string = 
+Paused at 65
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 0
+		l: number = 15
+		n: number = 6
+		tmp: string = p
+Paused at 65
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 1
+		l: number = 6
+		n: number = 6
+		tmp: string = pg
+Paused at 67
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 2
+		l: number = 6
+		n: number = 6
+		tmp: string = pg
+Paused at 68
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 2
+		l: number = 4
+		n: number = 6
+		tmp: string = pg
+Paused at 65
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 2
+		l: number = 4
+		n: number = 6
+		tmp: string = pge
+Paused at 65
+	Hit Breakpoint(s) 
+	Call Stack: makeName, doTest 
+	Bindings: i: number = 3
+		l: number = 8
+		n: number = 6
+		tmp: string = pgei

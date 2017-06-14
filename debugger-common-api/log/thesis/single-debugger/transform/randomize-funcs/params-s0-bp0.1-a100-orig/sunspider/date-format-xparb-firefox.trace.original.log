@@ -1,0 +1,558 @@
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+	Hit Breakpoint(s) 
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: undefined
+		format: string = Y-m-d
+		funcName: undefined
+		i: undefined
+		special: undefined
+	Hit Breakpoint(s) 
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: undefined
+		format: string = Y-m-d
+		funcName: string = format0
+		i: undefined
+		special: undefined
+	Hit Breakpoint(s) 
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: string = Date.prototype.format0 = function(){return 
+		format: string = Y-m-d
+		funcName: string = format0
+		i: undefined
+		special: undefined
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = -
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: undefined
+		format: string = l, F d, Y g:i:s A
+		funcName: undefined
+		i: undefined
+		special: undefined
+	Hit Breakpoint(s) 
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: undefined
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: undefined
+		special: undefined
+	Hit Breakpoint(s) 
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: undefined
+		code: string = Date.prototype.format1 = function(){return 
+		format: string = l, F d, Y g:i:s A
+		funcName: string = format1
+		i: undefined
+		special: undefined
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = d
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = ,
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = g
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = :
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = :
+	Hit Breakpoint(s) 
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string =  
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 11
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 11
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 02
+		size: number = 2
+		val: number = 2
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 02
+		size: number = 2
+		val: number = 2
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 35
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 37
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 03
+		size: number = 2
+		val: number = 3
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 03
+		size: number = 2
+		val: number = 3
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 00
+		size: number = 2
+		val: number = 0
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 04
+		size: number = 2
+		val: number = 4
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 03
+		size: number = 2
+		val: number = 3
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 03
+		size: number = 2
+		val: number = 3
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 24
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 31
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 04
+		size: number = 2
+		val: number = 4
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 04
+		size: number = 2
+		val: number = 4
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 48
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 58
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 05
+		size: number = 2
+		val: number = 5
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 05
+		size: number = 2
+		val: number = 5
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 13
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 25
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 06
+		size: number = 2
+		val: number = 6
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 06
+		size: number = 2
+		val: number = 6
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 37
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 52
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 07
+		size: number = 2
+		val: number = 7
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 07
+		size: number = 2
+		val: number = 7
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 02
+		size: number = 2
+		val: number = 2
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 19
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 08
+		size: number = 2
+		val: number = 8
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 08
+		size: number = 2
+		val: number = 8
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 26
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 46
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 09
+		size: number = 2
+		val: number = 9
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 09
+		size: number = 2
+		val: number = 9
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 51
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 13
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 10
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 10
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 15
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 40
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 11
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 11
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 40
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 07
+		size: number = 2
+		val: number = 7
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 12
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 12
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 04
+		size: number = 2
+		val: number = 4
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 34
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 13
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 13
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 29
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: string = 01
+		size: number = 2
+		val: number = 1
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 14
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 14
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 53
+	Hit Breakpoint(s) 
+	Call Stack: String.leftPad, Date.format1, Date.dateFormat 
+	Bindings: ch: string = 0
+		result: object
+		size: number = 2
+		val: number = 28

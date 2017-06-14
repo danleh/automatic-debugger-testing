@@ -1,0 +1,560 @@
+Breakpoint 0 Set at 3
+Breakpoint 1 Set at 8
+Breakpoint 2 Set at 30
+Breakpoint 3 Set at 25
+Paused at 3
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 30
+	Hit Breakpoint(s) 2
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: undefined
+		t: undefined
+		x: undefined
+		y: undefined
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 0
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 0
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 0
+		bi3b: number = 59796
+		c: number = 0
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 0
+		bi3b: number = 59796
+		c: number = 0
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 1
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 1
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 1
+		bi3b: number = 59796
+		c: number = 1
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 1
+		bi3b: number = 59796
+		c: number = 1
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 2
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 2
+		bi3b: number = 59796
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 2
+		bi3b: number = 59796
+		c: number = 1
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 2
+		bi3b: number = 59796
+		c: number = 1
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 3
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 3
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 3
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 4
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 4
+		bi3b: number = 59796
+		c: number = 1
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 5
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 5
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 5
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 6
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 6
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 6
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 7
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 7
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 7
+		bi3b: number = 59796
+		c: number = 3
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 7
+		bi3b: number = 59796
+		c: number = 3
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 7
+		bi3b: number = 59796
+		c: number = 3
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 8
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 8
+		bi3b: number = 59796
+		c: number = 1
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 8
+		bi3b: number = 59796
+		c: number = 1
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 9
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 9
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 9
+		bi3b: number = 59796
+		c: number = 1
+Paused at 11
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 9
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 9
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 9
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 10
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 10
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 10
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 11
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 11
+		bi3b: number = 59796
+		c: number = 3
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 12
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 12
+		bi3b: number = 59796
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 12
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 13
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 13
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 13
+		bi3b: number = 59796
+		c: number = 2
+Paused at 11
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 13
+		bi3b: number = 59796
+		c: number = 3
+Paused at 12
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 13
+		bi3b: number = 59796
+		c: number = 3
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 13
+		bi3b: number = 59796
+		c: number = 3
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 13
+		bi3b: number = 59796
+		c: number = 3
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 14
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 14
+		bi3b: number = 59796
+		c: number = 3
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 15
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 15
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 15
+		bi3b: number = 59796
+		c: number = 3
+Paused at 11
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 15
+		bi3b: number = 59796
+		c: number = 4
+Paused at 12
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 15
+		bi3b: number = 59796
+		c: number = 4
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 15
+		bi3b: number = 59796
+		c: number = 4
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 15
+		bi3b: number = 59796
+		c: number = 4
+Paused at 8
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 16
+		bi3b: undefined
+		c: undefined
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 16
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 16
+		bi3b: number = 59796
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 16
+		bi3b: number = 59796
+		c: number = 1
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 16
+		bi3b: number = 59796
+		c: number = 1
+Paused at 8
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 17
+		bi3b: undefined
+		c: undefined
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 17
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 17
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 17
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 18
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 18
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 18
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 19
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 19
+		bi3b: number = 59796
+		c: number = 3
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 19
+		bi3b: number = 59796
+		c: number = 3
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 20
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 20
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 20
+		bi3b: number = 59796
+		c: number = 1
+Paused at 11
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 20
+		bi3b: number = 59796
+		c: number = 2
+Paused at 12
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 20
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 20
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 20
+		bi3b: number = 59796
+		c: number = 2
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 21
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 21
+		bi3b: number = 59796
+		c: number = 3
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 21
+		bi3b: number = 59796
+		c: number = 3
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 22
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 22
+		bi3b: number = 59796
+		c: number = 3
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 23
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 23
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 23
+		bi3b: number = 59796
+		c: number = 3
+Paused at 11
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 23
+		bi3b: number = 59796
+		c: number = 4
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 23
+		bi3b: number = 59796
+		c: number = 4
+Paused at 25
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 23
+		bi3b: number = 59796
+		c: number = 4
+Paused at 8
+	Hit Breakpoint(s) 1
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 24
+		bi3b: undefined
+		c: undefined
+Paused at 9
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 24
+		bi3b: number = 59796
+		c: undefined
+Paused at 10
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 24
+		bi3b: number = 59796
+		c: number = 0
+Paused at 11
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 24
+		bi3b: number = 59796
+		c: number = 2
+Paused at 25
+	Hit Breakpoint(s) 3
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number = 24
+		bi3b: number = 59796
+		c: number = 2

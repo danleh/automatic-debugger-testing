@@ -1,0 +1,294 @@
+Breakpoint Set at 7
+Breakpoint Set at 12
+Breakpoint Set at 40
+Breakpoint Set at 56
+Breakpoint Set at 23
+Breakpoint Set at 46
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: undefined
+		t: undefined
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Au, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 23
+	Hit Breakpoint(s) 
+	Call Stack: Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 23
+	Hit Breakpoint(s) 
+	Call Stack: Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 23
+	Hit Breakpoint(s) 
+	Call Stack: Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 23
+	Hit Breakpoint(s) 
+	Call Stack: Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack: A, Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+Paused at 23
+	Hit Breakpoint(s) 
+	Call Stack: Atu, AtAu, spectralnorm 
+	Bindings: i: number
+		j: number
+		t: number
+		u: array
+		v: array

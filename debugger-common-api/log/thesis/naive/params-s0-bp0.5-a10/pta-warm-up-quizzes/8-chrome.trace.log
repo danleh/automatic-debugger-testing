@@ -1,0 +1,31 @@
+Breakpoint Set at 3
+Breakpoint Set at 3
+Breakpoint Set at 6
+Breakpoint Set at 8
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 3
+	Hit Breakpoint(s) 
+	Call Stack: f 
+	Bindings: a: number = 1
+		b: number = 2
+		i: undefined
+		x: undefined
+Paused at 6
+	Hit Breakpoint(s) 
+	Call Stack: f 
+	Bindings: a: number = 1
+		b: number = 2
+		i: number = 3
+		x: number = 
+Paused at 7
+	Call Stack: f 
+	Bindings: a: number = 1
+		b: number = 2
+		i: number = 3
+		x: number = 
+Paused at 8
+	Call Stack:  
+	Bindings: 

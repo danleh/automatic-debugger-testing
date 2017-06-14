@@ -1,0 +1,53 @@
+Breakpoint 0 Set at 42
+Breakpoint 1 Set at 42
+Breakpoint 1 Set at 87
+Breakpoint 2 Set at 75
+Breakpoint 3 Set at 128
+Breakpoint 4 Set at 42
+Breakpoint 4 Set at 96
+Breakpoint 5 Set at 92
+Breakpoint 6 Set at 121
+Breakpoint 7 Set at 42
+Breakpoint 7 Set at 103
+Breakpoint 8 Set at 42
+Breakpoint 8 Set at 60
+Paused at 42
+	Hit Breakpoint(s) 8
+	Call Stack:  
+	Bindings: 
+Paused at 75
+	Hit Breakpoint(s) 2
+	Call Stack:  
+	Bindings: 
+Paused at 121
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 
+Paused at 122
+	Call Stack:  
+	Bindings: 
+Paused at 121
+	Call Stack:  
+	Bindings: 
+Paused at 121
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 
+Paused at 121
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 
+Paused at 122
+	Call Stack:  
+	Bindings: 
+Paused at 121
+	Call Stack:  
+	Bindings: 
+Paused at 121
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 
+Paused at 121
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 

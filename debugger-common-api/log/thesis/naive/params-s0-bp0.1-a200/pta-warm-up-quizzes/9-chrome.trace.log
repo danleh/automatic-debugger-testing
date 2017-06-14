@@ -1,0 +1,5 @@
+Breakpoint Set at 2
+Paused at 2
+	Hit Breakpoint(s) 
+	Call Stack: foo 
+	Bindings: a: string = 

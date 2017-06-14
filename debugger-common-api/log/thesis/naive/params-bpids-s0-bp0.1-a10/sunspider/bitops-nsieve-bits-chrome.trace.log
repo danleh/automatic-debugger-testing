@@ -1,0 +1,29 @@
+Breakpoint 0 Set at 33
+Breakpoint 1 Set at 33
+Breakpoint 2 Set at 27
+Breakpoint 3 Set at 26
+Paused at 33
+	Hit Breakpoint(s) 0, 1
+	Call Stack:  
+	Bindings: 
+Paused at 26
+	Hit Breakpoint(s) 3
+	Call Stack: sieve 
+	Bindings: i: undefined
+		isPrime: undefined
+Paused at 27
+	Hit Breakpoint(s) 2
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: undefined
+Paused at 28
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: array
+Paused at 26
+	Call Stack: sieve 
+	Bindings: i: number = 4
+		isPrime: array
+Paused at 35
+	Call Stack:  
+	Bindings: 

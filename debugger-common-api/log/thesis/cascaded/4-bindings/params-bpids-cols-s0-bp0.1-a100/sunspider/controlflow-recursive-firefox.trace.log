@@ -1,0 +1,508 @@
+Breakpoint 0 Set at 6:1
+Breakpoint 1 Set at 8:1
+Breakpoint 2 Set at 31:1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack 
+	Bindings: m: number = 3
+		n: number = 3
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack 
+	Bindings: m: number = 3
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack 
+	Bindings: m: number = 3
+		n: number = 2
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack 
+	Bindings: m: number = 3
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack 
+	Bindings: m: number = 3
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack 
+	Bindings: m: number = 3
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack 
+	Bindings: m: number = 3
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 4
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 5
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 5
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 4
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 4
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 3
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 2
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 2
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 4
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 5
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 5
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 4
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 4
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 4
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 5
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 6
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 7
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 7
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 6
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 6
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 5
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 5
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 4
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 4
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 0
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 1
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 2
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 3
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 4
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 5
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 6
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 7
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 0
+		n: number = 8
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 9
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 9
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 8
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 8
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 7
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 7
+Paused at 6:0
+	Hit Breakpoint(s) 0
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 6
+Paused at 8:3
+	Hit Breakpoint(s) 1
+	Call Stack: ack, ack, ack, ack, ack, ack, ack, ack, ack 
+	Bindings: m: number = 1
+		n: number = 6

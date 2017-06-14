@@ -1,0 +1,50 @@
+Breakpoint 0 Set at 28
+Breakpoint 1 Set at 28
+Breakpoint 1 Set at 65
+Breakpoint 2 Set at 61
+Breakpoint 3 Set at 100
+Breakpoint 4 Set at 32
+Breakpoint 5 Set at 74
+Breakpoint 6 Set at 72
+Breakpoint 7 Set at 95
+Breakpoint 8 Set at 28
+Paused at 28
+	Hit Breakpoint(s) 8
+	Call Stack:  
+	Bindings: 
+Paused at 32
+	Hit Breakpoint(s) 4
+	Call Stack: FIXED 
+	Bindings: X: number = 45
+Paused at 32
+	Hit Breakpoint(s) 4
+	Call Stack: FIXED 
+	Bindings: X: number = 26.565
+Paused at 33
+	Call Stack: FIXED 
+	Bindings: X: number = 26.565
+Paused at 33
+	Call Stack: FIXED 
+	Bindings: X: number = 26.565
+Paused at 32
+	Hit Breakpoint(s) 4
+	Call Stack: FIXED 
+	Bindings: X: number = 14.0362
+Paused at 32
+	Hit Breakpoint(s) 4
+	Call Stack: FIXED 
+	Bindings: X: number = 7.12502
+Paused at 33
+	Call Stack: FIXED 
+	Bindings: X: number = 7.12502
+Paused at 33
+	Call Stack: FIXED 
+	Bindings: X: number = 7.12502
+Paused at 32
+	Hit Breakpoint(s) 4
+	Call Stack: FIXED 
+	Bindings: X: number = 3.57633
+Paused at 32
+	Hit Breakpoint(s) 4
+	Call Stack: FIXED 
+	Bindings: X: number = 1.78991

@@ -1,0 +1,364 @@
+Breakpoint Set at 21
+Breakpoint Set at 21
+Breakpoint Set at 19
+Breakpoint Set at 31
+Breakpoint Set at 12
+Breakpoint Set at 25
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 25
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib 
+	Bindings: n: number = 20
+Paused at 13
+	Call Stack: fib 
+	Bindings: n: number = 20
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib 
+	Bindings: n: number = 18
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib 
+	Bindings: n: number = 16
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib 
+	Bindings: n: number = 14
+Paused at 13
+	Call Stack: fib, fib, fib, fib 
+	Bindings: n: number = 14
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib 
+	Bindings: n: number = 12
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 10
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 8
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 8
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 6
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 6
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 4
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 5
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 4
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 7
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 5
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 4
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 3
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 4
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 5
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 7
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 6
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 6
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 4
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 4
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 12
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 14
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 0
+Paused at 13
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib, fib 
+	Bindings: n: number = 1

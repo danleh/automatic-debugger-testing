@@ -1,0 +1,713 @@
+Breakpoint 0 Set at 14:1
+Breakpoint 1 Set at 27:1
+Breakpoint 2 Set at 175:1
+Breakpoint 3 Set at 157:1
+Breakpoint 4 Set at 282:1
+Breakpoint 5 Set at 75:1
+Breakpoint 6 Set at 203:1
+Breakpoint 7 Set at 194:1
+Breakpoint 8 Set at 255:1
+Breakpoint 9 Set at 53:1
+Breakpoint 10 Set at 215:1
+Breakpoint 11 Set at 43:1
+Breakpoint 12 Set at 118:1
+Breakpoint 13 Set at 227:1
+Breakpoint 14 Set at 282:1
+Breakpoint 14 Set at 288:1
+Breakpoint 15 Set at 256:1
+Breakpoint 16 Set at 282:1
+Breakpoint 16 Set at 22:1
+Breakpoint 17 Set at 54:1
+Breakpoint 18 Set at 194:1
+Breakpoint 18 Set at 62:1
+Breakpoint 19 Set at 282:1
+Breakpoint 19 Set at 133:1
+Breakpoint 20 Set at 25:1
+Breakpoint 21 Set at 131:1
+Breakpoint 22 Set at 127:1
+Breakpoint 23 Set at 68:1
+Breakpoint 24 Set at 232:1
+Paused at 14:4
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 282:9
+	Hit Breakpoint(s) 19
+	Call Stack:  
+	Bindings: 
+Paused at 282:22
+	Hit Breakpoint(s) 19
+	Call Stack:  
+	Bindings: 
+Paused at 283:4
+	Call Stack:  
+	Bindings: 
+Paused at 282:22
+	Call Stack:  
+	Bindings: 
+Paused at 282:22
+	Hit Breakpoint(s) 19
+	Call Stack:  
+	Bindings: 
+Paused at 282:22
+	Hit Breakpoint(s) 19
+	Call Stack:  
+	Bindings: 
+Paused at 283:4
+	Call Stack:  
+	Bindings: 
+Paused at 282:22
+	Call Stack:  
+	Bindings: 
+Paused at 282:22
+	Hit Breakpoint(s) 19
+	Call Stack:  
+	Bindings: 
+Paused at 22:21
+	Hit Breakpoint(s) 16
+	Call Stack: hex_md5 
+	Bindings: s: string = o peace,
+Profaners of this neighbour-stained steel,--
+Will they not hear? What, ho! you men, you beasts,
+That quench the fire of your pernicious rage
+With purple fountains issuing from your veins,
+On pain of torture, from those bloody hands
+Throw your mistemper'd weapons to the ground,
+And hear the sentence of your moved prince.
+Three civil brawls, bred of an airy word,
+By thee, old Capulet, and Montague,
+Have thrice disturb'd the quiet of our streets,
+And made Verona's ancient citizens
+Cast by their grave beseeming ornaments,
+To wield old partisans, in hands as old,
+Canker'd with peace, to part your canker'd hate:
+If ever you disturb our streets again,
+Your lives shall pay the forfeit of the peace.
+For this time, all the rest depart away:
+You Capulet; shall go along with me:
+And, Montague, come you this afternoon,
+To know our further pleasure in this case,
+To old Free-town, our common judgment-place.
+Once more, on pain of death, all men depart.Rebellious 
+Paused at 203:6
+	Hit Breakpoint(s) 6
+	Call Stack: str2binl, hex_md5 
+	Bindings: bin: undefined
+		i: undefined
+		mask: undefined
+		str: string = o peace,
+Profaners of this neighbour-stained steel,--
+Will they not hear? What, ho! you men, you beasts,
+That quench the fire of your pernicious rage
+With purple fountains issuing from your veins,
+On pain of torture, from those bloody hands
+Throw your mistemper'd weapons to the ground,
+And hear the sentence of your moved prince.
+Three civil brawls, bred of an airy word,
+By thee, old Capulet, and Montague,
+Have thrice disturb'd the quiet of our streets,
+And made Verona's ancient citizens
+Cast by their grave beseeming ornaments,
+To wield old partisans, in hands as old,
+Canker'd with peace, to part your canker'd hate:
+If ever you disturb our streets again,
+Your lives shall pay the forfeit of the peace.
+For this time, all the rest depart away:
+You Capulet; shall go along with me:
+And, Montague, come you this afternoon,
+To know our further pleasure in this case,
+To old Free-town, our common judgment-place.
+Once more, on pain of death, all men depart.Rebellious 
+Paused at 43:2
+	Hit Breakpoint(s) 11
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: undefined
+		b: undefined
+		c: undefined
+		d: undefined
+		i: undefined
+		len: number = 126592
+		olda: undefined
+		oldb: undefined
+		oldc: undefined
+		oldd: undefined
+		x: array
+Paused at 44:2
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: undefined
+		b: undefined
+		c: undefined
+		d: undefined
+		i: undefined
+		len: number = 126592
+		olda: undefined
+		oldb: undefined
+		oldc: undefined
+		oldd: undefined
+		x: array
+Paused at 53:4
+	Hit Breakpoint(s) 9
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: number = 1732584193
+		b: number = -271733879
+		c: number = -1732584194
+		d: number = 271733878
+		i: number = 0
+		len: number = 126592
+		olda: undefined
+		oldb: undefined
+		oldc: undefined
+		oldd: undefined
+		x: array
+Paused at 54:8
+	Hit Breakpoint(s) 17
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: number = 1732584193
+		b: number = -271733879
+		c: number = -1732584194
+		d: number = 271733878
+		i: number = 0
+		len: number = 126592
+		olda: number = 1732584193
+		oldb: undefined
+		oldc: undefined
+		oldd: undefined
+		x: array
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = 1020070345
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = 1020070345
+Paused at 141:0
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 1732584193
+		b: number = -271733879
+		q: number = -1732584194
+		s: number = 7
+		t: number = -680876936
+		x: number = 1700947282
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = 927745297
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = 659179857
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = 659179857
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 1896447735
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 1896447735
+Paused at 140:18
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = -271733879
+		b: number = -1387924945
+		q: number = 1511236107
+		s: number = 22
+		t: number = -1044525330
+		x: number = 1701470837
+Paused at 62:4
+	Hit Breakpoint(s) 18
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: number = 1448251431
+		b: number = 1797403790
+		c: number = -1387924945
+		d: number = 446931867
+		i: number = 0
+		len: number = 126592
+		olda: number = 1732584193
+		oldb: number = -271733879
+		oldc: number = -1732584194
+		oldd: number = 271733878
+		x: array
+Paused at 144:2
+	Call Stack: md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 1448251431
+		b: number = 1797403790
+		c: number = -1387924945
+		d: number = 446931867
+		s: number = 7
+		t: number = -176418897
+		x: number = 745763939
+Paused at 140:2
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 1448251431
+		b: number = 1797403790
+		q: number = 964801311
+		s: number = 7
+		t: number = -176418897
+		x: number = 745763939
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = -1312569512
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = -1312569512
+Paused at 141:0
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 1448251431
+		b: number = 1797403790
+		q: number = 964801311
+		s: number = 7
+		t: number = -176418897
+		x: number = 745763939
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = -1327890060
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = -1327890060
+Paused at 140:18
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 446931867
+		b: number = 1292230886
+		q: number = -381668721
+		s: number = 12
+		t: number = 1200080426
+		x: number = 1701733664
+Paused at 141:0
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 446931867
+		b: number = 1292230886
+		q: number = -381668721
+		s: number = 12
+		t: number = 1200080426
+		x: number = 1701733664
+Paused at 141:0
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 446931867
+		b: number = 1292230886
+		q: number = -381668721
+		s: number = 12
+		t: number = 1200080426
+		x: number = 1701733664
+Paused at 145:0
+	Call Stack: md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 446931867
+		b: number = 1292230886
+		c: number = 1797403790
+		d: number = -1387924945
+		s: number = 12
+		t: number = 1200080426
+		x: number = 1701733664
+Paused at 145:0
+	Call Stack: md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 446931867
+		b: number = 1292230886
+		c: number = 1797403790
+		d: number = -1387924945
+		s: number = 12
+		t: number = 1200080426
+		x: number = 1701733664
+Paused at 63:8
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: number = 1292230886
+		b: number = 1797403790
+		c: number = -1387924945
+		d: number = 446931867
+		i: number = 0
+		len: number = 126592
+		olda: number = 1732584193
+		oldb: number = -271733879
+		oldc: number = -1732584194
+		oldd: number = 271733878
+		x: array
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = 402839197
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = 402839197
+Paused at 140:18
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = -1387924945
+		b: number = -316855309
+		q: number = 1327969518
+		s: number = 17
+		t: number = -1473231341
+		x: number = 1936025965
+Paused at 141:0
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = -1387924945
+		b: number = -316855309
+		q: number = 1327969518
+		s: number = 17
+		t: number = -1473231341
+		x: number = 1936025965
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 1441655205
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = 134044447
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = 134044447
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = 134044447
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = 1652141951
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = 1652141951
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = 1652141951
+Paused at 140:18
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = -316855309
+		b: number = 39479029
+		q: number = -1710399624
+		s: number = 12
+		t: number = -1958414417
+		x: number = 1342844005
+Paused at 184:6
+	Call Stack: safe_add, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: lsw: undefined
+		msw: undefined
+		x: number = -1695025625
+		y: number = 39479029
+Paused at 68:4
+	Hit Breakpoint(s) 23
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: number = 39479029
+		b: number = 61658994
+		c: number = -1705550856
+		d: number = -1655546596
+		i: number = 0
+		len: number = 126592
+		olda: number = 1732584193
+		oldb: number = -271733879
+		oldc: number = -1732584194
+		oldd: number = 271733878
+		x: array
+Paused at 144:2
+	Call Stack: md5_ff, core_md5, hex_md5 
+	Bindings: a: number = -1705550856
+		b: number = -1655546596
+		c: number = 39479029
+		d: number = 61658994
+		s: number = 17
+		t: number = -42063
+		x: number = 1634103154
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = -21238383
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = -21238383
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 450269458
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 450269458
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 450269458
+Paused at 141:0
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 61658994
+		b: number = 2021022355
+		q: number = 442137716
+		s: number = 22
+		t: number = -1990404162
+		x: number = 1936876910
+Paused at 141:0
+	Call Stack: md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 61658994
+		b: number = 2021022355
+		q: number = 442137716
+		s: number = 22
+		t: number = -1990404162
+		x: number = 1936876910
+Paused at 145:0
+	Call Stack: md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 61658994
+		b: number = 2021022355
+		c: number = -1655546596
+		d: number = 39479029
+		s: number = 22
+		t: number = -1990404162
+		x: number = 1936876910
+Paused at 145:0
+	Call Stack: md5_ff, core_md5, hex_md5 
+	Bindings: a: number = 61658994
+		b: number = 2021022355
+		c: number = -1655546596
+		d: number = 39479029
+		s: number = 22
+		t: number = -1990404162
+		x: number = 1936876910
+Paused at 69:8
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: number = 39479029
+		b: number = 61658994
+		c: number = 2021022355
+		d: number = -1655546596
+		i: number = 0
+		len: number = 126592
+		olda: number = 1732584193
+		oldb: number = -271733879
+		oldc: number = -1732584194
+		oldd: number = 271733878
+		x: array
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = -943242158
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 7
+		num: number = -943242158
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = 122784054
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 12
+		num: number = 122784054
+Paused at 184:6
+	Call Stack: safe_add, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: lsw: undefined
+		msw: undefined
+		x: number = 412311669
+		y: number = -1600177766
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = 758391931
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 17
+		num: number = 758391931
+Paused at 184:6
+	Call Stack: safe_add, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: lsw: undefined
+		msw: undefined
+		x: number = 1224104552
+		y: number = -1187866097
+Paused at 187:0
+	Call Stack: safe_add, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: lsw: number = 62583
+		msw: number = 552
+		x: number = 1224104552
+		y: number = -1187866097
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 382409294
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 382409294
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_ff, core_md5, hex_md5 
+	Bindings: cnt: number = 22
+		num: number = 382409294
+Paused at 75:4
+	Hit Breakpoint(s) 5
+	Call Stack: core_md5, hex_md5 
+	Bindings: a: number = -1600177766
+		b: number = -1783716035
+		c: number = 36238455
+		d: number = -1187866097
+		i: number = 0
+		len: number = 126592
+		olda: number = 1732584193
+		oldb: number = -271733879
+		oldc: number = -1732584194
+		oldd: number = 271733878
+		x: array
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 5
+		num: number = -1722699291
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 5
+		num: number = -1722699291
+Paused at 141:0
+	Call Stack: md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1600177766
+		b: number = -1783716035
+		q: number = -1825905027
+		s: number = 5
+		t: number = -165796510
+		x: number = 1869180012
+Paused at 141:0
+	Call Stack: md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1600177766
+		b: number = -1783716035
+		q: number = -1825905027
+		s: number = 5
+		t: number = -165796510
+		x: number = 1869180012
+Paused at 149:0
+	Call Stack: md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1600177766
+		b: number = -1783716035
+		c: number = 36238455
+		d: number = -1187866097
+		s: number = 5
+		t: number = -165796510
+		x: number = 1869180012
+Paused at 149:0
+	Call Stack: md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1600177766
+		b: number = -1783716035
+		c: number = 36238455
+		d: number = -1187866097
+		s: number = 5
+		t: number = -165796510
+		x: number = 1869180012
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 9
+		num: number = -2072012236
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 9
+		num: number = -2072012236
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 9
+		num: number = -2072012236
+Paused at 141:0
+	Call Stack: md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1187866097
+		b: number = -1075518480
+		q: number = -1750670472
+		s: number = 9
+		t: number = -1069501632
+		x: number = 1936025965
+Paused at 149:0
+	Call Stack: md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1187866097
+		b: number = -1075518480
+		c: number = -1783716035
+		d: number = 36238455
+		s: number = 9
+		t: number = -1069501632
+		x: number = 1936025965
+Paused at 149:0
+	Call Stack: md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1187866097
+		b: number = -1075518480
+		c: number = -1783716035
+		d: number = 36238455
+		s: number = 9
+		t: number = -1069501632
+		x: number = 1936025965
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 14
+		num: number = 1531050286
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 20
+		num: number = 574997505
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 20
+		num: number = 574997505
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 20
+		num: number = 574997505
+Paused at 184:6
+	Call Stack: safe_add, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: lsw: undefined
+		msw: undefined
+		x: number = 1074930780
+		y: number = 1030022088
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 5
+		num: number = 955778189
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 5
+		num: number = 955778189
+Paused at 194:2
+	Hit Breakpoint(s) 18
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 9
+		num: number = 2134596265
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 9
+		num: number = 2134596265
+Paused at 195:0
+	Call Stack: bit_rol, md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: cnt: number = 9
+		num: number = 2134596265
+Paused at 141:0
+	Call Stack: md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1088860936
+		b: number = -1669883445
+		q: number = 1551337964
+		s: number = 9
+		t: number = 38016083
+		x: number = 1634103154
+Paused at 141:0
+	Call Stack: md5_cmn, md5_gg, core_md5, hex_md5 
+	Bindings: a: number = -1088860936
+		b: number = -1669883445
+		q: number = 1551337964
+		s: number = 9
+		t: number = 38016083
+		x: number = 1634103154

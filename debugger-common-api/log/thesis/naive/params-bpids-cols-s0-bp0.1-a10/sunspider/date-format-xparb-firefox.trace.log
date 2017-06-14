@@ -1,0 +1,82 @@
+Breakpoint 0 Set at 18:1
+Breakpoint 1 Set at 38:1
+Breakpoint 2 Set at 251:1
+Breakpoint 3 Set at 225:1
+Breakpoint 4 Set at 398:1
+Breakpoint 5 Set at 107:1
+Breakpoint 6 Set at 285:1
+Breakpoint 7 Set at 273:1
+Breakpoint 8 Set at 376:1
+Breakpoint 9 Set at 71:1
+Breakpoint 10 Set at 300:1
+Breakpoint 11 Set at 49:1
+Breakpoint 12 Set at 168:1
+Breakpoint 13 Set at 325:1
+Breakpoint 14 Set at 398:1
+Breakpoint 14 Set at 413:1
+Breakpoint 15 Set at 376:1
+Breakpoint 15 Set at 411:1
+Breakpoint 16 Set at 24:1
+Breakpoint 17 Set at 71:1
+Breakpoint 17 Set at 266:1
+Breakpoint 18 Set at 81:1
+Breakpoint 19 Set at 185:1
+Breakpoint 20 Set at 26:1
+Breakpoint 21 Set at 181:1
+Breakpoint 22 Set at 176:1
+Breakpoint 23 Set at 87:1
+Breakpoint 24 Set at 330:1
+Breakpoint 25 Set at 360:1
+Breakpoint 26 Set at 117:1
+Breakpoint 27 Set at 338:1
+Breakpoint 28 Set at 288:1
+Breakpoint 29 Set at 298:1
+Breakpoint 30 Set at 230:1
+Breakpoint 31 Set at 175:1
+Breakpoint 32 Set at 411:1
+Breakpoint 32 Set at 321:1
+Breakpoint 33 Set at 111:1
+Breakpoint 34 Set at 384:1
+Breakpoint 35 Set at 304:1
+Breakpoint 36 Set at 376:1
+Breakpoint 36 Set at 83:1
+Paused at 18:0
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 26:0
+	Hit Breakpoint(s) 20
+	Call Stack:  
+	Bindings: 
+Paused at 117:0
+	Hit Breakpoint(s) 26
+	Call Stack:  
+	Bindings: 
+Paused at 172:0
+	Call Stack:  
+	Bindings: 
+Paused at 279:0
+	Call Stack:  
+	Bindings: 
+Paused at 285:0
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 
+Paused at 300:0
+	Hit Breakpoint(s) 10
+	Call Stack:  
+	Bindings: 
+Paused at 310:0
+	Call Stack:  
+	Bindings: 
+Paused at 315:0
+	Call Stack:  
+	Bindings: 
+Paused at 325:0
+	Hit Breakpoint(s) 13
+	Call Stack:  
+	Bindings: 
+Paused at 330:0
+	Hit Breakpoint(s) 24
+	Call Stack:  
+	Bindings: 

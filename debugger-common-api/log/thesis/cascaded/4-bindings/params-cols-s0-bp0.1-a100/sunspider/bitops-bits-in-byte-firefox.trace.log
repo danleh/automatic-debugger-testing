@@ -1,0 +1,607 @@
+Breakpoint Set at 4:1
+Breakpoint Set at 29:1
+Breakpoint Set at 14:1
+Paused at 4:4
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 1
+		c: number = 1
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 2
+		c: number = 1
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 3
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 4
+		c: number = 1
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 5
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 6
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 7
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 8
+		c: number = 1
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 9
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 10
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 11
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 12
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 13
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 14
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 15
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 16
+		c: number = 1
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 17
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 18
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 19
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 20
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 21
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 22
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 23
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 24
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 25
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 26
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 27
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 28
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 29
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 30
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 31
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 32
+		c: number = 1
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 33
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 34
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 35
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 36
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 37
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 38
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 39
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 40
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 41
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 42
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 43
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 44
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 45
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 46
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 47
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 48
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 49
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 50
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 51
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 52
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 53
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 54
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 55
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 56
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 57
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 58
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 59
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 60
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 61
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 62
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 63
+		c: number = 6
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 64
+		c: number = 1
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 65
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 66
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 67
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 68
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 69
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 70
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 71
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 72
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 73
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 74
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 75
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 76
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 77
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 78
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 79
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 80
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 81
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 82
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 83
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 84
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 85
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 86
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 87
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 88
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 89
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 90
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 91
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 92
+		c: number = 4
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 93
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 94
+		c: number = 5
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 95
+		c: number = 6
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 96
+		c: number = 2
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 97
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 98
+		c: number = 3
+		m: number = 256
+Paused at 14:0
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 99
+		c: number = 4
+		m: number = 256

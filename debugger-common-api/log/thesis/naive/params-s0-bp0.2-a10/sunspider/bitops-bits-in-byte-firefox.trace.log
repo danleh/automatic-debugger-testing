@@ -1,0 +1,73 @@
+Breakpoint Set at 4
+Breakpoint Set at 20
+Breakpoint Set at 19
+Breakpoint Set at 29
+Breakpoint Set at 12
+Breakpoint Set at 23
+Paused at 4
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 19
+	Hit Breakpoint(s) 
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: undefined
+		t: undefined
+		x: undefined
+		y: undefined
+Paused at 20
+	Hit Breakpoint(s) 
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 0
+		t: undefined
+		x: undefined
+		y: undefined
+Paused at 21
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 0
+		t: undefined
+		x: number = 0
+		y: undefined
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 1
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 2
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 4
+Paused at 10
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 8
+Paused at 11
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 8
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 8
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: bitsinbyte, TimeFunc 
+	Bindings: b: number = 0
+		c: number = 0
+		m: number = 16

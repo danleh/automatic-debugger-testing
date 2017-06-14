@@ -1,0 +1,23 @@
+Set Breakpoint at 2
+Set Breakpoint at 20
+Set Breakpoint at 18
+resume
+resume
+stepOver
+stepOver
+stepOut
+resume
+stepOver
+stepOver
+stepOut
+resume
+stepOver
+resume
+stepIn
+stepOut
+stepOut
+stepOut
+stepOut
+stepOut
+resume
+resume

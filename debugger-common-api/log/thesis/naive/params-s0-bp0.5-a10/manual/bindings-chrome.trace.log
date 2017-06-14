@@ -1,0 +1,196 @@
+Breakpoint Set at 4
+Breakpoint Set at 9
+Breakpoint Set at 32
+Breakpoint Set at 28
+Breakpoint Set at 45
+Breakpoint Set at 17
+Breakpoint Set at 35
+Breakpoint Set at 35
+Breakpoint Set at 43
+Breakpoint Set at 17
+Breakpoint Set at 37
+Breakpoint Set at 17
+Breakpoint Set at 28
+Breakpoint Set at 41
+Breakpoint Set at 46
+Breakpoint Set at 48
+Breakpoint Set at 44
+Breakpoint Set at 47
+Breakpoint Set at 24
+Breakpoint Set at 24
+Breakpoint Set at 41
+Breakpoint Set at 17
+Breakpoint Set at 17
+Breakpoint Set at 9
+Paused at 4
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 9
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: scriptConst: number = 3.14
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: undefined
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: undefined
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: undefined
+Paused at 24
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: undefined
+		LetInNestedBlockBound: undefined
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: number = 1337
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: undefined
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: undefined
+		LetInNestedBlockBound: undefined
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: undefined
+Paused at 32
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: undefined
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		secondBlock: undefined
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: undefined
+Paused at 35
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: undefined
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: undefined
+Paused at 36
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: undefined
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: number = 1337
+Paused at 37
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: undefined
+		letBound: string = 
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: number = 1337
+Paused at 41
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: boolean = true
+		letBound: string = 
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: number = 1337
+Paused at 43
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: boolean = true
+		letBound: string = 
+		notInitialized: undefined
+		param: string = 
+		param2: string = 
+		scriptConst: number = 3.14
+		shadowedVarBound: number = 12
+		someArray: array
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: object
+		someUndefined: undefined
+		varBound: number = 1337

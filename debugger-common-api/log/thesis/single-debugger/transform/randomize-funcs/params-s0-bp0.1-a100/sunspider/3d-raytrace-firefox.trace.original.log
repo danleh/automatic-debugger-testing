@@ -1,0 +1,339 @@
+Breakpoint Set at 27
+Breakpoint Set at 34
+Breakpoint Set at 74
+Breakpoint Set at 390
+Breakpoint Set at 102
+Breakpoint Set at 147
+Breakpoint Set at 423
+Breakpoint Set at 46
+Breakpoint Set at 315
+Breakpoint Set at 415
+Breakpoint Set at 250
+Breakpoint Set at 134
+Breakpoint Set at 333
+Breakpoint Set at 275
+Breakpoint Set at 104
+Breakpoint Set at 126
+Breakpoint Set at 316
+Breakpoint Set at 126
+Breakpoint Set at 27
+Breakpoint Set at 27
+Breakpoint Set at 42
+Breakpoint Set at 186
+Breakpoint Set at 324
+Breakpoint Set at 354
+Breakpoint Set at 348
+Breakpoint Set at 343
+Breakpoint Set at 192
+Breakpoint Set at 281
+Breakpoint Set at 309
+Breakpoint Set at 160
+Breakpoint Set at 292
+Breakpoint Set at 240
+Breakpoint Set at 249
+Breakpoint Set at 397
+Breakpoint Set at 342
+Breakpoint Set at 126
+Paused at 240
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 249
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 250
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 147
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 147
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 147
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 147
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 275
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 281
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 160
+	Hit Breakpoint(s) 
+	Call Stack: Triangle, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Triangle, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 309
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 315
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 316
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 324
+	Hit Breakpoint(s) 
+	Call Stack: raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: createVector, raytraceScene 
+Paused at 186
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 192
+	Hit Breakpoint(s) 
+	Call Stack: invertMatrix, Camera, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Camera, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Camera, raytraceScene 
+Paused at 74
+	Hit Breakpoint(s) 
+	Call Stack: Camera, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Camera, raytraceScene 
+Paused at 415
+	Hit Breakpoint(s) 
+	Call Stack: normalise, Camera, raytraceScene 
+Paused at 42
+	Hit Breakpoint(s) 
+	Call Stack: renderRows, Camera.render, raytraceScene 
+Paused at 34
+	Hit Breakpoint(s) 
+	Call Stack: addVector, Camera.generateRayPair, renderRows, Camera.render, raytraceScene 
+Paused at 34
+	Hit Breakpoint(s) 
+	Call Stack: addVector, Camera.generateRayPair, renderRows, Camera.render, raytraceScene 
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: renderRows, Camera.render, raytraceScene 
+Paused at 34
+	Hit Breakpoint(s) 
+	Call Stack: addVector, renderRows, Camera.render, raytraceScene 
+Paused at 34
+	Hit Breakpoint(s) 
+	Call Stack: addVector, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 
+Paused at 333
+	Hit Breakpoint(s) 
+	Call Stack: Scene.intersect, renderRows, Camera.render, raytraceScene 

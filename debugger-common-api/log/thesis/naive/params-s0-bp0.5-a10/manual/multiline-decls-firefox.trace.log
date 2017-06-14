@@ -1,0 +1,49 @@
+Breakpoint Set at 1
+Breakpoint Set at 3
+Breakpoint Set at 12
+Breakpoint Set at 11
+Breakpoint Set at 18
+Breakpoint Set at 9
+Breakpoint Set at 15
+Breakpoint Set at 7
+Breakpoint Set at 5
+Paused at 1
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 3
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 5
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 6
+	Call Stack:  
+	Bindings: 
+Paused at 7
+	Call Stack:  
+	Bindings: 
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 9
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 10
+	Call Stack:  
+	Bindings: 
+Paused at 11
+	Call Stack:  
+	Bindings: 
+Paused at 11
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 

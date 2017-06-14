@@ -1,0 +1,799 @@
+Breakpoint Set at 7
+Breakpoint Set at 17
+Breakpoint Set at 105
+Breakpoint Set at 95
+Breakpoint Set at 163
+Breakpoint Set at 48
+Breakpoint Set at 120
+Breakpoint Set at 115
+Breakpoint Set at 154
+Breakpoint Set at 34
+Breakpoint Set at 128
+Breakpoint Set at 27
+Breakpoint Set at 75
+Breakpoint Set at 137
+Breakpoint Set at 164
+Breakpoint Set at 172
+Breakpoint Set at 168
+Breakpoint Set at 21
+Breakpoint Set at 39
+Breakpoint Set at 10
+Breakpoint Set at 44
+Breakpoint Set at 158
+Breakpoint Set at 85
+Breakpoint Set at 27
+Breakpoint Set at 84
+Breakpoint Set at 83
+Breakpoint Set at 51
+Breakpoint Set at 141
+Breakpoint Set at 10
+Breakpoint Set at 63
+Breakpoint Set at 144
+Breakpoint Set at 126
+Breakpoint Set at 130
+Breakpoint Set at 107
+Breakpoint Set at 86
+Breakpoint Set at 171
+Breakpoint Set at 139
+Breakpoint Set at 65
+Breakpoint Set at 161
+Breakpoint Set at 133
+Breakpoint Set at 157
+Breakpoint Set at 57
+Breakpoint Set at 51
+Breakpoint Set at 112
+Breakpoint Set at 151
+Breakpoint Set at 20
+Breakpoint Set at 11
+Breakpoint Set at 142
+Breakpoint Set at 97
+Breakpoint Set at 80
+Breakpoint Set at 110
+Breakpoint Set at 75
+Breakpoint Set at 54
+Breakpoint Set at 136
+Breakpoint Set at 116
+Breakpoint Set at 143
+Breakpoint Set at 121
+Breakpoint Set at 111
+Breakpoint Set at 138
+Breakpoint Set at 53
+Breakpoint Set at 165
+Breakpoint Set at 122
+Breakpoint Set at 23
+Breakpoint Set at 104
+Breakpoint Set at 80
+Breakpoint Set at 5
+Breakpoint Set at 5
+Breakpoint Set at 100
+Breakpoint Set at 64
+Breakpoint Set at 69
+Breakpoint Set at 67
+Breakpoint Set at 131
+Breakpoint Set at 22
+Breakpoint Set at 5
+Breakpoint Set at 39
+Breakpoint Set at 56
+Breakpoint Set at 151
+Breakpoint Set at 42
+Breakpoint Set at 24
+Breakpoint Set at 114
+Breakpoint Set at 55
+Breakpoint Set at 39
+Breakpoint Set at 123
+Breakpoint Set at 92
+Breakpoint Set at 31
+Breakpoint Set at 33
+Breakpoint Set at 13
+Breakpoint Set at 63
+Breakpoint Set at 30
+Breakpoint Set at 32
+Breakpoint Set at 110
+Breakpoint Set at 159
+Breakpoint Set at 70
+Breakpoint Set at 60
+Breakpoint Set at 152
+Breakpoint Set at 134
+Breakpoint Set at 90
+Breakpoint Set at 101
+Breakpoint Set at 175
+Breakpoint Set at 120
+Breakpoint Set at 148
+Breakpoint Set at 93
+Breakpoint Set at 15
+Breakpoint Set at 147
+Breakpoint Set at 108
+Breakpoint Set at 40
+Breakpoint Set at 133
+Breakpoint Set at 6
+Breakpoint Set at 88
+Breakpoint Set at 16
+Breakpoint Set at 36
+Breakpoint Set at 28
+Breakpoint Set at 130
+Breakpoint Set at 27
+Breakpoint Set at 114
+Breakpoint Set at 19
+Breakpoint Set at 156
+Breakpoint Set at 136
+Breakpoint Set at 99
+Breakpoint Set at 102
+Breakpoint Set at 29
+Breakpoint Set at 97
+Breakpoint Set at 173
+Breakpoint Set at 43
+Breakpoint Set at 63
+Breakpoint Set at 89
+Breakpoint Set at 167
+Breakpoint Set at 120
+Breakpoint Set at 68
+Breakpoint Set at 171
+Breakpoint Set at 141
+Breakpoint Set at 147
+Breakpoint Set at 92
+Breakpoint Set at 126
+Breakpoint Set at 72
+Breakpoint Set at 145
+Breakpoint Set at 45
+Breakpoint Set at 81
+Breakpoint Set at 80
+Breakpoint Set at 66
+Breakpoint Set at 82
+Breakpoint Set at 41
+Breakpoint Set at 5
+Breakpoint Set at 76
+Breakpoint Set at 72
+Breakpoint Set at 46
+Breakpoint Set at 174
+Breakpoint Set at 124
+Breakpoint Set at 12
+Breakpoint Set at 103
+Breakpoint Set at 120
+Breakpoint Set at 87
+Breakpoint Set at 52
+Breakpoint Set at 14
+Breakpoint Set at 58
+Paused at 5
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 6
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 7
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 19
+	Call Stack:  
+	Bindings: 
+Paused at 95
+	Call Stack:  
+	Bindings: 
+Paused at 95
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 128
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 154
+	Call Stack:  
+	Bindings: 
+Paused at 156
+	Call Stack:  
+	Bindings: 
+Paused at 156
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 157
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 158
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: bodies: undefined
+		i: undefined
+		max: undefined
+Paused at 159
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: bodies: undefined
+		i: undefined
+		max: undefined
+Paused at 75
+	Call Stack: Sun 
+	Bindings: 
+Paused at 75
+	Hit Breakpoint(s) 
+	Call Stack: Sun 
+	Bindings: 
+Paused at 10
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 11
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 13
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 15
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 16
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 16
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 17
+	Call Stack: Body, Sun 
+	Bindings: mass: number = 39.47841760435743
+		vx: number = 0
+		vy: number = 0
+		vz: number = 0
+		x: number = 0
+		y: number = 0
+		z: number = 0
+Paused at 76
+	Hit Breakpoint(s) 
+	Call Stack: Sun 
+	Bindings: 
+Paused at 76
+	Call Stack: Sun 
+	Bindings: 
+Paused at 159
+	Call Stack:  
+	Bindings: bodies: undefined
+		i: undefined
+		max: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 29
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 30
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 31
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 32
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 33
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 34
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 27
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 10
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 11
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 13
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 13
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 15
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 16
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 16
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 17
+	Call Stack: Body, Jupiter 
+	Bindings: mass: number = 0.03769367487038949
+		vx: number = 0.606326392995832
+		vy: number = 2.81198684491626
+		vz: number = -0.02521836165988763
+		x: number = 4.841431442464721
+		y: number = -1.1603200440274284
+		z: number = -0.10362204447112311
+Paused at 36
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 36
+	Call Stack: Jupiter 
+	Bindings: 
+Paused at 159
+	Call Stack:  
+	Bindings: bodies: undefined
+		i: undefined
+		max: undefined
+Paused at 39
+	Hit Breakpoint(s) 
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 40
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 40
+	Hit Breakpoint(s) 
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 41
+	Hit Breakpoint(s) 
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 42
+	Hit Breakpoint(s) 
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 43
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 44
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 45
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 46
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 39
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 10
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 11
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 11
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 12
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 13
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 14
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 14
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 15
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 16
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 16
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 17
+	Hit Breakpoint(s) 
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 17
+	Call Stack: Body, Saturn 
+	Bindings: mass: number = 0.011286326131968767
+		vx: number = -1.0107743461787924
+		vy: number = 1.8256623712304119
+		vz: number = 0.008415761376584154
+		x: number = 8.34336671824458
+		y: number = 4.124798564124305
+		z: number = -0.4035234171143214
+Paused at 48
+	Hit Breakpoint(s) 
+	Call Stack: Saturn 
+	Bindings: 
+Paused at 51
+	Hit Breakpoint(s) 
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 52
+	Hit Breakpoint(s) 
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 53
+	Hit Breakpoint(s) 
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 54
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 55
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 56
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 57
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 57
+	Hit Breakpoint(s) 
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 58
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 58
+	Hit Breakpoint(s) 
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 51
+	Hit Breakpoint(s) 
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 10
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 11
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 11
+	Hit Breakpoint(s) 
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 12
+	Hit Breakpoint(s) 
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 13
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 14
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 15
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 15
+	Hit Breakpoint(s) 
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 16
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 16
+	Hit Breakpoint(s) 
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 17
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 17
+	Call Stack: Body, Uranus 
+	Bindings: mass: number = 0.0017237240570597112
+		vx: number = 1.0827910064415354
+		vy: number = 0.8687130181696082
+		vz: number = -0.010832637401363636
+		x: number = 12.894369562139131
+		y: number = -15.111151401698631
+		z: number = -0.22330757889265573
+Paused at 60
+	Call Stack: Uranus 
+	Bindings: 
+Paused at 60
+	Hit Breakpoint(s) 
+	Call Stack: Uranus 
+	Bindings: 

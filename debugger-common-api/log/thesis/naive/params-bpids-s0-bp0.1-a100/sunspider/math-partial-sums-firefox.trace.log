@@ -1,0 +1,866 @@
+Breakpoint 0 Set at 6
+Breakpoint 1 Set at 6
+Breakpoint 1 Set at 31
+Breakpoint 2 Set at 26
+Paused at 6
+	Hit Breakpoint(s) 1
+	Call Stack: partial 
+	Bindings: a1: undefined
+		alt: undefined
+		k: undefined
+		k2: undefined
+		n: number = 1024
+		twothirds: undefined
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 1
+		alt: number = 1
+		k: number = 1
+		k2: number = 1
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 1.6666666666666665
+		alt: number = -1
+		k: number = 2
+		k2: number = 4
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 1.6666666666666665
+		alt: number = -1
+		k: number = 2
+		k2: number = 4
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 1.6666666666666665
+		alt: number = -1
+		k: number = 3
+		k2: number = 4
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.1111111111111107
+		alt: number = 1
+		k: number = 3
+		k2: number = 9
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.407407407407407
+		alt: number = -1
+		k: number = 4
+		k2: number = 16
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.407407407407407
+		alt: number = -1
+		k: number = 4
+		k2: number = 16
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.407407407407407
+		alt: number = -1
+		k: number = 5
+		k2: number = 16
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.604938271604938
+		alt: number = 1
+		k: number = 5
+		k2: number = 25
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.7366255144032916
+		alt: number = -1
+		k: number = 6
+		k2: number = 36
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.7366255144032916
+		alt: number = -1
+		k: number = 6
+		k2: number = 36
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.824417009602194
+		alt: number = 1
+		k: number = 7
+		k2: number = 49
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.824417009602194
+		alt: number = 1
+		k: number = 7
+		k2: number = 49
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.882944673068129
+		alt: number = -1
+		k: number = 8
+		k2: number = 64
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.921963115378752
+		alt: number = 1
+		k: number = 9
+		k2: number = 81
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9479754102525013
+		alt: number = -1
+		k: number = 10
+		k2: number = 100
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.965316940168334
+		alt: number = 1
+		k: number = 11
+		k2: number = 121
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.976877960112222
+		alt: number = -1
+		k: number = 12
+		k2: number = 144
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.984585306741481
+		alt: number = 1
+		k: number = 13
+		k2: number = 169
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9897235378276537
+		alt: number = -1
+		k: number = 14
+		k2: number = 196
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9897235378276537
+		alt: number = -1
+		k: number = 14
+		k2: number = 196
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9931490252184356
+		alt: number = 1
+		k: number = 15
+		k2: number = 225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9954326834789566
+		alt: number = -1
+		k: number = 16
+		k2: number = 256
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9954326834789566
+		alt: number = -1
+		k: number = 16
+		k2: number = 256
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9969551223193043
+		alt: number = 1
+		k: number = 17
+		k2: number = 289
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9969551223193043
+		alt: number = 1
+		k: number = 17
+		k2: number = 289
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.9969551223193043
+		alt: number = 1
+		k: number = 18
+		k2: number = 289
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9979700815462027
+		alt: number = -1
+		k: number = 18
+		k2: number = 324
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9986467210308017
+		alt: number = 1
+		k: number = 19
+		k2: number = 361
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9990978140205344
+		alt: number = -1
+		k: number = 20
+		k2: number = 400
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999398542680356
+		alt: number = 1
+		k: number = 21
+		k2: number = 441
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9995990284535705
+		alt: number = -1
+		k: number = 22
+		k2: number = 484
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9995990284535705
+		alt: number = -1
+		k: number = 22
+		k2: number = 484
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.9995990284535705
+		alt: number = -1
+		k: number = 23
+		k2: number = 484
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 13
+	Call Stack: partial 
+	Bindings: a1: number = 2.9995990284535705
+		alt: number = -1
+		k: number = 23
+		k2: number = 529
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 14
+	Call Stack: partial 
+	Bindings: a1: number = 2.9995990284535705
+		alt: number = -1
+		k: number = 23
+		k2: number = 529
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9997326856357134
+		alt: number = 1
+		k: number = 23
+		k2: number = 529
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9997326856357134
+		alt: number = 1
+		k: number = 23
+		k2: number = 529
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999821790423809
+		alt: number = -1
+		k: number = 24
+		k2: number = 576
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9998811936158725
+		alt: number = 1
+		k: number = 25
+		k2: number = 625
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9998811936158725
+		alt: number = 1
+		k: number = 25
+		k2: number = 625
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999207957439147
+		alt: number = -1
+		k: number = 26
+		k2: number = 676
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999471971626095
+		alt: number = 1
+		k: number = 27
+		k2: number = 729
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999964798108406
+		alt: number = -1
+		k: number = 28
+		k2: number = 784
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999964798108406
+		alt: number = -1
+		k: number = 28
+		k2: number = 784
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999765320722704
+		alt: number = 1
+		k: number = 29
+		k2: number = 841
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999984354714847
+		alt: number = -1
+		k: number = 30
+		k2: number = 900
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999984354714847
+		alt: number = -1
+		k: number = 30
+		k2: number = 900
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.999984354714847
+		alt: number = -1
+		k: number = 31
+		k2: number = 900
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 13
+	Call Stack: partial 
+	Bindings: a1: number = 2.999984354714847
+		alt: number = -1
+		k: number = 31
+		k2: number = 961
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 14
+	Call Stack: partial 
+	Bindings: a1: number = 2.999984354714847
+		alt: number = -1
+		k: number = 31
+		k2: number = 961
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999895698098977
+		alt: number = 1
+		k: number = 31
+		k2: number = 961
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999895698098977
+		alt: number = 1
+		k: number = 31
+		k2: number = 961
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999993046539932
+		alt: number = -1
+		k: number = 32
+		k2: number = 1024
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999953643599544
+		alt: number = 1
+		k: number = 33
+		k2: number = 1089
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = -1
+		k: number = 34
+		k2: number = 1156
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = -1
+		k: number = 34
+		k2: number = 1156
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = -1
+		k: number = 35
+		k2: number = 1156
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 13
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = -1
+		k: number = 35
+		k2: number = 1225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 14
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = -1
+		k: number = 35
+		k2: number = 1225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 15
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = -1
+		k: number = 35
+		k2: number = 1225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 16
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = -1
+		k: number = 35
+		k2: number = 1225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 18
+	Call Stack: partial 
+	Bindings: a1: number = 2.999996909573303
+		alt: number = 1
+		k: number = 35
+		k2: number = 1225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999997939715535
+		alt: number = 1
+		k: number = 35
+		k2: number = 1225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999997939715535
+		alt: number = 1
+		k: number = 35
+		k2: number = 1225
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999986264770233
+		alt: number = -1
+		k: number = 36
+		k2: number = 1296
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999990843180155
+		alt: number = 1
+		k: number = 37
+		k2: number = 1369
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999990843180155
+		alt: number = 1
+		k: number = 37
+		k2: number = 1369
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999993895453434
+		alt: number = -1
+		k: number = 38
+		k2: number = 1444
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999593030229
+		alt: number = 1
+		k: number = 39
+		k2: number = 1521
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999593030229
+		alt: number = 1
+		k: number = 39
+		k2: number = 1521
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999728686819
+		alt: number = -1
+		k: number = 40
+		k2: number = 1600
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999819124546
+		alt: number = 1
+		k: number = 41
+		k2: number = 1681
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999819124546
+		alt: number = 1
+		k: number = 41
+		k2: number = 1681
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999998794163636
+		alt: number = -1
+		k: number = 42
+		k2: number = 1764
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999919610909
+		alt: number = 1
+		k: number = 43
+		k2: number = 1849
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999999464072724
+		alt: number = -1
+		k: number = 44
+		k2: number = 1936
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999964271515
+		alt: number = 1
+		k: number = 45
+		k2: number = 2025
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999964271515
+		alt: number = 1
+		k: number = 45
+		k2: number = 2025
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999964271515
+		alt: number = 1
+		k: number = 46
+		k2: number = 2025
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 13
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999964271515
+		alt: number = 1
+		k: number = 46
+		k2: number = 2116
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 14
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999964271515
+		alt: number = 1
+		k: number = 46
+		k2: number = 2116
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999999761810097
+		alt: number = -1
+		k: number = 46
+		k2: number = 2116
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999999761810097
+		alt: number = -1
+		k: number = 46
+		k2: number = 2116
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999984120673
+		alt: number = 1
+		k: number = 47
+		k2: number = 2209
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999989413782
+		alt: number = -1
+		k: number = 48
+		k2: number = 2304
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999989413782
+		alt: number = -1
+		k: number = 48
+		k2: number = 2304
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999989413782
+		alt: number = -1
+		k: number = 49
+		k2: number = 2304
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999992942521
+		alt: number = 1
+		k: number = 49
+		k2: number = 2401
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999995295014
+		alt: number = -1
+		k: number = 50
+		k2: number = 2500
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999995295014
+		alt: number = -1
+		k: number = 50
+		k2: number = 2500
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999995295014
+		alt: number = -1
+		k: number = 51
+		k2: number = 2500
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 13
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999995295014
+		alt: number = -1
+		k: number = 51
+		k2: number = 2601
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999999968633424
+		alt: number = 1
+		k: number = 51
+		k2: number = 2601
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.9999999968633424
+		alt: number = 1
+		k: number = 51
+		k2: number = 2601
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999997908895
+		alt: number = -1
+		k: number = 52
+		k2: number = 2704
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 11
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999997908895
+		alt: number = -1
+		k: number = 52
+		k2: number = 2704
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 12
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999997908895
+		alt: number = -1
+		k: number = 53
+		k2: number = 2704
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 13
+	Call Stack: partial 
+	Bindings: a1: number = 2.999999997908895
+		alt: number = -1
+		k: number = 53
+		k2: number = 2809
+		n: number = 1024
+		twothirds: number = 0.6666666666666666
+Paused at 26
+	Hit Breakpoint(s) 2
+	Call Stack: partial 
+	Bindings: a1: number = 2.99999999860593
+		alt: number = 1
+		k: number = 53
+		k2: number = 2809
+		n: number = 1024
+		twothirds: number = 0.6666666666666666

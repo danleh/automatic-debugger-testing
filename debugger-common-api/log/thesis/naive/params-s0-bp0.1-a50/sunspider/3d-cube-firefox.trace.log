@@ -1,0 +1,513 @@
+Breakpoint Set at 20
+Breakpoint Set at 32
+Breakpoint Set at 212
+Breakpoint Set at 190
+Breakpoint Set at 328
+Breakpoint Set at 91
+Breakpoint Set at 242
+Breakpoint Set at 231
+Breakpoint Set at 311
+Breakpoint Set at 61
+Breakpoint Set at 254
+Breakpoint Set at 43
+Breakpoint Set at 142
+Breakpoint Set at 275
+Breakpoint Set at 333
+Breakpoint Set at 350
+Breakpoint Set at 340
+Breakpoint Set at 25
+Breakpoint Set at 63
+Breakpoint Set at 226
+Breakpoint Set at 71
+Breakpoint Set at 318
+Breakpoint Set at 159
+Breakpoint Set at 26
+Breakpoint Set at 155
+Breakpoint Set at 152
+Breakpoint Set at 78
+Breakpoint Set at 280
+Breakpoint Set at 305
+Breakpoint Set at 104
+Breakpoint Set at 287
+Breakpoint Set at 245
+Breakpoint Set at 253
+Breakpoint Set at 197
+Breakpoint Set at 27
+Paused at 20
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 275
+	Hit Breakpoint(s) 
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 280
+	Hit Breakpoint(s) 
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 281
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 282
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 287
+	Hit Breakpoint(s) 
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 305
+	Hit Breakpoint(s) 
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 308
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 311
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 311
+	Hit Breakpoint(s) 
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: undefined
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 91
+	Hit Breakpoint(s) 
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: undefined
+		V0: array
+		V1: array
+		V2: array
+Paused at 78
+	Hit Breakpoint(s) 
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: undefined
+		V0: array
+		V1: array
+Paused at 91
+	Hit Breakpoint(s) 
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: undefined
+		V0: array
+		V1: array
+		V2: array
+Paused at 78
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: undefined
+		V0: array
+		V1: array
+Paused at 78
+	Hit Breakpoint(s) 
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: undefined
+		V0: array
+		V1: array
+Paused at 83
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: array
+		V0: array
+		V1: array
+Paused at 92
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: undefined
+		V0: array
+		V1: array
+		V2: array
+Paused at 96
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: number = 1600
+		V0: array
+		V1: array
+		V2: array
+Paused at 91
+	Hit Breakpoint(s) 
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: undefined
+		V0: array
+		V1: array
+		V2: array
+Paused at 78
+	Hit Breakpoint(s) 
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: undefined
+		V0: array
+		V1: array
+Paused at 91
+	Hit Breakpoint(s) 
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: undefined
+		V0: array
+		V1: array
+		V2: array
+Paused at 78
+	Hit Breakpoint(s) 
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: undefined
+		V0: array
+		V1: array
+Paused at 91
+	Hit Breakpoint(s) 
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: undefined
+		V0: array
+		V1: array
+		V2: array
+Paused at 78
+	Hit Breakpoint(s) 
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: undefined
+		V0: array
+		V1: array
+Paused at 79
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: array
+		V0: array
+		V1: array
+Paused at 91
+	Hit Breakpoint(s) 
+	Call Stack: CalcNormal, Init 
+	Bindings: A: array
+		B: array
+		i: number = 3
+		Length: undefined
+		V0: array
+		V1: array
+		V2: array
+Paused at 78
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: undefined
+		V0: array
+		V1: array
+Paused at 79
+	Call Stack: CalcCross, CalcNormal, Init 
+	Bindings: Cross: array
+		V0: array
+		V1: array
+Paused at 318
+	Hit Breakpoint(s) 
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: number = 6
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 142
+	Hit Breakpoint(s) 
+	Call Stack: Translate, Init 
+	Bindings: Dx: number = 150
+		Dy: number = 150
+		Dz: number = 20
+		M: array
+		T: undefined
+Paused at 104
+	Hit Breakpoint(s) 
+	Call Stack: MMulti, Translate, Init 
+	Bindings: i: undefined
+		j: undefined
+		M: undefined
+		M1: array
+		M2: array
+Paused at 104
+	Hit Breakpoint(s) 
+	Call Stack: MMulti, Init 
+	Bindings: i: undefined
+		j: undefined
+		M: undefined
+		M1: array
+		M2: array
+Paused at 112
+	Call Stack: MMulti, Init 
+	Bindings: i: number = 4
+		j: number = 4
+		M: array
+		M1: array
+		M2: array
+Paused at 324
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: number = 360
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 325
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: number = 0
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 326
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: number = 0
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 116
+	Call Stack: VMulti, Init 
+	Bindings: i: undefined
+		M: array
+		V: array
+		Vect: undefined
+Paused at 120
+	Call Stack: VMulti, Init 
+	Bindings: i: number = 4
+		M: array
+		V: array
+		Vect: array
+Paused at 325
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: number = 0
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 328
+	Hit Breakpoint(s) 
+	Call Stack: Init 
+	Bindings: CubeSize: number = 20
+		i: number = 9
+		j: undefined
+		sum: undefined
+		vector: undefined
+Paused at 197
+	Hit Breakpoint(s) 
+	Call Stack: DrawQube, Init 
+	Bindings: CurN: array
+		i: number = 5
+Paused at 198
+	Call Stack: DrawQube, Init 
+	Bindings: CurN: array
+		i: number = 5
+Paused at 212
+	Hit Breakpoint(s) 
+	Call Stack: DrawQube, Init 
+	Bindings: CurN: array
+		i: number = -1
+Paused at 25
+	Hit Breakpoint(s) 
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: undefined
+		dy: undefined
+		From: object
+		i: undefined
+		IncX1: undefined
+		IncX2: undefined
+		IncY1: undefined
+		IncY2: undefined
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: undefined
+		x1: undefined
+		x2: undefined
+		y: undefined
+		y1: undefined
+		y2: undefined
+Paused at 26
+	Hit Breakpoint(s) 
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: undefined
+		dy: undefined
+		From: object
+		i: undefined
+		IncX1: undefined
+		IncX2: undefined
+		IncY1: undefined
+		IncY2: undefined
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: undefined
+		x1: number = 130
+		x2: undefined
+		y: undefined
+		y1: undefined
+		y2: undefined
+Paused at 27
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: undefined
+		dy: undefined
+		From: object
+		i: undefined
+		IncX1: undefined
+		IncX2: undefined
+		IncY1: undefined
+		IncY2: undefined
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: undefined
+		x1: number = 130
+		x2: number = 130
+		y: undefined
+		y1: undefined
+		y2: undefined
+Paused at 27
+	Hit Breakpoint(s) 
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: undefined
+		dy: undefined
+		From: object
+		i: undefined
+		IncX1: undefined
+		IncX2: undefined
+		IncY1: undefined
+		IncY2: undefined
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: undefined
+		x1: number = 130
+		x2: number = 130
+		y: undefined
+		y1: undefined
+		y2: undefined
+Paused at 32
+	Hit Breakpoint(s) 
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: number = 0
+		dy: number = 40
+		From: object
+		i: undefined
+		IncX1: undefined
+		IncX2: undefined
+		IncY1: undefined
+		IncY2: undefined
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: number = 130
+		x1: number = 130
+		x2: number = 130
+		y: undefined
+		y1: number = 130
+		y2: number = 170
+Paused at 40
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: number = 0
+		dy: number = 40
+		From: object
+		i: undefined
+		IncX1: undefined
+		IncX2: undefined
+		IncY1: undefined
+		IncY2: undefined
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: number = 130
+		x1: number = 130
+		x2: number = 130
+		y: number = 130
+		y1: number = 130
+		y2: number = 170
+Paused at 42
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: number = 0
+		dy: number = 40
+		From: object
+		i: undefined
+		IncX1: number = 1
+		IncX2: number = 1
+		IncY1: undefined
+		IncY2: undefined
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: number = 130
+		x1: number = 130
+		x2: number = 130
+		y: number = 130
+		y1: number = 130
+		y2: number = 170
+Paused at 44
+	Call Stack: DrawLine, DrawQube, Init 
+	Bindings: Den: undefined
+		dx: number = 0
+		dy: number = 40
+		From: object
+		i: undefined
+		IncX1: number = 1
+		IncX2: number = 1
+		IncY1: number = 1
+		IncY2: number = 1
+		Num: undefined
+		NumAdd: undefined
+		NumPix: undefined
+		To: object
+		x: number = 130
+		x1: number = 130
+		x2: number = 130
+		y: number = 130
+		y1: number = 130
+		y2: number = 170

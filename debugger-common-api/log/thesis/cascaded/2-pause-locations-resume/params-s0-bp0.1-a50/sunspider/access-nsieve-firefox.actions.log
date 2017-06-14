@@ -1,0 +1,8 @@
+Set Breakpoint at 7
+Set Breakpoint at 10
+Set Breakpoint at 31
+Set Breakpoint at 28
+resume
+resume
+resume
+resume

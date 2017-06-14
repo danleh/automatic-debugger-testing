@@ -1,0 +1,83 @@
+Breakpoint 0 Set at 4
+Breakpoint 1 Set at 20
+Breakpoint 2 Set at 19
+Paused at 4
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 19
+	Hit Breakpoint(s) 2
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: undefined
+		t: undefined
+		x: undefined
+		y: undefined
+Paused at 20
+	Hit Breakpoint(s) 1
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 0
+		t: undefined
+		x: undefined
+		y: undefined
+Paused at 21
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 0
+		t: undefined
+		x: number = 0
+		y: undefined
+Paused at 20
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 1024
+		t: undefined
+		x: number = 0
+		y: number = 256
+Paused at 20
+	Hit Breakpoint(s) 1
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 1024
+		t: undefined
+		x: number = 0
+		y: number = 256
+Paused at 20
+	Hit Breakpoint(s) 1
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 2048
+		t: undefined
+		x: number = 1
+		y: number = 256
+Paused at 21
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 2048
+		t: undefined
+		x: number = 2
+		y: number = 256
+Paused at 20
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 3072
+		t: undefined
+		x: number = 2
+		y: number = 256
+Paused at 20
+	Hit Breakpoint(s) 1
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 3072
+		t: undefined
+		x: number = 2
+		y: number = 256
+Paused at 20
+	Hit Breakpoint(s) 1
+	Call Stack: TimeFunc 
+	Bindings: func: function
+		sum: number = 4096
+		t: undefined
+		x: number = 3
+		y: number = 256

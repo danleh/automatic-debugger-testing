@@ -1,0 +1,1009 @@
+Breakpoint Set at 39
+Breakpoint Set at 39
+Breakpoint Set at 8
+Breakpoint Set at 4
+Breakpoint Set at 62
+Paused at 39
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 4
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: undefined
+		i: undefined
+		j: undefined
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 0
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 1
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 2
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 3
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 4
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 5
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 6
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 7
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 8
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 9
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 10
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 11
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 12
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 13
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 14
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 15
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 16
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 17
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 18
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 19
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 20
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 21
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 22
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 23
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 24
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 25
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 26
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 27
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 28
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 29
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 30
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 31
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 32
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 33
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 34
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 35
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 36
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 37
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 38
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 39
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 40
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 41
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 42
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 43
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 44
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 45
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 46
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 47
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 48
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 49
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 50
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 51
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 52
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 53
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 54
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 55
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 56
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 57
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 58
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 59
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 60
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 61
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 62
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 63
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 64
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 65
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 66
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 67
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 68
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 69
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 70
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 71
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 72
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 73
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 74
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 75
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 76
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 77
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 78
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 79
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 80
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 81
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 82
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 83
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 84
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 85
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 86
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 87
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 88
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 89
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 90
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 91
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 92
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 93
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 94
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 95
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 96
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 97
+		PI2nx: number = 0.20943951023931953
+		sin: function
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: morph 
+	Bindings: a: array
+		f: number = 0
+		f30: number = 
+		i: number = 0
+		j: number = 98
+		PI2nx: number = 0.20943951023931953
+		sin: function

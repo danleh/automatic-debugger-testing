@@ -1,0 +1,30 @@
+Breakpoint Set at 42
+Breakpoint Set at 47
+Breakpoint Set at 23
+Paused at 42
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: scriptConst: null
+Paused at 47
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: scriptConst: number = 3.14
+Paused at 23
+	Hit Breakpoint(s) 
+	Call Stack: fnName 
+	Bindings: constBound: null
+		letBound: null
+		notInitialized: undefined
+		param: string = arg1
+		param2: string = arg2
+		scriptConst: number = 3.14
+		secondBlock: number = 42
+		shadowedVarBound: number = 12
+		someArray: undefined
+		someFunction: undefined
+		someNotJsonSerializable1: undefined
+		someNotJsonSerializable2: undefined
+		someNull: undefined
+		someObject: undefined
+		someUndefined: undefined
+		varBound: undefined

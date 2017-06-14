@@ -1,0 +1,9 @@
+Set Breakpoint at 1
+Set Breakpoint at 4
+Set Breakpoint at 3
+resume
+resume
+stepOver
+stepOver
+stepOut
+resume

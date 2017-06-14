@@ -1,0 +1,39 @@
+Breakpoint Set at 7
+Breakpoint Set at 31
+Breakpoint Set at 28
+Breakpoint Set at 43
+Paused at 31
+	Hit Breakpoint(s) 
+	Call Stack: sieve 
+	Bindings: flags: undefined
+		i: undefined
+		m: undefined
+		sum: undefined
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: nsieve, sieve 
+	Bindings: count: number
+		i: number
+		isPrime: array
+		k: number
+		m: number
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: nsieve, sieve 
+	Bindings: count: number
+		i: number
+		isPrime: array
+		k: number
+		m: number
+Paused at 28
+	Hit Breakpoint(s) 
+	Call Stack: nsieve, sieve 
+	Bindings: count: number
+		i: number
+		isPrime: array
+		k: number
+		m: number
+Paused at 43
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 

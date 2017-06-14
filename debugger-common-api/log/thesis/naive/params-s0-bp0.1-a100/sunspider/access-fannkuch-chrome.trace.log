@@ -1,0 +1,1968 @@
+Breakpoint Set at 64
+Breakpoint Set at 8
+Breakpoint Set at 46
+Breakpoint Set at 40
+Breakpoint Set at 67
+Breakpoint Set at 21
+Breakpoint Set at 50
+Paused at 64
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 0
+		count: undefined
+		flipsCount: undefined
+		i: undefined
+		j: undefined
+		k: undefined
+		k2: undefined
+		m: undefined
+		maxFlipsCount: undefined
+		maxPerm: undefined
+		n: number = 8
+		perm: array
+		perm0: undefined
+		perm1: undefined
+		r: undefined
+		s: undefined
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 0
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: undefined
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: undefined
+		perm1: array
+		r: number = 8
+		s: string = 
+		temp: undefined
+Paused at 21
+	Call Stack: fannkuch 
+	Bindings: check: number = 0
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: undefined
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: undefined
+		perm1: array
+		r: number = 8
+		s: string = 
+		temp: undefined
+Paused at 21
+	Call Stack: fannkuch 
+	Bindings: check: number = 0
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: undefined
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: undefined
+		perm1: array
+		r: number = 8
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 1
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: undefined
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: undefined
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 1
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: undefined
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 51
+	Call Stack: fannkuch 
+	Bindings: check: number = 1
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: undefined
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 52
+	Call Stack: fannkuch 
+	Bindings: check: number = 1
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 1
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 1
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 21
+	Call Stack: fannkuch 
+	Bindings: check: number = 1
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 47
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 21
+	Call Stack: fannkuch 
+	Bindings: check: number = 2
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 3
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 3
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 51
+	Call Stack: fannkuch 
+	Bindings: check: number = 3
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 3
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 55
+	Call Stack: fannkuch 
+	Bindings: check: number = 3
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 57
+	Call Stack: fannkuch 
+	Bindings: check: number = 3
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 3
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 47
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 48
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 49
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 51
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 21
+	Call Stack: fannkuch 
+	Bindings: check: number = 4
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 5
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 5
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 5
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 55
+	Call Stack: fannkuch 
+	Bindings: check: number = 5
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 5
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 47
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 48
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 49
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 55
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 51
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 52
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 53
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 55
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 57
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 58
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 47
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 51
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 3
+		j: number = 3
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 55
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 3
+		j: number = 3
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 6
+		count: array
+		flipsCount: undefined
+		i: number = 3
+		j: number = 3
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 3
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 7
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 3
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 47
+	Call Stack: fannkuch 
+	Bindings: check: number = 7
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 3
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 0
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 7
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 3
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 7
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 7
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 47
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 48
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 49
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 55
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 51
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 52
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 1
+		j: number = 1
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 55
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 57
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 58
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 21
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 2
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 21
+	Call Stack: fannkuch 
+	Bindings: check: number = 8
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 2
+		s: string = 
+		temp: undefined
+Paused at 46
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 9
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 47
+	Call Stack: fannkuch 
+	Bindings: check: number = 9
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 48
+	Call Stack: fannkuch 
+	Bindings: check: number = 9
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 1
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 49
+	Call Stack: fannkuch 
+	Bindings: check: number = 9
+		count: array
+		flipsCount: undefined
+		i: number = 8
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined
+Paused at 50
+	Hit Breakpoint(s) 
+	Call Stack: fannkuch 
+	Bindings: check: number = 9
+		count: array
+		flipsCount: undefined
+		i: number = 0
+		j: number = 2
+		k: undefined
+		k2: undefined
+		m: number = 7
+		maxFlipsCount: number = 0
+		maxPerm: array
+		n: number = 8
+		perm: array
+		perm0: number = 2
+		perm1: array
+		r: number = 1
+		s: string = 
+		temp: undefined

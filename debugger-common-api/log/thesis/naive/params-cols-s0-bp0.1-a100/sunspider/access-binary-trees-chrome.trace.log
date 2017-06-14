@@ -1,0 +1,502 @@
+Breakpoint Set at 11:1
+Breakpoint Set at 6:4
+Breakpoint Set at 33:25
+Breakpoint Set at 31:15
+Breakpoint Set at 52:16
+Paused at 11:1
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 31:15
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 33:25
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 34:33
+	Call Stack:  
+	Bindings: 
+Paused at 36:46
+	Call Stack:  
+	Bindings: 
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -127
+		left: null = null
+		right: null = null
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -126
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -126
+		left: null = null
+		right: null = null
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -126
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -126
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -63
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -63
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -125
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -125
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -125
+Paused at 20:11
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -62
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -124
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -124
+Paused at 18:14
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -62
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -62
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -31
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -31
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -123
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -123
+Paused at 20:11
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -61
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -122
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -122
+		left: null = null
+		right: null = null
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -122
+		left: null = null
+		right: null = null
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -61
+		left: object
+		right: object
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -61
+Paused at 20:11
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 2
+		item: number = -30
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -121
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -121
+Paused at 20:11
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -60
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -120
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -120
+		left: null = null
+		right: null = null
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -120
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -120
+Paused at 18:14
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -60
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -60
+		left: object
+		right: object
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -60
+Paused at 18:14
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 2
+		item: number = -30
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -30
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -15
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -119
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -119
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -119
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -118
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -118
+		left: null = null
+		right: null = null
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -118
+		left: null = null
+		right: null = null
+Paused at 9:1
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -118
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -118
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -59
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -59
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -117
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -117
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -116
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -116
+		left: null = null
+		right: null = null
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -116
+		left: null = null
+		right: null = null
+Paused at 9:1
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -116
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -116
+Paused at 18:14
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -58
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -58
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -58
+		left: object
+		right: object
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -58
+Paused at 18:14
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 2
+		item: number = -29
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -29
+		left: object
+		right: object
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 2
+		item: number = -29
+Paused at 20:11
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 3
+		item: number = -14
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -115
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -115
+Paused at 20:11
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -57
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -114
+		left: null = null
+		right: null = null
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -57
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -57
+		left: object
+		right: object
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -57
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -113
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -113
+Paused at 20:11
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -56
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -112
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -112
+		left: null = null
+		right: null = null
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -112
+		left: null = null
+		right: null = null
+Paused at 9:1
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -112
+		left: null = null
+		right: null = null
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -56
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -56
+		left: object
+		right: object
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 1
+		item: number = -56
+Paused at 18:14
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 2
+		item: number = -28
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -28
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -28
+		left: object
+		right: object
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 2
+		item: number = -28
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -14
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -14
+		left: object
+		right: object
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -14
+		left: object
+		right: object
+Paused at 9:1
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -14
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -7
+		left: object
+		right: object
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -7
+		left: object
+		right: object
+Paused at 6:4
+	Hit Breakpoint(s) 
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -111
+		left: null = null
+		right: null = null
+Paused at 7:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -111
+		left: null = null
+		right: null = null
+Paused at 8:4
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -111
+		left: null = null
+		right: null = null
+Paused at 9:1
+	Call Stack: TreeNode, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: item: number = -111
+		left: null = null
+		right: null = null
+Paused at 27:1
+	Call Stack: bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree, bottomUpTree 
+	Bindings: depth: number = 0
+		item: number = -111

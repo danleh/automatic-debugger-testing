@@ -1,0 +1,68 @@
+Breakpoint Set at 3
+Breakpoint Set at 8
+Breakpoint Set at 25
+Breakpoint Set at 25
+Paused at 3
+	Hit Breakpoint(s) 
+	Call Stack:  
+	Bindings: 
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: number
+		c: number
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: number
+		c: number
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: number
+		c: number
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: number
+		c: number
+Paused at 8
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: undefined
+		c: undefined
+Paused at 25
+	Hit Breakpoint(s) 
+	Call Stack: fast3bitlookup, TimeFunc 
+	Bindings: b: number
+		bi3b: number
+		c: number

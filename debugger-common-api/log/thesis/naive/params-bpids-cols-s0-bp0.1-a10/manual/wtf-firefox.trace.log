@@ -1,0 +1,43 @@
+Breakpoint 0 Set at 5:1
+Breakpoint 1 Set at 9:1
+Breakpoint 2 Set at 52:1
+Breakpoint 3 Set at 47:1
+Breakpoint 4 Set at 80:1
+Breakpoint 5 Set at 25:1
+Breakpoint 6 Set at 60:1
+Breakpoint 7 Set at 58:1
+Paused at 5:0
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 9:0
+	Hit Breakpoint(s) 1
+	Call Stack:  
+	Bindings: 
+Paused at 25:0
+	Hit Breakpoint(s) 5
+	Call Stack:  
+	Bindings: 
+Paused at 26:1
+	Call Stack:  
+	Bindings: 
+Paused at 30:0
+	Call Stack:  
+	Bindings: 
+Paused at 47:0
+	Hit Breakpoint(s) 3
+	Call Stack:  
+	Bindings: 
+Paused at 52:0
+	Hit Breakpoint(s) 2
+	Call Stack:  
+	Bindings: 
+Paused at 53:0
+	Call Stack:  
+	Bindings: 
+Paused at 54:0
+	Call Stack:  
+	Bindings: 
+Paused at 57:0
+	Call Stack:  
+	Bindings: 

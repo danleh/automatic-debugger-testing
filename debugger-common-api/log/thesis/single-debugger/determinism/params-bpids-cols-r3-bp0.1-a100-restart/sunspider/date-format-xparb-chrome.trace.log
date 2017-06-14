@@ -1,0 +1,579 @@
+Breakpoint 0 Set at 18:1
+Breakpoint 1 Set at 38:13
+Breakpoint 2 Set at 253:9
+Breakpoint 3 Set at 225:9
+Breakpoint 4 Set at 398:1
+Breakpoint 5 Set at 107:1
+Breakpoint 6 Set at 285:1
+Breakpoint 7 Set at 273:9
+Breakpoint 8 Set at 376:1
+Breakpoint 9 Set at 71:9
+Breakpoint 10 Set at 300:1
+Breakpoint 11 Set at 49:5
+Breakpoint 12 Set at 168:5
+Breakpoint 13 Set at 325:1
+Breakpoint 14 Set at 398:1
+Breakpoint 15 Set at 413:6
+Breakpoint 16 Set at 376:1
+Breakpoint 17 Set at 411:12
+Breakpoint 18 Set at 24:1
+Breakpoint 19 Set at 71:9
+Breakpoint 20 Set at 269:9
+Breakpoint 21 Set at 81:9
+Breakpoint 22 Set at 186:37
+Breakpoint 23 Set at 26:1
+Breakpoint 24 Set at 184:9
+Breakpoint 25 Set at 180:9
+Breakpoint 26 Set at 87:9
+Breakpoint 27 Set at 330:1
+Breakpoint 28 Set at 360:1
+Breakpoint 29 Set at 117:1
+Breakpoint 30 Set at 338:13
+Breakpoint 31 Set at 288:18
+Breakpoint 32 Set at 298:1
+Breakpoint 33 Set at 234:9
+Breakpoint 34 Set at 175:9
+Breakpoint 35 Set at 411:12
+Breakpoint 36 Set at 321:21
+Breakpoint 37 Set at 111:9
+Breakpoint 38 Set at 384:1
+Breakpoint 39 Set at 304:16
+Breakpoint 40 Set at 376:1
+Breakpoint 41 Set at 83:9
+Paused at 18:1
+	Hit Breakpoint(s) 0
+	Call Stack:  
+	Bindings: 
+Paused at 26:1
+	Hit Breakpoint(s) 23
+	Call Stack:  
+	Bindings: 
+Paused at 117:1
+	Hit Breakpoint(s) 29
+	Call Stack:  
+	Bindings: 
+Paused at 172:1
+	Call Stack:  
+	Bindings: 
+Paused at 279:1
+	Call Stack:  
+	Bindings: 
+Paused at 285:1
+	Hit Breakpoint(s) 6
+	Call Stack:  
+	Bindings: 
+Paused at 300:1
+	Hit Breakpoint(s) 10
+	Call Stack:  
+	Bindings: 
+Paused at 310:1
+	Call Stack:  
+	Bindings: 
+Paused at 315:1
+	Call Stack:  
+	Bindings: 
+Paused at 325:1
+	Hit Breakpoint(s) 13
+	Call Stack:  
+	Bindings: 
+Paused at 330:1
+	Hit Breakpoint(s) 27
+	Call Stack:  
+	Bindings: 
+Paused at 347:1
+	Call Stack:  
+	Bindings: 
+Paused at 376:1
+	Hit Breakpoint(s) 8, 16, 40
+	Call Stack:  
+	Bindings: 
+Paused at 384:1
+	Hit Breakpoint(s) 38
+	Call Stack:  
+	Bindings: 
+Paused at 398:1
+	Hit Breakpoint(s) 4, 14
+	Call Stack:  
+	Bindings: 
+Paused at 411:12
+	Hit Breakpoint(s) 17, 35
+	Call Stack:  
+	Bindings: 
+Paused at 413:6
+	Hit Breakpoint(s) 15
+	Call Stack:  
+	Bindings: 
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + 
+		format: string = 
+		funcName: string = 
+		i: number = 1
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 2
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 105:9
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 348:5
+	Call Stack: String.escape, Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: string: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + 
+		format: string = 
+		funcName: string = 
+		i: number = 3
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 4
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 5
+		special: boolean = false
+Paused at 45:5
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 5
+		special: boolean = false
+Paused at 46:1
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 5
+		special: boolean = false
+Paused at 22:36
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = 
+		func: undefined
+Paused at 360:1
+	Hit Breakpoint(s) 28
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 
+		result: string = 
+		size: number = 2
+		val: number = 1
+Paused at 1:143
+	Call Stack: Date.format0, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 5
+		special: boolean = false
+Paused at 360:1
+	Hit Breakpoint(s) 28
+	Call Stack: String.leftPad, Date.format0, Date.dateFormat 
+	Bindings: ch: string = 
+		result: string = 
+		size: number = 2
+		val: number = 1
+Paused at 1:162
+	Call Stack: Date.format0, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return this.getFullYear() + '-' + String.leftPad(this.getMonth() + 1, 2, '0') + '-' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 5
+		special: boolean = false
+Paused at 24:1
+	Hit Breakpoint(s) 18
+	Call Stack: Date.dateFormat 
+	Bindings: format: string = 
+		func: string = 
+Paused at 415:27
+	Call Stack:  
+	Bindings: 
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + 
+		format: string = 
+		funcName: string = 
+		i: number = 0
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + 
+		format: string = 
+		funcName: string = 
+		i: number = 1
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + 
+		format: string = 
+		funcName: string = 
+		i: number = 2
+		special: boolean = false
+Paused at 33:9
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + 
+		format: string = 
+		funcName: string = 
+		i: number = 2
+		special: boolean = false
+Paused at 34:9
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + 
+		format: string = 
+		funcName: string = 
+		i: number = 2
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 105:9
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + 
+		format: string = 
+		funcName: string = 
+		i: number = 2
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 67:9
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + 
+		format: string = 
+		funcName: string = 
+		i: number = 3
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + 
+		format: string = 
+		funcName: string = 
+		i: number = 4
+		special: boolean = false
+Paused at 33:9
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + 
+		format: string = 
+		funcName: string = 
+		i: number = 4
+		special: boolean = false
+Paused at 34:9
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + 
+		format: string = 
+		funcName: string = 
+		i: number = 4
+		special: boolean = false
+Paused at 37:14
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + 
+		format: string = 
+		funcName: string = 
+		i: number = 4
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 105:9
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + 
+		format: string = 
+		funcName: string = 
+		i: number = 4
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + 
+		format: string = 
+		funcName: string = 
+		i: number = 5
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + 
+		format: string = 
+		funcName: string = 
+		i: number = 5
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + 
+		format: string = 
+		funcName: string = 
+		i: number = 6
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + 
+		format: string = 
+		funcName: string = 
+		i: number = 7
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 79:9
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + 
+		format: string = 
+		funcName: string = 
+		i: number = 8
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + 
+		format: string = 
+		funcName: string = 
+		i: number = 9
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 105:9
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + 
+		format: string = 
+		funcName: string = 
+		i: number = 9
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + 
+		format: string = 
+		funcName: string = 
+		i: number = 10
+		special: boolean = false
+Paused at 33:9
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + 
+		format: string = 
+		funcName: string = 
+		i: number = 10
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 87:9
+	Hit Breakpoint(s) 26
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + ((this.getHours() %12) ? this.getHours() % 12 : 12) + 
+		format: string = 
+		funcName: string = 
+		i: number = 10
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + ((this.getHours() %12) ? this.getHours() % 12 : 12) + 
+		format: string = 
+		funcName: string = 
+		i: number = 11
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 105:9
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 107:1
+	Hit Breakpoint(s) 5
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
+Paused at 32:42
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + ((this.getHours() %12) ? this.getHours() % 12 : 12) + ':' + 
+		format: string = 
+		funcName: string = 
+		i: number = 11
+		special: boolean = false
+Paused at 32:23
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + ((this.getHours() %12) ? this.getHours() % 12 : 12) + ':' + 
+		format: string = 
+		funcName: string = 
+		i: number = 12
+		special: boolean = false
+Paused at 33:9
+	Call Stack: Date.createNewFormat, Date.dateFormat 
+	Bindings: ch: string = 
+		code: string = ion(){return Date.dayNames[this.getDay()] + ',' + ' ' + Date.monthNames[this.getMonth()] + ' ' + String.leftPad(this.getDate(), 2, '0') + ',' + ' ' + this.getFullYear() + ' ' + ((this.getHours() %12) ? this.getHours() % 12 : 12) + ':' + 
+		format: string = 
+		funcName: string = 
+		i: number = 12
+		special: boolean = false
+Paused at 49:5
+	Hit Breakpoint(s) 11
+	Call Stack: Date.getFormatCode, Date.createNewFormat, Date.dateFormat 
+	Bindings: character: string = 
