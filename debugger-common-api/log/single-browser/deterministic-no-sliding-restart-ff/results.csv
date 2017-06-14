@@ -1,0 +1,26 @@
+Browser,SunSpider testcase,# diff lines/combination
+firefox,3d-cube,0.0
+firefox,3d-morph,0.0
+firefox,3d-raytrace,0.0
+firefox,access-binary-trees,0.0
+firefox,access-fannkuch,0.0
+firefox,access-nbody,0.0
+firefox,access-nsieve,0.0
+firefox,bitops-3bit-bits-in-byte,0.0
+firefox,bitops-bits-in-byte,0.0
+firefox,bitops-bitwise-and,0.0
+firefox,bitops-nsieve-bits,0.0
+firefox,controlflow-recursive,0.0
+firefox,crypto-aes,0.0
+firefox,crypto-md5,0.0
+firefox,crypto-sha1,0.0
+firefox,date-format-tofte,0.0
+firefox,date-format-xparb,0.0
+firefox,math-cordic,0.0
+firefox,math-partial-sums,0.0
+firefox,math-spectral-norm,0.0
+firefox,regexp-dna,0.0
+firefox,string-base64,0.0
+firefox,string-fasta,0.0
+firefox,string-tagcloud,0.0
+firefox,string-unpack-code,0.0

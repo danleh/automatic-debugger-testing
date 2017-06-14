@@ -1,0 +1,158 @@
+request breakpoint   0 at line  23
+                   set at line  23
+request breakpoint   1 at line  46
+                   set at line  46
+request breakpoint   2 at line 129
+                   set at line 129
+request breakpoint   3 at line 119
+                   set at line 119
+request breakpoint   4 at line 249
+                   set at line 249
+request breakpoint   5 at line  76
+                   set at line  76
+request breakpoint   6 at line 165
+                   set at line 165
+request breakpoint   7 at line 152
+                   set at line 152
+request breakpoint   8 at line 229
+                   set at line 229
+request breakpoint   9 at line  65
+                   set at line  65
+request breakpoint  10 at line 174
+                   set at line 174
+request breakpoint  11 at line  59
+                   set at line  59
+request breakpoint  12 at line 101
+                   set at line 101
+request breakpoint  13 at line 203
+                   set at line 203
+request breakpoint  14 at line 252
+                   set at line 252
+paused at line 203
+	because of breakpoints: 13
+	call stack function names: str2binl, hex_md5
+	local property names: bin, i, mask, str
+action: stepIn
+paused at line 204
+	call stack function names: str2binl, hex_md5
+	local property names: bin, i, mask, str
+action: stepIn
+paused at line 205
+	call stack function names: str2binl, hex_md5
+	local property names: bin, i, mask, str
+action: stepOver
+paused at line 205
+	call stack function names: str2binl, hex_md5
+	local property names: bin, i, mask, str
+action: stepOver
+paused at line 206
+	call stack function names: str2binl, hex_md5
+	local property names: bin, i, mask, str
+action: resume
+paused at line  46
+	because of breakpoints: 1
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: stepIn
+paused at line  47
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: stepOver
+paused at line  48
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: stepOver
+paused at line  49
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: resume
+paused at line  59
+	because of breakpoints: 11
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: stepIn
+paused at line 144
+	call stack function names: md5_ff, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: stepOver
+paused at line 145
+	call stack function names: md5_ff, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: stepIn
+paused at line  60
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: stepOut
+paused at line  65
+	because of breakpoints: 9
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: resume
+paused at line  76
+	because of breakpoints: 5
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: resume
+paused at line 152
+	because of breakpoints: 7
+	call stack function names: md5_hh, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: resume
+paused at line 152
+	because of breakpoints: 7
+	call stack function names: md5_hh, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: resume
+paused at line 152
+	because of breakpoints: 7
+	call stack function names: md5_hh, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: resume
+paused at line 152
+	because of breakpoints: 7
+	call stack function names: md5_hh, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: stepIn
+paused at line 140
+	call stack function names: md5_cmn, md5_hh, core_md5, hex_md5
+	local property names: a, b, q, s, t, x
+action: stepIn
+paused at line 184
+	call stack function names: safe_add, md5_cmn, md5_hh, core_md5, hex_md5
+	local property names: lsw, msw, x, y
+action: stepOver
+paused at line 185
+	call stack function names: safe_add, md5_cmn, md5_hh, core_md5, hex_md5
+	local property names: lsw, msw, x, y
+action: stepIn
+paused at line 186
+	call stack function names: safe_add, md5_cmn, md5_hh, core_md5, hex_md5
+	local property names: lsw, msw, x, y
+action: resume
+paused at line 152
+	because of breakpoints: 7
+	call stack function names: md5_hh, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: stepOut
+paused at line  97
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: stepIn
+paused at line 152
+	because of breakpoints: 7
+	call stack function names: md5_hh, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: stepOut
+paused at line  98
+	call stack function names: core_md5, hex_md5
+	local property names: a, b, c, d, i, len, olda, oldb, oldc, oldd, x
+action: stepOut
+paused at line 152
+	because of breakpoints: 7
+	call stack function names: md5_hh, core_md5, hex_md5
+	local property names: a, b, c, d, s, t, x
+action: stepIn
+paused at line 140
+	call stack function names: md5_cmn, md5_hh, core_md5, hex_md5
+	local property names: a, b, q, s, t, x
+action: resume

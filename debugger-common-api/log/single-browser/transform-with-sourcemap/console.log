@@ -1,0 +1,256 @@
+/home/daniel/.nvm/versions/node/v7.4.0/bin/node /home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js
+transformation: hoist-vars
+chrome - 3d-cube
+chrome - 3d-morph
+chrome - 3d-raytrace
+chrome - access-binary-trees
+chrome - access-fannkuch
+chrome - access-nbody
+chrome - access-nsieve
+chrome - bitops-3bit-bits-in-byte
+chrome - bitops-bits-in-byte
+chrome - bitops-bitwise-and
+chrome - bitops-nsieve-bits
+chrome - controlflow-recursive
+chrome - crypto-aes
+chrome - crypto-md5
+chrome - crypto-sha1
+chrome - date-format-tofte
+chrome - date-format-xparb
+chrome - math-cordic
+chrome - math-partial-sums
+chrome - math-spectral-norm
+chrome - regexp-dna
+chrome - string-base64
+chrome - string-fasta
+chrome - string-tagcloud
+chrome - string-unpack-code
+chrome - string-validate-input
+firefox - 3d-cube
+firefox - 3d-morph
+firefox - 3d-raytrace
+firefox - access-binary-trees
+firefox - access-fannkuch
+firefox - access-nbody
+firefox - access-nsieve
+firefox - bitops-3bit-bits-in-byte
+firefox - bitops-bits-in-byte
+firefox - bitops-bitwise-and
+firefox - bitops-nsieve-bits
+firefox - controlflow-recursive
+firefox - crypto-aes
+firefox - crypto-md5
+firefox - crypto-sha1
+firefox - date-format-tofte
+firefox - date-format-xparb
+firefox - math-cordic
+firefox - math-partial-sums
+firefox - math-spectral-norm
+firefox - regexp-dna
+testcase took too long
+undefined
+firefox - string-base64
+firefox - string-fasta
+firefox - string-tagcloud
+firefox - string-unpack-code
+firefox - string-validate-input
+transformation: hoist-funcs
+chrome - 3d-cube
+chrome - 3d-morph
+chrome - 3d-raytrace
+chrome - access-binary-trees
+chrome - access-fannkuch
+chrome - access-nbody
+chrome - access-nsieve
+chrome - bitops-3bit-bits-in-byte
+chrome - bitops-bits-in-byte
+chrome - bitops-bitwise-and
+chrome - bitops-nsieve-bits
+chrome - controlflow-recursive
+chrome - crypto-aes
+chrome - crypto-md5
+chrome - crypto-sha1
+chrome - date-format-tofte
+chrome - date-format-xparb
+chrome - math-cordic
+chrome - math-partial-sums
+chrome - math-spectral-norm
+chrome - regexp-dna
+chrome - string-base64
+chrome - string-fasta
+chrome - string-tagcloud
+(node:22524) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): Error: cannot map mapped line 10000
+(node:22524) DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+chrome - string-unpack-code
+chrome - string-validate-input
+firefox - 3d-cube
+firefox - 3d-morph
+firefox - 3d-raytrace
+firefox - access-binary-trees
+firefox - access-fannkuch
+firefox - access-nbody
+firefox - access-nsieve
+firefox - bitops-3bit-bits-in-byte
+firefox - bitops-bits-in-byte
+firefox - bitops-bitwise-and
+firefox - bitops-nsieve-bits
+firefox - controlflow-recursive
+firefox - crypto-aes
+firefox - crypto-md5
+firefox - crypto-sha1
+firefox - date-format-tofte
+firefox - date-format-xparb
+firefox - math-cordic
+firefox - math-partial-sums
+firefox - math-spectral-norm
+firefox - regexp-dna
+testcase took too long
+undefined
+firefox - string-base64
+firefox - string-fasta
+firefox - string-tagcloud
+firefox - string-unpack-code
+firefox - string-validate-input
+transformation: randomize-funcs
+chrome - 3d-cube
+chrome - 3d-morph
+chrome - 3d-raytrace
+chrome - access-binary-trees
+chrome - access-fannkuch
+chrome - access-nbody
+chrome - access-nsieve
+chrome - bitops-3bit-bits-in-byte
+chrome - bitops-bits-in-byte
+chrome - bitops-bitwise-and
+chrome - bitops-nsieve-bits
+chrome - controlflow-recursive
+chrome - crypto-aes
+chrome - crypto-md5
+chrome - crypto-sha1
+chrome - date-format-tofte
+chrome - date-format-xparb
+chrome - math-cordic
+chrome - math-partial-sums
+chrome - math-spectral-norm
+chrome - regexp-dna
+chrome - string-base64
+chrome - string-fasta
+chrome - string-tagcloud
+(node:22524) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): Error: cannot map mapped line 10000
+chrome - string-unpack-code
+chrome - string-validate-input
+firefox - 3d-cube
+firefox - 3d-morph
+firefox - 3d-raytrace
+firefox - access-binary-trees
+Error: cannot map mapped line 54
+    at Object.assert (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/utils.js:46:15)
+    at SourceMap.mappedToOriginalLines (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/source-map.js:26:17)
+    at /home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:158:43
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:4:58)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+Error: cannot map mapped line 54
+    at Object.assert (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/utils.js:46:15)
+    at SourceMap.mappedToOriginalLines (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/source-map.js:26:17)
+    at /home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:158:43
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:4:58)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+firefox - access-fannkuch
+firefox - access-nbody
+firefox - access-nsieve
+firefox - bitops-3bit-bits-in-byte
+firefox - bitops-bits-in-byte
+firefox - bitops-bitwise-and
+firefox - bitops-nsieve-bits
+firefox - controlflow-recursive
+firefox - crypto-aes
+firefox - crypto-md5
+firefox - crypto-sha1
+firefox - date-format-tofte
+firefox - date-format-xparb
+firefox - math-cordic
+firefox - math-partial-sums
+firefox - math-spectral-norm
+firefox - regexp-dna
+testcase took too long
+undefined
+firefox - string-base64
+firefox - string-fasta
+firefox - string-tagcloud
+firefox - string-unpack-code
+firefox - string-validate-input
+transformation: hoist-randomize-funcs
+chrome - 3d-cube
+chrome - 3d-morph
+chrome - 3d-raytrace
+chrome - access-binary-trees
+chrome - access-fannkuch
+chrome - access-nbody
+chrome - access-nsieve
+chrome - bitops-3bit-bits-in-byte
+chrome - bitops-bits-in-byte
+chrome - bitops-bitwise-and
+chrome - bitops-nsieve-bits
+chrome - controlflow-recursive
+chrome - crypto-aes
+chrome - crypto-md5
+chrome - crypto-sha1
+chrome - date-format-tofte
+chrome - date-format-xparb
+chrome - math-cordic
+chrome - math-partial-sums
+chrome - math-spectral-norm
+chrome - regexp-dna
+chrome - string-base64
+chrome - string-fasta
+chrome - string-tagcloud
+(node:22524) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 12): Error: cannot map mapped line 10000
+chrome - string-unpack-code
+chrome - string-validate-input
+firefox - 3d-cube
+firefox - 3d-morph
+firefox - 3d-raytrace
+Error: cannot map mapped line 78
+    at Object.assert (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/utils.js:46:15)
+    at SourceMap.mappedToOriginalLines (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/source-map.js:26:17)
+    at /home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:158:43
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:4:58)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+Error: cannot map mapped line 78
+    at Object.assert (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/utils.js:46:15)
+    at SourceMap.mappedToOriginalLines (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/utils/source-map.js:26:17)
+    at /home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:158:43
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/daniel/Documents/masterthesis/implementation/debugger-common-api/build/single-browser/transformation-source-map.js:4:58)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+firefox - access-binary-trees
+firefox - access-fannkuch
+firefox - access-nbody
+firefox - access-nsieve
+firefox - bitops-3bit-bits-in-byte
+firefox - bitops-bits-in-byte
+firefox - bitops-bitwise-and
+firefox - bitops-nsieve-bits
+firefox - controlflow-recursive
+firefox - crypto-aes
+firefox - crypto-md5
+firefox - crypto-sha1
+firefox - date-format-tofte
+firefox - date-format-xparb
+firefox - math-cordic
+firefox - math-partial-sums
+firefox - math-spectral-norm
+firefox - regexp-dna
+testcase took too long
+undefined
+firefox - string-base64
+firefox - string-fasta
+firefox - string-tagcloud
+firefox - string-unpack-code
+firefox - string-validate-input
+
+Process finished with exit code 0
+

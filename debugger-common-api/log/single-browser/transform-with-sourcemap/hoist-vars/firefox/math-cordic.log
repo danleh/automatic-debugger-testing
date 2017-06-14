@@ -1,0 +1,161 @@
+request breakpoint   0 at line   4
+                   set at line  28
+request breakpoint   1 at line   9
+                   set at line  28
+request breakpoint   1 at line  61
+                   set at line  61
+request breakpoint   2 at line  55
+                   set at line  61
+request breakpoint   2 at line  95
+                   set at line  95
+request breakpoint   3 at line  26
+                   set at line  28
+request breakpoint   3 at line  70
+                   set at line  70
+request breakpoint   4 at line  68
+                   set at line  68
+request breakpoint   5 at line  89
+                   set at line  89
+request breakpoint   6 at line  21
+                   set at line  28
+request breakpoint   6 at line  73
+                   set at line  74
+request breakpoint   7 at line  18
+                   set at line  28
+request breakpoint   7 at line  46
+                   set at line  46
+request breakpoint   8 at line  78
+                   set at line  81
+request breakpoint   9 at line  97
+                   set at line  97
+request breakpoint  10 at line 104
+                   set at line 104
+request breakpoint  11 at line  91
+                   set at line  91
+paused at line  28
+	because of breakpoints [7]
+action: stepIn
+paused at line  45
+action: stepIn
+paused at line  46
+action: stepOver
+paused at line  47
+action: stepOver
+paused at line  48
+action: resume
+paused at line  89
+	because of breakpoints [5]
+action: stepIn
+paused at line  91
+action: stepOver
+paused at line  92
+action: stepOver
+paused at line  61
+	because of breakpoints [2]
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: stepIn
+paused at line  69
+action: stepOver
+paused at line  70
+action: stepIn
+paused at line  71
+action: stepOut
+paused at line  68
+	because of breakpoints [4]
+action: resume
+paused at line  74
+	because of breakpoints [6]
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: resume
+paused at line  70
+	because of breakpoints [3]
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: resume
+paused at line  74
+	because of breakpoints [6]
+action: stepIn
+paused at line  75
+action: stepIn
+paused at line  76
+action: stepOver
+paused at line  77
+action: stepIn
+paused at line  66
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: stepOut
+paused at line  70
+	because of breakpoints [3]
+action: stepIn
+paused at line  71
+action: stepOut
+paused at line  68
+	because of breakpoints [4]
+action: stepOut
+paused at line  74
+	because of breakpoints [6]
+action: stepIn
+paused at line  75
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: resume
+paused at line  70
+	because of breakpoints [3]
+action: stepIn
+paused at line  71
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: stepOver
+paused at line  74
+action: stepOver
+paused at line  75
+action: stepOver
+paused at line  76
+action: stepOut
+paused at line  68
+	because of breakpoints [4]
+action: resume
+paused at line  70
+	because of breakpoints [3]
+action: stepOver
+paused at line  71
+action: stepIn
+paused at line  72
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: stepOver
+paused at line  69
+action: resume
+paused at line  70
+	because of breakpoints [3]
+action: stepIn
+paused at line  71
+action: stepIn
+paused at line  72
+action: stepOver
+paused at line  66
+action: resume
+paused at line  68
+	because of breakpoints [4]
+action: stepIn
+paused at line  69
+action: stepOver
+paused at line  70
+action: stepOver
+paused at line  71
+action: stepOver
+paused at line  72
+action: stepOut
+paused at line  68
+	because of breakpoints [4]
+action: stepIn

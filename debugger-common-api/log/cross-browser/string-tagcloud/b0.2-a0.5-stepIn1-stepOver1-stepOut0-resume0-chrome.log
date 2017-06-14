@@ -1,0 +1,330 @@
+request breakpoint   0 at line  29
+                   set at line  38
+request breakpoint   1 at line  48
+                   set at line  48
+request breakpoint   2 at line  52
+                   set at line  54
+request breakpoint   3 at line  97
+                   set at line  98
+request breakpoint   4 at line 101
+                   set at line 102
+request breakpoint   5 at line 106
+                   set at line 108
+request breakpoint   6 at line 136
+                   set at line 139
+request breakpoint   7 at line 155
+                   set at line 159
+request breakpoint   8 at line 160
+                   set at line 166
+request breakpoint   9 at line 169
+                   set at line 170
+request breakpoint  10 at line 181
+                   set at line 183
+request breakpoint  11 at line 194
+                   set at line 198
+request breakpoint  12 at line 213
+                   set at line 214
+request breakpoint  13 at line 219
+                   set at line 219
+request breakpoint  14 at line 242
+                   set at line 243
+request breakpoint  15 at line 246
+                   set at line 247
+request breakpoint  16 at line 248
+                   set at line 249
+request breakpoint  17 at line 253
+                   set at line 254
+request breakpoint  18 at line 260
+                   set at line 261
+request breakpoint  19 at line 263
+                   set at line 264
+request breakpoint  20 at line 268
+                   set at line 270
+request breakpoint  21 at line 277
+                   set at line 278
+paused at line  38
+	because of breakpoints [0]
+action: stepIn
+paused at line  40
+action: stepIn
+paused at line  75
+action: stepOver
+paused at line  80
+action: stepOver
+paused at line  96
+action: stepOver
+paused at line 102
+action: stepIn
+paused at line 170
+action: stepOver
+paused at line 183
+action: stepOver
+paused at line 214
+action: stepOver
+paused at line 229
+action: stepIn
+paused at line 232
+action: stepOver
+paused at line 234
+action: stepIn
+paused at line 235
+action: stepIn
+paused at line 201
+action: stepOver
+paused at line 205
+action: stepOver
+paused at line 207
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepIn
+paused at line 189
+action: stepOver
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepOver
+paused at line 198
+action: stepIn
+paused at line 235
+action: stepIn
+paused at line 235
+action: stepIn
+paused at line 235
+action: stepIn
+paused at line 199
+action: stepIn
+paused at line 192
+action: stepOver
+paused at line 193
+action: stepOver
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepOver
+paused at line 189
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepOver
+paused at line 189
+action: stepOver
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepIn
+paused at line 189
+action: stepOver
+paused at line 190
+action: stepOver
+paused at line 191
+action: stepIn
+paused at line 188
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepIn
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepIn
+paused at line 189
+action: stepOver
+paused at line 198
+action: stepIn
+paused at line 235
+action: stepOver
+paused at line 235
+action: stepIn
+paused at line 235
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepOver
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepOver
+paused at line 191
+action: stepOver
+paused at line 198
+action: stepIn
+paused at line 235
+action: stepOver
+paused at line 235
+action: stepIn
+paused at line 235
+action: stepIn
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepOver
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepOver
+paused at line 198
+action: stepIn
+paused at line 235
+action: stepOver
+paused at line 235
+action: stepOver
+paused at line 235
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepOver
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepOver
+paused at line 189
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepIn
+paused at line 192
+action: stepOver
+paused at line 193
+action: stepOver
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepIn
+paused at line 188
+action: stepIn
+paused at line 189
+action: stepIn
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepOver
+paused at line 193
+action: stepIn
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepOver
+paused at line 191
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepIn
+paused at line 189
+action: stepIn
+paused at line 190
+action: stepOver
+paused at line 189
+action: stepOver
+paused at line 198
+action: stepIn
+paused at line 235
+action: stepOver
+paused at line 235
+action: stepIn
+paused at line 235
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepIn
+paused at line 189
+action: stepOver
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepIn
+paused at line 188
+action: stepOver
+paused at line 189
+action: stepOver
+paused at line 189
+action: stepOver
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepIn
+paused at line 188
+action: stepIn
+paused at line 198
+action: stepIn
+paused at line 235
+action: stepOver
+paused at line 235
+action: stepOver
+paused at line 235
+action: stepOver
+paused at line 199
+action: stepOver
+paused at line 192
+action: stepIn
+paused at line 193
+action: stepIn
+paused at line 189
+action: stepOver
+paused at line 190
+action: stepIn
+paused at line 191
+action: stepOver
+paused at line 198
+action: stepOver
+paused at line 199
+action: stepIn
+paused at line 192
+action: stepOver
+paused at line 193
+action: stepOver
+paused at line 189
+action: stepOver
+done with actions

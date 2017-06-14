@@ -1,0 +1,99 @@
+request breakpoint   0 at line   3
+                   set at line   3
+request breakpoint   1 at line   6
+                   set at line   6
+request breakpoint   2 at line  37
+                   set at line  37
+request breakpoint   3 at line  33
+                   set at line  33
+request breakpoint   4 at line  59
+                   set at line  59
+request breakpoint   5 at line  18
+                   set at line  18
+request breakpoint   6 at line  44
+                   set at line  44
+request breakpoint   7 at line  43
+                   set at line  43
+request breakpoint   8 at line  57
+                   set at line  57
+request breakpoint   9 at line  16
+                   set at line  16
+request breakpoint  10 at line  48
+                   set at line  48
+paused at line  26
+	because of breakpoints [0]
+action: stepIn
+paused at line  27
+action: stepIn
+paused at line  28
+action: stepOver
+paused at line  43
+action: stepOver
+paused at line  44
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: stepIn
+paused at line  45
+action: stepOver
+paused at line  44
+action: stepOver
+paused at line  45
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: stepIn
+paused at line  45
+action: stepOver
+paused at line  44
+action: stepIn
+paused at line  45
+action: stepOut
+paused at line  44
+	because of breakpoints [6]
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: stepIn
+paused at line  45
+action: stepIn
+paused at line  44
+action: stepOver
+paused at line  45
+action: stepIn
+paused at line  44
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: stepOut
+paused at line  44
+	because of breakpoints [6]
+action: stepIn
+paused at line  45
+action: stepOut
+paused at line  44
+	because of breakpoints [6]
+action: stepOut
+paused at line  44
+	because of breakpoints [6]
+action: stepIn
+paused at line  45
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: resume
+paused at line  44
+	because of breakpoints [6]
+action: stepIn

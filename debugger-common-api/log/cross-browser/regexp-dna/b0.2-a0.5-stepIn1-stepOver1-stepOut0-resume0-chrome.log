@@ -1,0 +1,123 @@
+request breakpoint   0 at line   6
+                   set at line   8
+request breakpoint   1 at line 1564
+                   set at line 1680
+request breakpoint   2 at line 1697
+                   set at line 1698
+request breakpoint   3 at line 1709
+                   set at line 1710
+paused at line   8
+	because of breakpoints [0]
+action: stepIn
+paused at line 1680
+action: stepIn
+paused at line 1683
+action: stepOver
+paused at line 1693
+action: stepOver
+paused at line 1698
+action: stepOver
+paused at line 1701
+action: stepIn
+paused at line 1702
+action: stepOver
+paused at line 1704
+action: stepOver
+paused at line 1706
+action: stepOver
+paused at line 1706
+action: stepIn
+paused at line 1707
+action: stepOver
+paused at line 1706
+action: stepIn
+paused at line 1707
+action: stepIn
+paused at line 1706
+action: stepOver
+paused at line 1707
+action: stepOver
+paused at line 1706
+action: stepOver
+paused at line 1707
+action: stepOver
+paused at line 1706
+action: stepOver
+paused at line 1707
+action: stepIn
+paused at line 1706
+action: stepIn
+paused at line 1707
+action: stepOver
+paused at line 1706
+action: stepIn
+paused at line 1707
+action: stepOver
+paused at line 1706
+action: stepIn
+paused at line 1707
+action: stepIn
+paused at line 1706
+action: stepIn
+paused at line 1707
+action: stepIn
+paused at line 1706
+action: stepIn
+paused at line 1710
+action: stepOver
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepIn
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepOver
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepOver
+paused at line 1710
+action: stepIn
+paused at line 1711
+action: stepOver
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepIn
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepOver
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepIn
+paused at line 1710
+action: stepIn
+paused at line 1711
+action: stepOver
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepIn
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepOver
+paused at line 1710
+action: stepOver
+paused at line 1711
+action: stepIn
+paused at line 1710
+action: stepIn
+paused at line 1714
+action: stepIn
+paused at line 1715
+action: stepIn
+paused at line 1717
+action: stepOver
+paused at line 1720
+action: stepIn
+paused at line 1721
+action: stepOver

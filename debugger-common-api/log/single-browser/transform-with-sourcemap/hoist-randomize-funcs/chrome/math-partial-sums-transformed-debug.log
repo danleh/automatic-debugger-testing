@@ -1,0 +1,69 @@
+request breakpoint   0 at line   2
+                   set at line  34
+request breakpoint   1 at line   6
+                   set at line   6
+request breakpoint   2 at line  26
+                   set at line  26
+request breakpoint   3 at line  24
+                   set at line  24
+request breakpoint   4 at line  42
+                   set at line  42
+request breakpoint   5 at line  15
+                   set at line  15
+request breakpoint   6 at line  31
+                   set at line  31
+paused at line  34
+	because of breakpoints [0]
+action: stepIn
+paused at line  36
+action: stepIn
+paused at line  36
+action: stepOver
+paused at line  37
+action: stepOver
+paused at line   6
+	because of breakpoints [1]
+action: resume
+paused at line  15
+	because of breakpoints [5]
+action: stepIn
+paused at line  16
+action: stepOver
+paused at line  18
+action: stepOver
+paused at line  19
+action: resume
+paused at line  24
+	because of breakpoints [3]
+action: stepIn
+paused at line  25
+action: stepOver
+paused at line  26
+	because of breakpoints [2]
+action: stepIn
+paused at line  11
+action: stepOut
+paused at line  15
+	because of breakpoints [5]
+action: resume
+paused at line  24
+	because of breakpoints [3]
+action: resume
+paused at line  26
+	because of breakpoints [2]
+action: resume
+paused at line  15
+	because of breakpoints [5]
+action: resume
+paused at line  24
+	because of breakpoints [3]
+action: resume
+paused at line  26
+	because of breakpoints [2]
+action: stepIn
+paused at line  11
+action: stepIn
+paused at line  11
+action: stepOver
+paused at line  12
+action: stepIn

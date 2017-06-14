@@ -1,0 +1,11 @@
+request breakpoint   0 at line   3
+                   set at line   4
+request breakpoint   1 at line  12
+                   set at line  12
+request breakpoint   2 at line  22
+                   set at line  22
+request breakpoint   3 at line  23
+                   set at line  24
+request breakpoint   4 at line  35
+                   set at line  35
+done with actions

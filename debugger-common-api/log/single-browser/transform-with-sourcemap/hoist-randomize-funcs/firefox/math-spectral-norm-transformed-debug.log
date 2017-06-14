@@ -1,0 +1,89 @@
+request breakpoint   0 at line   7
+                   set at line  12
+request breakpoint   1 at line  12
+                   set at line  16
+request breakpoint   1 at line  17
+                   set at line  17
+request breakpoint   2 at line  15
+                   set at line  16
+request breakpoint   2 at line  53
+                   set at line  55
+request breakpoint   3 at line  31
+                   set at line  32
+request breakpoint   4 at line  22
+                   set at line  22
+request breakpoint   5 at line  21
+                   set at line  21
+request breakpoint   6 at line  51
+                   set at line  51
+paused at line  51
+	because of breakpoints [6]
+action: stepIn
+paused at line  52
+action: stepIn
+paused at line  16
+action: stepOver
+paused at line  17
+action: stepOver
+paused at line  18
+action: resume
+paused at line  17
+	because of breakpoints [1]
+action: stepIn
+paused at line  18
+action: stepOver
+paused at line  17
+action: stepOver
+paused at line  18
+action: resume
+paused at line  17
+	because of breakpoints [1]
+action: stepIn
+paused at line  18
+action: stepOver
+paused at line  17
+action: stepIn
+paused at line  18
+action: stepOut
+paused at line  17
+	because of breakpoints [1]
+action: resume
+paused at line  17
+	because of breakpoints [1]
+action: resume
+paused at line  21
+	because of breakpoints [5]
+action: resume
+paused at line  32
+	because of breakpoints [3]
+action: resume
+paused at line  32
+	because of breakpoints [3]
+action: resume
+paused at line  32
+	because of breakpoints [3]
+action: stepIn
+paused at line  33
+action: stepIn
+paused at line  34
+action: stepOver
+paused at line  35
+action: stepIn
+paused at line  12
+action: resume
+paused at line  32
+	because of breakpoints [3]
+action: stepOut
+paused at line  32
+	because of breakpoints [3]
+action: stepIn
+paused at line  33
+action: stepOut
+paused at line  32
+	because of breakpoints [3]
+action: stepOut
+paused at line  32
+	because of breakpoints [3]
+action: stepIn
+paused at line  38
+action: resume

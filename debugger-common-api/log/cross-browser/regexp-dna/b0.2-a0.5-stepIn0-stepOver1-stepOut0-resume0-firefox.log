@@ -1,0 +1,59 @@
+request breakpoint   0 at line   6
+                   set at line   8
+request breakpoint   1 at line 1564
+                   set at line 1680
+request breakpoint   2 at line 1697
+                   set at line 1698
+request breakpoint   3 at line 1709
+                   set at line 1710
+paused at line   8
+	because of breakpoints [0]
+action: stepOver
+paused at line 1680
+action: stepOver
+paused at line 1683
+action: stepOver
+paused at line 1684
+action: stepOver
+paused at line 1685
+action: stepOver
+paused at line 1686
+action: stepOver
+paused at line 1687
+action: stepOver
+paused at line 1688
+action: stepOver
+paused at line 1689
+action: stepOver
+paused at line 1690
+action: stepOver
+paused at line 1691
+action: stepOver
+paused at line 1692
+action: stepOver
+paused at line 1693
+action: stepOver
+paused at line 1698
+action: stepOver
+paused at line 1701
+action: stepOver
+paused at line 1702
+action: stepOver
+paused at line 1704
+action: stepOver
+paused at line 1706
+action: stepOver
+paused at line 1707
+action: stepOver
+paused at line 1710
+action: stepOver
+paused at line 1714
+action: stepOver
+paused at line 1715
+action: stepOver
+paused at line 1717
+action: stepOver
+paused at line 1720
+action: stepOver
+paused at line 1721
+action: stepOver

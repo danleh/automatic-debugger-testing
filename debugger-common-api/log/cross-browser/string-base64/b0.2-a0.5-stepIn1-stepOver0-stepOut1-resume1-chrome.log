@@ -1,0 +1,204 @@
+request breakpoint   0 at line  11
+                   set at line  42
+request breakpoint   1 at line  43
+                   set at line  43
+request breakpoint   2 at line  65
+                   set at line  65
+request breakpoint   3 at line  73
+                   set at line  74
+request breakpoint   4 at line  92
+                   set at line  92
+request breakpoint   5 at line  96
+                   set at line  96
+request breakpoint   6 at line 101
+                   set at line 102
+request breakpoint   7 at line 110
+                   set at line 110
+request breakpoint   8 at line 124
+                   set at line 125
+request breakpoint   9 at line 135
+                   set at line 135
+request breakpoint  10 at line 139
+                   set at line 140
+request breakpoint  11 at line 145
+                   set at line 146
+paused at line  42
+	because of breakpoints [0]
+action: stepIn
+paused at line  43
+action: stepIn
+paused at line  78
+action: stepOut
+paused at line 125
+action: stepOut
+paused at line 140
+action: resume
+paused at line  65
+	because of breakpoints [2]
+action: stepIn
+paused at line  66
+action: resume
+paused at line  74
+	because of breakpoints [3]
+action: stepOut
+paused at line 141
+action: resume
+paused at line  92
+	because of breakpoints [4]
+action: stepIn
+paused at line  95
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: stepIn
+paused at line  99
+action: stepOut
+paused at line 102
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: resume
+paused at line 110
+	because of breakpoints [7]
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepIn
+paused at line 105
+action: stepIn
+paused at line 106
+action: stepOut
+paused at line 110
+action: stepIn
+paused at line 112
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: stepOut
+paused at line 102
+action: stepIn
+paused at line 105
+action: stepOut
+paused at line 110
+action: stepOut
+paused at line  96
+action: stepIn
+paused at line  99
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: stepIn
+paused at line  99
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepOut
+paused at line 110
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: stepOut
+paused at line 102
+action: stepOut
+paused at line 110
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepIn
+paused at line 105
+action: resume
+paused at line 110
+	because of breakpoints [7]
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepIn
+paused at line 105
+action: stepIn
+paused at line 106
+action: stepOut
+paused at line  96
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepIn
+paused at line 105
+action: stepOut
+paused at line 110
+action: stepOut
+paused at line  96
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepOut
+paused at line 110
+action: stepIn
+paused at line 112
+action: stepOut
+paused at line  96
+action: stepIn
+paused at line  99
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepIn
+paused at line 105
+action: stepOut
+paused at line 110
+action: stepOut
+paused at line  96
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepOut
+paused at line  96
+action: stepOut
+paused at line 102
+action: resume
+paused at line 110
+	because of breakpoints [7]
+action: stepOut
+paused at line  96
+action: resume
+paused at line 102
+	because of breakpoints [6]
+action: stepOut
+paused at line 110
+action: stepIn
+paused at line 112
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: stepOut
+paused at line 102
+action: stepIn
+paused at line 105
+action: resume
+paused at line 110
+	because of breakpoints [7]
+action: stepIn
+paused at line 112
+action: resume
+paused at line  96
+	because of breakpoints [5]
+action: stepIn
+paused at line  99
+action: stepIn
+paused at line 100
+action: resume
+done with actions

@@ -1,0 +1,9 @@
+request breakpoint   0 at line   1
+                   set at line   1
+paused at line   1
+	because of breakpoints [0]
+action: stepIn
+paused at line   2
+action: stepIn
+paused at line   3
+action: stepOver

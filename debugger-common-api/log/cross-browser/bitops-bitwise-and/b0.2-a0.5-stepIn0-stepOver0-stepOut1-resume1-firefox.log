@@ -1,0 +1,11 @@
+request breakpoint   0 at line  18
+                   set at line  26
+request breakpoint   1 at line  36
+                   set at line  36
+paused at line  26
+	because of breakpoints [0]
+action: stepOut
+paused at line  36
+action: stepOut
+paused at line  37
+action: resume

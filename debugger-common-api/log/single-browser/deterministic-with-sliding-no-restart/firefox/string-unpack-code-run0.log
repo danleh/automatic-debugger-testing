@@ -1,0 +1,133 @@
+request breakpoint   0 at line   4
+                   set at line  14
+request breakpoint   1 at line   8
+                   set at line  14
+request breakpoint   1 at line  50
+                   set at line  56
+request breakpoint   2 at line  45
+                   set at line  56
+request breakpoint   2 at line  76
+                   set at line  78
+request breakpoint   3 at line  24
+                   set at line  33
+request breakpoint   4 at line  58
+                   set at line  58
+request breakpoint   5 at line  56
+                   set at line  72
+request breakpoint   5 at line  72
+                   set at line  81
+request breakpoint   5 at line  20
+                   set at line  20
+request breakpoint   6 at line  61
+                   set at line  72
+request breakpoint   7 at line  18
+                   set at line  18
+request breakpoint   8 at line  39
+                   set at line  56
+request breakpoint   9 at line  66
+                   set at line  72
+request breakpoint   9 at line  78
+                   set at line  81
+request breakpoint   9 at line  81
+                   set at line  81
+paused at line  14
+	because of breakpoints [1]
+action: stepIn
+paused at line  16
+action: stepIn
+paused at line  18
+action: stepOver
+paused at line  18
+	because of breakpoints [7]
+action: stepOver
+paused at line  18
+	because of breakpoints [7]
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepIn
+paused at line  18
+action: stepOver
+paused at line  18
+action: stepOver
+paused at line  18
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepIn
+paused at line  18
+action: stepOver
+paused at line  18
+action: stepIn
+paused at line  18
+action: stepOut
+paused at line  18
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepIn
+paused at line  18
+action: stepIn
+paused at line  18
+action: stepOver
+paused at line  18
+action: stepIn
+paused at line  18
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepOut
+paused at line  18
+	because of breakpoints [7]
+action: stepIn
+paused at line  18
+action: stepOut
+paused at line  18
+action: stepOut
+paused at line  18
+	because of breakpoints [7]
+action: stepIn
+paused at line  18
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepIn
+paused at line  18
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepOver
+paused at line  18
+action: stepOver
+paused at line  18
+action: stepOver
+paused at line  18
+action: stepOut
+paused at line  18
+	because of breakpoints [7]
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepOver
+paused at line  18
+action: stepIn
+paused at line  18
+action: resume
+paused at line  18
+	because of breakpoints [7]
+action: stepOver
