@@ -18,7 +18,7 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Firefox | ```let```/```const``` variables not shown on step out | https://bugzilla.mozilla.org/show_bug.cgi?id=1362428 | Reported |
 | Firefox | ```let```/```const``` variables change value to ```null``` before reaching declaration | https://bugzilla.mozilla.org/show_bug.cgi?id=1362451 | Reported |
 | Firefox | Pauses twice at single function call breakpoint | https://bugzilla.mozilla.org/show_bug.cgi?id=1370641 | Reported |
-| Firefox | Single step in jumps over ```for of``-loop | https://bugzilla.mozilla.org/show_bug.cgi?id=1362403 | Fixed |
+| Firefox | Single step in jumps over ```for of```-loop | https://bugzilla.mozilla.org/show_bug.cgi?id=1362403 | Fixed |
 | Firefox | Number of steps at ```for```-loop depends on whitespace | https://bugzilla.mozilla.org/show_bug.cgi?id=1363325 | Reported |
 | Firefox | Number of steps at ```while```-loop depends on whitespace | https://bugzilla.mozilla.org/show_bug.cgi?id=1370655 | Reported |
 | Firefox | ```for```-loop variable shown with wrong value | https://bugzilla.mozilla.org/show_bug.cgi?id=1363328 | Reported |
