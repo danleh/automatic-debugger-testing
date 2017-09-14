@@ -30,3 +30,4 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Id | Description | Example Program | Behavior: Chromium | Behavior: Firefox |
 | --- | --- | --- | --- | --- |
 | 1 | Breakpoints at multiline variable init expressions | <pre>var foo = [1,<br>  2,<br>  3];<br>// next stmts</pre> | slides bp in line 2 and 3 to following stmts | possible to set bp at line 2 and 3 |
+| 2 | Breakpoint at `while(true)` | <pre>while(true) {<br>  //some stmt<br>}</pre> | slides bp from line 1 to 2 | allows setting bp at line 1 |
