@@ -25,3 +25,8 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Firefox | Function parameter with same name has wrong value | https://bugzilla.mozilla.org/show_bug.cgi?id=1362432 | Reported |
 | Firefox | Debugger pauses at last statement, even if dead code | https://bugzilla.mozilla.org/show_bug.cgi?id=1370648 | Fixed |
 | Firefox | Two steps needed to show return value at closing brace | https://bugzilla.mozilla.org/show_bug.cgi?id=923975 | Already reported independently |
+
+## Noteworthy Differences (but maybe not Bugs?) between Firefox and Chromium
+| Id | Description | Example Program | Behavior: Chromium | Behavior: Firefox |
+| --- | --- | --- | --- | --- |
+| 1 | Breakpoints at multiline variable init expressions | <pre>var foo = [1,<br>  2,<br>  3];<br>// next stmts</pre> | slides bp in line 2 and 3 to following stmts | possible to set bp at line 2 and 3 |
