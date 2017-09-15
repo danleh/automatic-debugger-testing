@@ -30,5 +30,6 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Id | Description | Example Program | Behavior: Chromium | Behavior: Firefox |
 | --- | --- | --- | --- | --- |
 | 1 | Breakpoints at multiline variable init expressions | <pre>var foo = [1,<br>  2,<br>  3];<br>// next stmts</pre> | slides bp in line 2 and 3 to following stmts | possible to set bp at line 2 and 3 |
-| 2 | Breakpoint at `while(true)` | <pre>while(true) {<br>  // some stmt<br>}</pre> | slides bp from line 1 to 2 | allows setting bp at line 1 |
+| 2 | Breakpoint at `while(true)` or `if(23)` or `if("string")` | <pre>while(true) {<br>  // some stmt<br>}</pre> | slides bp from line 1 to 2 | allows setting bp at line 1 |
 | 3 | Breakpoint sliding empty/comment lines | <pre>// some comment or empty line<br>function(args) {<br>  // some stmt<br>} // ...<br>var foo = 3; // or any other statement</pre> | slides bp from empty line to next top-level statement (i.e., line 5) | slides bp from empty line to next function decl body (line 3) |
+| 4 | Breakpoint at variable declaration without init | <pre>var foo;<br>// some stmt</pre> | bp at line 1 slides to 2 | possible to set bp at line 1 |
