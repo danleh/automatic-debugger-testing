@@ -11,7 +11,7 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Chromium | Inline breakpoint markers missing with multi-line ```for```-loop header | https://bugs.chromium.org/p/chromium/issues/detail?id=719912 | Fixed |
 | Chromium | Inline breakpoint marker missing on ```for```-loop with ```var```-declared variable | https://bugs.chromium.org/p/chromium/issues/detail?id=752443 | Fixed |
 | Chromium | ```let```/```const``` variables not shown before declaration in global scope | https://bugs.chromium.org/p/chromium/issues/detail?id=718827 | Reported |
-| Chromium | Breakpoint in last line wraps around to first statement | https://bugs.chromium.org/p/chromium/issues/detail?id=730177 | Reported |
+| Chromium | Breakpoint in last line wraps around to first statement | https://bugs.chromium.org/p/chromium/issues/detail?id=730177 | Fixed |
 | Firefox | Breakpoint sliding broken if previous breakpoint slided to same line | https://bugzilla.mozilla.org/show_bug.cgi?id=1343060 | Reported |
 | Firefox | Cannot set breakpoint in ```for in```/```for of```-loop without loop variable declaration | https://bugzilla.mozilla.org/show_bug.cgi?id=1362416 | Fixed |
 | Firefox | Cannot remove breakpoint set after last statement | https://bugzilla.mozilla.org/show_bug.cgi?id=1362439 | Reported |
