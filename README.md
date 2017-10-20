@@ -1,6 +1,6 @@
 # Automatic Debugger Testing
 
-Abstract accepted to the [2017 SPLASH ACM Student Research Competition](http://2017.splashcon.org/track/splash-2017-Student-Research-Competition#SRC-Participants).
+Abstract accepted to the [2017 SPLASH ACM Student Research Competition](http://2017.splashcon.org/track/splash-2017-Student-Research-Competition#SRC-Participants). You can also find the [**poster here**](https://github.com/danleh/automatic-debugger-testing/blob/master/poster.pdf).
 
 ## Found Bugs
 
@@ -26,7 +26,7 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Firefox | Debugger pauses at last statement, even if dead code | https://bugzilla.mozilla.org/show_bug.cgi?id=1370648 | Fixed |
 | Firefox | Two steps needed to show return value at closing brace | https://bugzilla.mozilla.org/show_bug.cgi?id=923975 | Already reported independently |
 
-## Noteworthy Differences (but maybe not Bugs?) between Firefox and Chromium
+## Noteworthy Differences (But Possibly Not Bugs) Between Firefox and Chromium
 | Id | Description | Example Program | Behavior: Chromium | Behavior: Firefox |
 | --- | --- | --- | --- | --- |
 | 1 | Breakpoints at multiline variable init expressions | <pre>var foo = [1,<br>  2,<br>  3];<br>// next stmts</pre> | slides bp in line 2 and 3 to following stmts | possible to set bp at line 2 and 3 |
