@@ -29,6 +29,7 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Firefox | Debugger pauses at last statement, even if dead code | https://bugzilla.mozilla.org/show_bug.cgi?id=1370648 | Fixed |
 | Firefox | Two steps needed to show return value at closing brace | https://bugzilla.mozilla.org/show_bug.cgi?id=923975 | Already reported independently |
 | Firefox | Cannot set breakpont at some operators like && and === | https://bugzilla.mozilla.org/show_bug.cgi?id=1417196 | Reported |
+| Firefox | Breakpoint is hit again after a step, line seems to be executed twice | https://bugzilla.mozilla.org/show_bug.cgi?id=1417240 | Reported |
 
 ## Noteworthy Differences (But Possibly Not Bugs) Between Firefox and Chromium
 | Id | Description | Example Program | Behavior: Chromium | Behavior: Firefox |
