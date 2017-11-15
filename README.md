@@ -24,7 +24,7 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Firefox | Single step in jumps over ```for of```-loop | https://bugzilla.mozilla.org/show_bug.cgi?id=1362403 | Fixed |
 | Firefox | Number of steps at ```for```-loop depends on whitespace | https://bugzilla.mozilla.org/show_bug.cgi?id=1363325 | Reported |
 | Firefox | Number of steps at ```while```-loop depends on whitespace | https://bugzilla.mozilla.org/show_bug.cgi?id=1370655 | Reported |
-| Firefox | ```for```-loop variable shown with wrong value | https://bugzilla.mozilla.org/show_bug.cgi?id=1363328 | Reported |
+| Firefox | ```let```-bound variable shown with wrong value from previous scope | https://bugzilla.mozilla.org/show_bug.cgi?id=1363328 | Confirmed |
 | Firefox | Function parameter with same name has wrong value | https://bugzilla.mozilla.org/show_bug.cgi?id=1362432 | Reported |
 | Firefox | Debugger pauses at last statement, even if dead code | https://bugzilla.mozilla.org/show_bug.cgi?id=1370648 | Fixed |
 | Firefox | Two steps needed to show return value at closing brace | https://bugzilla.mozilla.org/show_bug.cgi?id=923975 | Already reported independently |
