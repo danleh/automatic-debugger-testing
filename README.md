@@ -18,8 +18,8 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 | Firefox | Breakpoint sliding broken if previous breakpoint slided to same line | https://bugzilla.mozilla.org/show_bug.cgi?id=1343060 | Reported |
 | Firefox | Cannot set breakpoint in ```for in```/```for of```-loop without loop variable declaration | https://bugzilla.mozilla.org/show_bug.cgi?id=1362416 | Fixed |
 | Firefox | Cannot remove breakpoint set after last statement | https://bugzilla.mozilla.org/show_bug.cgi?id=1362439 | Reported |
-| Firefox | ```let```/```const``` variables not shown on step out | https://bugzilla.mozilla.org/show_bug.cgi?id=1362428 | Reported |
-| Firefox | ```let```/```const``` variables change value to ```null``` before reaching declaration | https://bugzilla.mozilla.org/show_bug.cgi?id=1362451 | Reported |
+| Firefox | ```let```/```const``` variables not shown on step out | https://bugzilla.mozilla.org/show_bug.cgi?id=1362428 | Confirmed |
+| Firefox | ```let```/```const``` variables change value to ```null``` before reaching declaration | https://bugzilla.mozilla.org/show_bug.cgi?id=1362451 | Confirmed |
 | Firefox | Pauses twice at single function call breakpoint | https://bugzilla.mozilla.org/show_bug.cgi?id=1370641 | Reported |
 | Firefox | Single step in jumps over ```for of```-loop | https://bugzilla.mozilla.org/show_bug.cgi?id=1362403 | Fixed |
 | Firefox | Number of steps at ```for```-loop depends on whitespace | https://bugzilla.mozilla.org/show_bug.cgi?id=1363325 | Reported |
