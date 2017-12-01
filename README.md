@@ -10,7 +10,7 @@ Will be updated as soon as more bugs are found or reported ones get confirmed an
 
 | Browser | Description of the Bug | Bugtracker Link | Status |
 | --- | --- | --- | --- |
-| Chromium | Breakpoint slides over function and to next variable declaration instead | https://bugs.chromium.org/p/chromium/issues/detail?id=784852 | Reported |
+| Chromium | Breakpoint slides over function and to next variable declaration instead | https://bugs.chromium.org/p/chromium/issues/detail?id=784852 | Fixed |
 | Chromium | Inline breakpoint markers missing with multi-line ```for```-loop header | https://bugs.chromium.org/p/chromium/issues/detail?id=719912 | Fixed |
 | Chromium | Inline breakpoint marker missing on ```for```-loop with ```var```-declared variable | https://bugs.chromium.org/p/chromium/issues/detail?id=752443 | Fixed |
 | Chromium | ```let```/```const``` variables not shown before declaration in global scope | https://bugs.chromium.org/p/chromium/issues/detail?id=718827 | Reported |
