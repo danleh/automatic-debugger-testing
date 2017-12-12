@@ -86,13 +86,13 @@ function cordicsincos(Target) {
 var total = 0;
 
 function cordic( runs ) {
-  var start = new Date();
+  var start = new Date(1);
 
   for ( var i = 0 ; i < runs ; i++ ) {
       total += cordicsincos(Target);
   }
 
-  var end = new Date();
+  var end = new Date(0);
 
   return end.getTime() - start.getTime();
 }

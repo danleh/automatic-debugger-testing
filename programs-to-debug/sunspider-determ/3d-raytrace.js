@@ -312,7 +312,7 @@ Camera.prototype.render = function(scene, pixels, width, height) {
 
 function raytraceScene()
 {
-    var startDate = new Date().getTime();
+    var startDate = new Date(0).getTime();
     var numTriangles = 2 * 6;
     var triangles = new Array();//numTriangles);
     var tfl = createVector(-10,  10, -10);
