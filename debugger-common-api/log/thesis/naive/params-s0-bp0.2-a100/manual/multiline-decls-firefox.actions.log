@@ -1,9 +1,0 @@
-Set Breakpoint at 1
-Set Breakpoint at 3
-Set Breakpoint at 12
-resume
-resume
-stepOver
-stepOver
-stepOut
-resume

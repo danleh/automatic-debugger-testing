@@ -1,7 +1,0 @@
-Browser,SunSpider testcase,# diff lines/combination
-firefox,3d-cube,0.0026642984014209592
-firefox,3d-morph,0.0
-firefox,3d-raytrace,0.12145328719723184
-firefox,crypto-md5,0.032117583015786606
-firefox,date-format-tofte,0.0
-firefox,date-format-xparb,0.0

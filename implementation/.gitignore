@@ -1,0 +1,8 @@
+/.idea/
+/node_modules/
+/build/
+.Rhistory
+/log/**/*.pdf
+/results/**/*.pdf
+/log/**/.RData
+/src/eval/test.ts

@@ -1,8 +1,0 @@
-	Hit Breakpoint(s) 
-	Call Stack: sieve 
-	Bindings: i: undefined
-		isPrime: undefined
-	Hit Breakpoint(s) 
-	Call Stack: sieve 
-	Bindings: i: number = 4
-		isPrime: array

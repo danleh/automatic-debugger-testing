@@ -1,8 +1,0 @@
-Breakpoint 0 Set at 3
-Paused at 3
-	Hit Breakpoint(s) 0
-	Call Stack: f 
-	Bindings: a: number = 1
-		b: number = 2
-		i: undefined
-		x: undefined
