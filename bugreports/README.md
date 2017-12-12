@@ -1,4 +1,4 @@
-## Reported Bugs
+# Reported Bugs
 
 As of 2017-12-12:
 
@@ -25,7 +25,10 @@ As of 2017-12-12:
 | Firefox | Cannot set breakpont at some operators like && and === | https://bugzilla.mozilla.org/show_bug.cgi?id=1417196 | Reported |
 | Firefox | Breakpoint is hit again after a step, line seems to be executed twice | https://bugzilla.mozilla.org/show_bug.cgi?id=1417240 | Reported |
 
-## Noteworthy Differences (But Possibly Not Bugs) Between Firefox and Chromium
+## Noteworthy Differences
+
+Differences but possibly not bugs (rather unspecified behavior) between Firefox and Chromium debuggers. Not updated regularly.
+
 | Id | Description | Example Program | Behavior: Chromium | Behavior: Firefox |
 | --- | --- | --- | --- | --- |
 | 1 | Breakpoints at multiline variable init expressions | <pre>var foo = [1,<br>  2,<br>  3];<br>// next stmts</pre> | slides bp in line 2 and 3 to following stmts | possible to set bp at line 2 and 3 |
