@@ -35,6 +35,7 @@
     "ws": "^1.1.1"
   },
   "scripts": {
+  	"download-and-extract-browsers": "cd browsers; sh download-and-extract.sh",
     "build": "tsc",
     "chrome": "browsers/chromium-59/chrome --temp-profile --remote-debugging-port=9222 --no-first-run --no-default-browser-check about:blank",
     "firefox": "browsers/firefox-54/firefox -profile browsers/firefox-profile --start-debugger-server ws:6080 -no-remote -url about:blank"
