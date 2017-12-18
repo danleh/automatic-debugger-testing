@@ -15,22 +15,9 @@ import * as fs from "fs";
 import { Difference, GlobalResults, NoDifference, Parameters, RunResults } from "./results";
 import seedrandom = require("seedrandom");
 
-const maxSeed = 2;
-// const maxSeed = 50;
+const maxSeed = 1;
 const paramsValues = [
     new Parameters(0.1, 0.2, 20),
-
-    // new Parameters(0.05, 0.2, 20),
-    // new Parameters(0.2, 0.2, 20),
-    // new Parameters(0.5, 0.2, 20),
-
-    // new Parameters(0.1, 0.05, 20),
-    // new Parameters(0.1, 0.1, 20),
-    // new Parameters(0.1, 0.5, 20),
-
-    // new Parameters(0.1, 0.2, 10),
-    // new Parameters(0.1, 0.2, 50),
-    // new Parameters(0.1, 0.2, 100),
 ];
 
 async function main() {
@@ -40,8 +27,7 @@ async function main() {
         const globalResults = new GlobalResults(params, "appendHeader");
         for (let testcase of testcases) {
             const scriptSource = fs.readFileSync(`${testcasesPath}/${testcase}.js`, "utf-8");
-            // for (let seed = 0; seed < maxSeed; seed++) {
-            { let seed = 23;
+            for (let seed = 0; seed < maxSeed; seed++) {
                 const rng = seedrandom(seed);
 
                 const chrome = await ChromeBrowser.debugScript(scriptSource);
