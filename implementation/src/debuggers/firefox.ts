@@ -20,7 +20,7 @@ const maxFirefoxRunsUntilRestart = 50;
 
 export const FirefoxBrowser: Browser = {
     async start(): Promise<void> {
-        spawn("/home/daniel/.nvm/versions/node/v7.4.0/bin/node", ["/usr/share/yarn/bin/yarn.js", "firefox"]);
+        spawn("yarn", ["firefox"]);
         await delay(6000);
     },
 
