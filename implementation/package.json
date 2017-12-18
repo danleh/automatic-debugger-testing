@@ -15,8 +15,6 @@
   "dependencies": {
     "ast-types": "^0.9.6",
     "chrome-remote-interface": "^0.17.1",
-    "devtools-modules": "^0.0.14",
-    "devtools-sham-modules": "^0.0.12",
     "escodegen": "^1.8.1",
     "esmangle": "^1.0.1",
     "esmorph": "^0.0.1",
@@ -25,8 +23,6 @@
     "fs-extra": "^2.0.0",
     "line-column": "^1.0.2",
     "prompt-promise": "^1.0.3",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
     "recast": "^0.12.0",
     "seedrandom": "^2.4.2",
     "set2": "^1.0.0",
