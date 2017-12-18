@@ -2,5 +2,4 @@
 /build/
 /browsers/
 !/browsers/download-and-extract.sh
-!/browsers/firefox-profile/prefs.js
 /results/
