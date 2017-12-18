@@ -1,16 +1,15 @@
 {
-  "name": "debugger-common-api",
+  "name": "automatic-debugger-testing",
   "version": "0.0.1",
   "repository": {},
-  "main": "build/index.js",
-  "author": "Daniel Lehmann <daniel.lehmann@stud.tu-darmstadt.de>",
+  "main": "build/eval/run-tests.js",
+  "author": "Daniel Lehmann <daniel.lehmann@crisp-da.de>",
   "license": "MIT",
   "engines": {
     "node": ">=6.9.2"
   },
   "devDependencies": {
     "@types/node": "^7.0.3",
-    "tslint": "^4.3.1",
     "typescript": "^2.1.5"
   },
   "dependencies": {
@@ -40,11 +39,8 @@
     "ws": "^1.1.1"
   },
   "scripts": {
-    "start": "node build/index.js",
     "build": "tsc",
-    "lint": "tslint src/*.ts",
-    "chrome": "chromium-browser --temp-profile --remote-debugging-port=9222 --no-first-run --no-default-browser-check about:blank",
-    "firefox": "firefox -P tmp --start-debugger-server ws:6080 -no-remote -url about:blank",
-    "firefox56": "/opt/firefox-56/firefox -P tmp --start-debugger-server ws:6080 -no-remote -url about:blank"
+    "chrome": "browsers/chromium-59/chrome --temp-profile --remote-debugging-port=9222 --no-first-run --no-default-browser-check about:blank",
+    "firefox": "browsers/firefox-54/firefox -profile browsers/firefox-profile --start-debugger-server ws:6080 -no-remote -url about:blank"
   }
 }
