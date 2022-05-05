@@ -1,6 +1,11 @@
 # Automatic Debugger Testing
 
-Testing interactive JavaScript debuggers by randomly generating _debugging actions_ (breakpoints, steps, etc.) and comparing their outputs against each other (== _differential testing_).
+This is a prototype implementation for testing interactive JavaScript debuggers by randomly generating _debugging actions_ (breakpoints, steps, etc.) and comparing their outputs against each other (== _differential testing_).
+
+See the related publications at https://dlehmann.eu/#publications, in particular
+
+- **Feedback-Directed Differential Testing of Interactive Debuggers** at ESEC/FSE 2018, and
+- **Interactive Metamorphic Testing of Debuggers** at ISSTA 2019.
 
 ## Example Debugger Bug We Found
 
